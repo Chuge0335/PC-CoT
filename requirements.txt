@@ -1,0 +1,11 @@
+pytorch
+sentence-transformers
+pandas
+scipy
+openai==0.28.0
+openpyxl
+scikit-learn
+tabulate
+defopt
+pyyaml
+ray

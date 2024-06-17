@@ -1,0 +1,226 @@
+id	text	label
+374	can i have a reminder set up	reminder_update
+689	what's the status of my vacation days	pto_request_status
+1418	do i have enough points to for a redemption	redeem_rewards
+698	turn on the microwave for 3 minutes	smart_home
+993	i no longer need to wash dishes; take it of my list	todo_list_update
+1379	what's the annual rate on my discover card	apr
+1147	open yesterday's last payment	transactions
+381	were you born in the 80s	how_old_are_you
+2194	what all is in gumbo	ingredients_list
+1143	where should i book my next trip	travel_suggestion
+1085	can you make a reservation at michael's	accept_reservations
+1595	who pay your salary	who_do_you_work_for
+642	i'm hungry, where should i go	restaurant_suggestion
+611	i've got some chips from monday, will they still be ok to eat	food_last
+5	is the friday's full after 4	how_busy
+803	is milk one of the things i need to buy	shopping_list
+42	i need to know the name of my current location for the tow truck	current_location
+371	what decent restaurants around here are italian	restaurant_suggestion
+19	i need to make sure there is a reservation for george at connor oneil's	confirm_reservation
+1925	how can i get a new card that got melted in the sun	damaged_card
+1645	remind me in (x) hours	timer
+517	what are some good vegan restaurants in broadripple	restaurant_suggestion
+1792	tell me a pun	tell_joke
+1097	will you make sure robert has a reservation at ruth's steakhouse	confirm_reservation
+140	what is the most time i can keep a burrito frozen for before it's no good to eat	food_last
+1060	tell me about yourself	what_is_your_name
+1356	can you suggest a thai restaurant	restaurant_suggestion
+1610	can you suggest a french restaurant, please	restaurant_suggestion
+1587	i want you to repord my card as lost	report_lost_card
+586	what are good restaurants in reno that serve sushi	restaurant_suggestion
+1005	which restaurants in reno are good for sushi	restaurant_suggestion
+1087	whats the title of this	what_song
+2029	show me all video games purchased	transactions
+1729	6 inch voices please	whisper_mode
+1054	facts	yes
+2218	how do i share where i am, with another person	share_location
+508	when is my cards end month	expiration_date
+883	how many sick, personal, and vacation days have i billed so far this year	pto_used
+1633	where is your original location	where_are_you_from
+2034	i want to eat out, where should i go	restaurant_suggestion
+1275	i need the cooking length for a turkey	cook_time
+236	does bank of america give credit cards to people like me	new_card
+782	i would love to find a few vegan restaurants in back bay	restaurant_suggestion
+1133	i need to pay the smallest amount on my phone bill	min_payment
+53	what's the title of this	what_song
+1409	what is the form i need to report my earnings	w2
+1442	where would you eat italian in chicago	restaurant_suggestion
+354	what octaine is recommended for this car	gas_type
+333	what is needed to cook lasagna	ingredients_list
+1423	is paprika listed on my shopping list, please add it	shopping_list_update
+910	i'm finished with my to do list	todo_list_update
+1484	sure thing	yes
+933	walk me through reward redemption from my barclay's card	redeem_rewards
+527	tell me the credit on my mastercard	credit_limit
+2198	contact avis and see if they have cars available	car_rental
+731	i will be calling hr	make_call
+1660	if you can do accents, i want to hear you talk like david bowie	change_accent
+305	how much money was deposited to my bank account from my employer this month	income
+411	what is the best way to remove this appointment	calendar_update
+178	what's the status on my vacation days	pto_balance
+833	what do i set the timer for if i'm making gyoza	cook_time
+73	thanks for letting me know	thank_you
+1578	tell jim i'm coming home soon	text
+714	that would be great	yes
+1922	what do i need to do to cook a chicken	recipe
+2168	what foods do i buy to put into a korean dinner	ingredients_list
+1389	will the amount in my chase bank account right now cover the cost of a new dryer	balance
+678	i have a bs transaction from ebay on my account	report_fraud
+316	what is the balance on my visa	balance
+110	does ihop have a lot of business around 7 am	how_busy
+472	what do i need to do to make blackberry pie	recipe
+2129	speak up	change_volume
+1292	rescind	cancel
+1173	make sure to put extra paint on the list	shopping_list_update
+1343	can you find a keto friendly restaurant	restaurant_suggestion
+1055	your efforts don't go unnoticed	thank_you
+555	john is my name	change_user_name
+1483	can you please unlock my bank account	account_blocked
+442	how many days on holiday do i have	pto_balance
+956	i'd like to take a vacation day from 2/24 to 2/25	pto_request
+378	have i gotten around to adding the bike ride to my calendar yet	calendar
+1311	do i have butter on my list	shopping_list
+913	where's a good place to get some grub	restaurant_suggestion
+1814	what should i use the points from my credit card on	redeem_rewards
+1104	what is the expiration date for those eg	food_last
+2057	is there a good fish place in salem	restaurant_suggestion
+2053	give me current gps coordinates to my sister	share_location
+1294	tell me the steps to getting my credit score	credit_score
+904	what are my finances like lately	spending_history
+2048	can my credit limit on my discovery card go up	credit_limit_change
+729	how much pto have i accrued	pto_balance
+1852	let carl know that he sucks	text
+1403	message mom where are you	text
+197	do i have enough funds in my card	card_declined
+129	repeat my to do list	todo_list
+1927	can you tell me how much cash i have	balance
+1057	please find the receipt date for my last paycheck	payday
+1639	is a meeting with ruth on my schedule today	meeting_schedule
+2202	what are the rules for traveling with toothpaste	carry_on
+1617	do i have pepper my shopping list, if not add it	shopping_list_update
+860	where were you processed	where_are_you_from
+461	i would like you to think of yourself as machine and answer when i say your name as such	change_ai_name
+1397	has visa gotten back to me regarding my card app	application_status
+1869	x is waiting for me to call	make_call
+1066	on what day is my meeting with dr lee	meeting_schedule
+515	how many vacation and sick days have i taken	pto_used
+1250	if you were traveling to indonesia, as i am, would you have your shots updated before your visit	vaccines
+1384	what is the process of making a vacation request	pto_request
+2091	are you an automated assistance	are_you_a_bot
+2128	check reservation availability for 2 at red lobster at 8pm	restaurant_reservation
+1566	warm up my car for me	smart_home
+145	i need to know what the most recent update is on the status of my online purchase	order_status
+2062	are you able to track a phone	find_phone
+1269	call my phone, i can't find it	find_phone
+1656	what should i refer to you as	what_is_your_name
+1779	how long does it take to get a table at chili's	how_busy
+1744	track the status of my purchase	order_status
+1128	where are the best places to eat	restaurant_suggestion
+162	what is the year to date total on my vacation days	pto_balance
+1002	what do i go by	user_name
+1374	tell me what to enter into my gps for my current location	current_location
+531	did i tell you to remind me about laundry	reminder
+874	how long would i have to wait if i want to go to golden corral	how_busy
+1506	how many days until i am off	next_holiday
+322	i want to know how nutritious an avocado typically is	nutrition_info
+2065	is unleaded ok or should i use premium	gas_type
+1920	what did i do with my phone	find_phone
+1127	how clogged are the streets before the stadium	traffic
+83	put a tire inspection on my schedule please	schedule_maintenance
+807	please put lawn mowing on my list of to dos	todo_list_update
+1259	is there a way to raise my mastercard credit	credit_limit_change
+1606	when do i have to pay my internet	bill_due
+1842	what are my insurance rewards	insurance
+410	what can i address you	what_is_your_name
+1864	i want to call up jan	make_call
+1713	where are my rewards for my chase card	rewards_balance
+1924	is there a minimum gas grade this car needs	gas_type
+446	diy oil change	oil_change_how
+1978	what do i do with a damaged credit card	damaged_card
+2076	tell me today's scheduled conferences from noon on wards	meeting_schedule
+857	give me your name	what_is_your_name
+1440	bella needs to be called	make_call
+1499	i need assistance with my current location	current_location
+278	where should we eat tonight	restaurant_suggestion
+845	i need to do laundry later today	todo_list_update
+2237	i need to talk to someone on the phone	make_call
+389	how do i get my rewards balance on my diner's club card	rewards_balance
+1992	so where did you live when you were a baby	where_are_you_from
+1258	what is the schedule for my next oil change	oil_change_when
+1569	what is you name	what_is_your_name
+1952	what are they paying me at work right now	income
+1007	what's my oil change status	oil_change_when
+445	can my debit card be replaced quickly	replacement_card_duration
+30	my card is impaired and i can't use it	damaged_card
+1136	great	yes
+685	what are my coordinates	current_location
+1786	my stolen card needs to be reported	report_lost_card
+318	how much is my maximum to spend on credit cards	credit_limit
+1994	you know procedure to cook apple pie	recipe
+1979	how much country of canada money would i get for $100	exchange_rate
+1700	what do my pto days amount to	pto_balance
+646	what is the meaning of realism	definition
+1246	what is the amount of my taken off days so far	pto_used
+813	do you change the oil in your car more than once a year	oil_change_when
+1451	i spent what dollar amount last month on mastercard	transactions
+1249	can you give me the answers in italian instead of english	change_language
+1589	will i need to renew my credit card soon	expiration_date
+1529	can you wake me up at noon	alarm
+1474	please help me set up a vacation request	pto_request
+213	answer me in french	change_language
+1567	tell me when ninety minutes have passed	timer
+820	what other accents can you use	change_accent
+1414	what is the status of my purchase	order_status
+1914	do i have a reservation for may 1st, 2019 at 4 pm	confirm_reservation
+796	im not gonna need the dinner reservation	cancel_reservation
+810	how much is the least i can pay for power bill	min_payment
+2185	my meeting with alice is scheduled for when	meeting_schedule
+1081	let’s chat using spanish	change_language
+94	get me my slow sounds	play_music
+1026	place a marker for me where i am on the map	current_location
+426	tell me your name	what_is_your_name
+153	if i go to evans, what should i do	travel_suggestion
+1671	i would like to know my vacation days balance	pto_balance
+1997	whats your name by the way	what_is_your_name
+702	tell carl that he sucks	text
+419	can we wire some money over to the other account i have	transfer
+14	can i harm my credit if i miss a car payment	improve_credit_score
+1003	my current location	current_location
+29	i'd like for you to make sure my reservation is there for charlie's under jack	confirm_reservation
+1028	i need trip to the zoo on the calendar for june 4	calendar_update
+2214	how to report bent credit card	damaged_card
+1749	do i have enough vacation to take a european trip	pto_balance
+2147	how much does my water and electricity cost	bill_balance
+1789	how many days did i take off	pto_used
+192	how should i refer to you	what_is_your_name
+1335	how do i see me rewards for my chase card	rewards_balance
+27	count the number of vacation days i've taken and tell me	pto_used
+1021	and your name is	what_is_your_name
+231	should i take my car to a maintenance	schedule_maintenance
+48	when was the car last services	last_maintenance
+401	can you get me recipes for eggs please	recipe
+2064	is it possible to make a reservation at sushi king in virginia beach	accept_reservations
+427	how many days did i skip work	pto_used
+1000	is my at&t bill do soon	bill_due
+1257	what name do you use when addressing me	user_name
+907	increase your voice box	change_volume
+2243	how many pto days are available	pto_balance
+1796	in aiken, get me a rental for may 12 to may 16	car_rental
+1130	is the limit on my visa card able to be increased	credit_limit_change
+443	i need to report my stolen card	report_lost_card
+1074	please calculate my vacation time	pto_balance
+2038	where did they make you	where_are_you_from
+592	how much do i need to pay for my electricity and water bills	bill_balance
+89	find a good recipe for meatloaf	recipe
+822	credit limit	credit_limit
+2160	how can i cash in on the rewards i earned through my american express card	redeem_rewards
+516	is it six o clock yet	time
+328	how do i use my card reward points for my next flight	redeem_rewards
+386	would i need new tires if my last purchase was in may of 2018	tire_change
+1571	continue to next song on the playlist	next_song
+267	do i have graham crackers on my shopping list if not please add it	shopping_list_update
+1591	would you like to introduce yourself	what_is_your_name
+1780	how can i contribute to my credit score	improve_credit_score
+1468	can you tell me the low tonight	weather
+626	check my calendar for march 4th 2019, please	calendar

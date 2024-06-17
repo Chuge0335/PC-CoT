@@ -1,0 +1,51 @@
+fewshot_top2_classify: 
+  sys: "Below is a text classification problem, please complete the sentence by \"{label1}\" or \"{label2}\":\n"
+  demo: "SENTENCE: {text}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nLABEL: "
+
+fewshot_cot_top2_classify: 
+  sys: "Below is a text classification problem. Let's think step by step and give your explanation to verify which term is more likely to represent the label of sentence - \"{label1}\" or \"{label2}\":\n"
+  demo: "SENTENCE: {text}\nEXPLANATION: {explain}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nEXPLANATION: "
+
+fewshot_classify: 
+  sys: "Below is a text classification problem, Note that you can only select label in {options}\n"
+  demo: "SENTENCE: {text}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nLABEL: "
+
+fewshot_cot_classify: 
+  sys: "Below is a text classification problem, Note that you can only select label in {options}. Let's think step by step and give your explanation to verify the answer.\n"
+  demo: "SENTENCE: {text}\nEXPLANATION: {explain}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nEXPLANATION: "
+
+fewshot_cot_classify2: 
+  sys: "Below is a text classification problem, Please select the most possible label in {options}, or a few if unsure. Let's think step by step and give your explanation to verify the answer.\n"
+  demo: "SENTENCE: {text}\nEXPLANATION: {explain}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nEXPLANATION: "
+
+fewshot_topn_classify: 
+  sys: "Below is a text classification problem, Note that you can only select label in {topn_label}\n"
+  demo: "SENTENCE: {text}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nLABEL: "
+
+fewshot_cot_topn_classify: 
+  sys: "Below is a text classification problem, Note that you can only select label in {topn_label}. Let's think step by step and give your explanation to verify the answer.\n"
+  demo: "SENTENCE: {text}\nEXPLANATION: {explain}\nLABEL: {label}\n\n"
+  query: "SENTENCE: {text}\nEXPLANATION: "
+
+fewshot_demonstraion:
+  sys: "Below is a text classification problem:\n"
+  query: "Question: What is the most possible topic of the following setence: {text}?\nOptions: {options}\n. Following the above question, please generate five sentences with its answer label within the same Options.\nNote that each setence should be complete and can be labeled independently."
+  format: "Please output in the following form: \nQuestion: What is the most possible topic of the following setence: text\nLABEL: label\n\n"
+
+fewshot_cot_demonstraion:
+  sys: "Below is a text classification problem:\n"
+  query: "Question: What is the most possible topic of the following setence: {text}?\nOptions: {options}\nFollowing the above question, please generate five sentences with step by step reasoning process and its integer answer label within the same Options.\nNote that each setence should be complete and can be labeled independently."
+  format: "Please output in the following form: \nQuestion: What is the most possible topic of the following setence: text\nEXPLANATION: explanation\nLABEL: label\n\n"
+
+fewshot_cot_explain: 
+  sys: "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:"
+  demo: "SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. "
+  query: "SENTENCE: {text}\nLABEL: {label}\nEXPLANATION: "
+
+

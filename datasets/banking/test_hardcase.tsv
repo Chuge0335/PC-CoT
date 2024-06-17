@@ -1,0 +1,309 @@
+id	text	label
+1776	virtual card is not working for me	virtual_card_not_working
+2709	What happened to my top-up?	top_up_reverted
+815	How can I verify my indentity?	verify_my_identity
+1394	Do I need to verify my identity each time I wish to use my account?	why_verify_identity
+1448	My transfer hasn't gone through yet.	pending_transfer
+2215	The app will not let me into my account.	unable_to_verify_identity
+1273	I was trying to use my virtual card at a merchant and it was rejected. How can I fix this?	virtual_card_not_working
+129	I don't want the transaction to go through now	cancel_transfer
+1035	How can I fix a problem where my virtual card is rejected?	virtual_card_not_working
+852	Someone has my card number, freeze my account.	compromised_card
+1565	How long until my transfer goes through?	transfer_timing
+366	I just got my new card but am not sure how to check its PIN.	get_physical_card
+2595	Is there a trick to get the disposable virtual card to work?	virtual_card_not_working
+1713	How can I get my card back out?	card_swallowed
+2804	I had a transfer blocked	beneficiary_not_allowed
+875	I was retrieving money and my card wouldn't remove.	card_swallowed
+1024	My transaction was just declined when I was using my disposable virtual card. What can I do?	virtual_card_not_working
+1376	What methods can I use to add money to my account?	transfer_into_account
+1678	Where do I need to go in the app to enter my card info?	card_linking
+273	im so mad right now. theres several charges that I think my x boyfriend made on my card. the companys on the website wouldn't refund me my money, they told me to contact my bank. DO something please.	direct_debit_payment_not_recognised
+2096	what does pending mean?	pending_card_payment
+124	I have a top up that didn't go through.  Why?	top_up_failed
+2716	There is a fraudulent charge on my statement.	card_payment_not_recognised
+2515	My account is blocked, how do I log in now	pin_blocked
+1818	I bought something overseas and the wrong exchange rate is on my statement.	card_payment_wrong_exchange_rate
+2677	Will you reinstate my PIN?	pin_blocked
+234	When will my transfer be available in my account.	balance_not_updated_after_bank_transfer
+1584	what is this charge on my account	direct_debit_payment_not_recognised
+2594	There is an incoming payment into my account, but it is deactivated. Will they still be processed?	fiat_currency_support
+2179	When will the transfer be completed?	pending_transfer
+1977	What credit cards are supported?	supported_cards_and_currencies
+2410	I do not have what is required to prove my identity	unable_to_verify_identity
+1721	How long does a transfer take to be confirmed?	pending_transfer
+2803	I believe my card payment exchange rate is incorrect.	card_payment_wrong_exchange_rate
+77	I transferred money yesterday, but it still isn't available?	pending_transfer
+898	Do I need to establish I am paid in GBP before a transfer?	receiving_money
+223	How do I locate my card?	card_arrival
+2457	how much you charge for exhcange	exchange_charge
+272	I really need money from my card today, but my card is getting declined. Please help!!	top_up_failed
+2928	areas card is accpeted	card_acceptance
+1280	Why is my virtual card is being declined?	virtual_card_not_working
+2426	I need some help with identity verification.	verify_my_identity
+2271	Double check your funds may be declined	declined_transfer
+2353	When getting my ID checked, what are the steps involved?	verify_my_identity
+2440	what is the process for setting up a pin	get_physical_card
+2141	How long does a transfer take from the point it's sent, to the point it arrives in my account?	transfer_timing
+2478	Can friends add to my account	topping_up_by_card
+607	Can I change the amount I made on a payment that I made to the payment is correct.	cancel_transfer
+803	Where can I receive my card?	order_physical_card
+1820	If I want to exchange currency, will there be extras?	exchange_charge
+2607	Why won't my card show up on the app?	card_linking
+2370	My card doesn't accept any transaction at all. What's wrong??	card_not_working
+3051	I don't think my card payment exchange rate is correct.	card_payment_wrong_exchange_rate
+171	Where can I find your locations?	country_support
+1863	How can I get a real-life card of my own?	order_physical_card
+1794	Why is my disposable virtual card being denied?	virtual_card_not_working
+1517	How does my identity get verified?	verify_my_identity
+1147	I was taking out funds and was unable to regain my card.	card_swallowed
+2577	I cannot make transactions with my virtual card.	virtual_card_not_working
+2349	what is the identity check?	why_verify_identity
+1011	I have an unauthorized transaction on my statement	card_payment_not_recognised
+2318	I bought something and returned it and the money from the return isn't in my account.	Refund_not_showing_up
+2431	I need help getting the virtual card to work.	virtual_card_not_working
+1998	What is the purpose for the identity check	why_verify_identity
+1766	I would like to refill my account using SWIFT.	top_up_by_bank_transfer_charge
+2626	So I just put my top-up into the card and it hasn't changed.	pending_top_up
+2737	How do I show this stupid system that this is really my identity?	unable_to_verify_identity
+1216	Can you explain the virtual cards limit?	disposable_card_limits
+1970	How do I get my disposable virtual card to work?	virtual_card_not_working
+2516	I think my statement has a fraudulent charge	card_payment_not_recognised
+1965	What is needed to prove my identity?	verify_my_identity
+1518	Why can't I use my virtual card for subscription services?	virtual_card_not_working
+319	I don't know where this transaction came from?	card_payment_not_recognised
+588	I want a refund because my package has been taking too long to arrive. How do I go about doing that?	request_refund
+1144	How long is it going to take for my funds to show in my account?	transfer_timing
+779	My money transfer has not arrived.	transfer_not_received_by_recipient
+729	Why didn`t my topup go through?	top_up_failed
+2399	Will filling stations accept my card?	card_acceptance
+1440	Is there a way my new card can be renewed?	activate_my_card
+2732	Some of my card payments look different than where I purchased products from. Why is that?	card_payment_not_recognised
+479	Will you accept my other card?	supported_cards_and_currencies
+1391	Since my id hasn't been verified, when can I use my account?	why_verify_identity
+226	Where is my transfer from [country]?	balance_not_updated_after_bank_transfer
+2068	When will my funds transfer?	transfer_not_received_by_recipient
+2909	How long until my transfer will be available to me	balance_not_updated_after_bank_transfer
+2292	the card payment exchange rate is wrong	card_payment_wrong_exchange_rate
+1555	I need to verify my identity	verify_my_identity
+1467	I followed the instructions to transfer money using my card, but then the money disappeared and I don't know what happened.	topping_up_by_card
+943	I'm out of money, can I add money with my bank?	transfer_into_account
+2519	I cannot find my credit card.	lost_or_stolen_card
+657	Hi, I have been overcharged for my payment last Saturday. I guess exchange rate was wrong.	card_payment_wrong_exchange_rate
+2439	help me with my transfer	failed_transfer
+209	How long do card transactions take to clear?	pending_card_payment
+1978	I need support options, I want to top my card	supported_cards_and_currencies
+2299	Where is the transfer I started?	transfer_not_received_by_recipient
+500	I am missing some funds from my account - I tried to transfer them using my credit card number, and it disappeared.	topping_up_by_card
+2372	I tryed to make a top-up with cryptocurrency but the payment was referted.	top_up_reverted
+311	How can I start using my card?	activate_my_card
+2903	why did the app refuse to make an approved payment	reverted_card_payment?
+1416	Why was a transaction on my card declined?	declined_card_payment
+330	I see a charge on my account that I don't recall making. I feel like my account may have been compromised.	card_payment_not_recognised
+600	I'm in Spain and my stuff has been stolen. My card was with it and I need a new one shipped and the old one frozen.	lost_or_stolen_card
+1420	When will my transfer go through?	pending_transfer
+1735	The account transfer I was trying to do failed.	beneficiary_not_allowed
+2429	Cannot access my top up.	topping_up_by_card
+2773	Hi, I would like to file a claim for an inquiry. I am a frequent customer of the company in question and have never had any issue with my purchases, payments, or otherwise. However, the price deducted for an item I purchased a couple of weeks ago has been returned to my checking account. Was there an issue with my payment? The item has already been delivered to me.	reverted_card_payment?
+2735	I bought this item and was charged the wrong amount can I get a refund?	request_refund
+194	Where's accounting for my cash withdrawal?	pending_cash_withdrawal
+1679	Trouble transferring transaction contact for help	declined_transfer
+1799	When should I expect to see my transfer hit my account?	transfer_timing
+3018	For some reason, the virtual card won't work for me.	virtual_card_not_working
+447	Where's the money that got charged to my card? It's not showing up in my account balance	topping_up_by_card
+2534	I got a message that I need to verify my identity; what do I do?	verify_my_identity
+2264	What do i need to verify my id?	unable_to_verify_identity
+2821	How can I fix my card, it got declined twice.	declined_transfer
+1174	What do I need to show who I am?	verify_my_identity
+980	There is a fee I don't recognize on my statement.	extra_charge_on_statement
+2072	Is a non-electronic card available as well	order_physical_card
+645	How would I use my money in a different country?	exchange_via_app
+2189	where in the app can i find out about my new pin	get_physical_card
+1051	What is stopping my money from transferring?	failed_transfer
+3012	Ordered awhile back, what is the ETA in the US?	card_delivery_estimate
+2551	Why would my topup not go through?	top_up_failed
+2246	What should I do with my atm that got stuck?	card_swallowed
+1925	When will the transfer go through?	pending_transfer
+2751	Why did I need to verfiy my identity?	why_verify_identity
+2352	I have found my lost or stolen card. Is there a way I can link the card with my account through my app again?	card_linking
+1308	Are you able to locate my card?	lost_or_stolen_card
+2852	Is there any way to verify who I am?	verify_my_identity
+1753	Is a copy of the police report necessary for completing the report process?	lost_or_stolen_card
+1636	My payments from my virtual card keep getting rejected.	virtual_card_not_working
+1271	What currencies will this app exchange?	exchange_via_app
+2987	I think someone has access to my card numbers that shouldn't.	compromised_card
+1370	I did a top-up, but I'm not seeing it in my wallet yet.	topping_up_by_card
+1927	Where is the money I topped off with?	pending_top_up
+1899	My ATM got stuck and I'm not sure what to do.	card_swallowed
+1664	I'm unsure of a withdrawl in my statement.	cash_withdrawal_not_recognised
+535	Why was my virtual card declined when attempting to setup automatic billing?	virtual_card_not_working
+2443	Why isn't my virtual card working?	virtual_card_not_working
+1085	Was charged an ATM fee despite it being a small withdrawal on the 1st day of the month. I thought I was allowed 200 per month?	cash_withdrawal_charge
+726	My disposable card seems not to be working am I doing something wrong?	virtual_card_not_working
+2290	I made a withdrawal from my account but it has not posted?	pending_cash_withdrawal
+2165	someone stole my money	direct_debit_payment_not_recognised
+2424	I made a transaction and it is taking a very long time to go through.	transfer_not_received_by_recipient
+614	OMG!  I'm trying to load my card and it wont top up!  I desperately need the money either on my card or in my bank, where is it?	pending_top_up
+254	Is there a transfer fee?	transfer_fee_charged
+1760	Do I have to do an identity check?	why_verify_identity
+1519	I'm just wondering when my card will get here.	card_delivery_estimate
+2858	Will there be any charges for money received?	top_up_by_bank_transfer_charge
+1375	Can i have a card to my daughter?	getting_spare_card
+2375	What are the available cards?	visa_or_mastercard
+2224	In the past month I often used this account to manage payments for my new holiday villa. Now all of a sudden your fees have increased exorbitantly! Don't you have a rewards programme for frequent users?	transfer_fee_charged
+1028	The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.	card_payment_wrong_exchange_rate
+1484	Why has my payment not gone through?	pending_card_payment
+706	The wrong exchange rate was used when I bought something with a foriegn currency.	card_payment_wrong_exchange_rate
+3047	WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?	card_swallowed
+275	My card payment did not complete.	declined_card_payment
+2453	I made a transfer and am still waiting.	balance_not_updated_after_bank_transfer
+2937	My virtual card isn't working. What do I do?	virtual_card_not_working
+1240	Can I be topped up once I hit a certain balance?	automatic_top_up
+2603	How do I deposit my paycheck to this account?	receiving_money
+1429	On my last transaction it seem that my top-up was not successful.	top_up_reverted
+385	What currency's can i exchange for?	exchange_via_app
+1828	When will the card arrive?	card_delivery_estimate
+2723	What type of deposits do you accept into my account?	top_up_by_cash_or_cheque
+480	I go the wrong exchange rate applied to my purchase in a foreign country.	card_payment_wrong_exchange_rate
+2101	What is the maximum I can transfer before I incur fees?	transfer_fee_charged
+1850	I would like to not have to do the identity verification.	why_verify_identity
+2402	do the details of my profile have to match my documents	verify_my_identity
+1163	I do not wish to verify my identity.	why_verify_identity
+2898	Can I have a card after my first one?	getting_spare_card
+1153	Can you help me figure out what's happening? I'm trying to transfer money to a friend but it keeps getting returned. I'm not sure what i'm doing wrong.	failed_transfer
+1790	What all am I required to show for the identity check?	verify_my_identity
+2161	My disposable virtual card has been rejected by the merchant earlier today. What should I do?	virtual_card_not_working
+1903	How do I reset my PIN, I can't seem to use my card?	pin_blocked
+1075	What stores will take my credit card as payment?	card_acceptance
+2362	Why do you need to know so much about me	why_verify_identity
+1523	I wasn't charged the correct amount for an item I purchased, how can I fix this?	request_refund
+549	Do I have to do the identity check?	why_verify_identity
+585	Can you look to make sure the exchange rate is correct	wrong_exchange_rate_for_cash_withdrawal
+2739	The balance on my account wasn't updated after I made a depost.	balance_not_updated_after_cheque_or_cash_deposit
+989	I tried to transfer money but it said it wasn't possible? I've done this before and it worked why isn't it working now?	beneficiary_not_allowed
+763	How can someone add money to my account?	topping_up_by_card
+1008	I initiated a Bank transfer form Europe, how long will this take?	transfer_timing
+548	Why is a money transfer not showing?	pending_transfer
+2202	My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?	declined_card_payment
+3079	im not sure what this charge is for	card_payment_fee_charged
+2932	Someone stole my wallet earlier today, not sure exactly when, probably on Piccadilly circus. Can you check if there were any attempts to use the card and obviously block it?	lost_or_stolen_card
+881	I've tried my card a bunch of times and it never worked.	card_not_working
+2360	Why did the disposable virtual card which I used to pay a gym subscription get denied?	virtual_card_not_working
+760	Is there any limit to the amount I can add to a card at a time?	top_up_limits
+1274	Where can I get my card at?	order_physical_card
+2317	What is the point of an identity check?	why_verify_identity
+2021	I was at the store earlier and my virtual card didn't work. What's the solution for this problem?	virtual_card_not_working
+401	Someone is using my account to do online shopping! Please freeze it asap	compromised_card
+1824	I cannot use my disposable virtual card.	virtual_card_not_working
+1508	How can I resolve a problem where my card won't go through at all?	card_not_working
+1950	My top-up showed as complete, but it's no longer there! What's going on here?	top_up_reverted
+170	Why is my debit card being declined when I have money?	declined_card_payment
+2698	I am getting continuous failure for all my transfers. I have cross checked each recipient detail again and again and everything is correct.	declined_transfer
+1901	The exchange rate was wrong when I bought something outside the country.	card_payment_wrong_exchange_rate
+360	I want to skip verification of my identity.	why_verify_identity
+149	Are there any hindrances to using a disposable virtual card?	disposable_card_limits
+1257	Freeze my account it's been hacked.	compromised_card
+2227	Am I allowed to use any card to make a payment?	visa_or_mastercard
+1232	What is the transfer fee charge?	transfer_fee_charged
+2543	How long do transfer pend for?	pending_transfer
+514	I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!	card_payment_wrong_exchange_rate
+2657	Why am I required to do an identity check?	why_verify_identity
+2261	Is there any documentation needed for the identity check?	verify_my_identity
+594	Can I add to my account balance with a cheque?	top_up_by_cash_or_cheque
+246	What can I use to verify my identify?	verify_my_identity
+2357	I need help because I drunken blocked my card?	pin_blocked
+1610	I am waiting patiently for a week now for the seller to get back to me and there has been no response, could you please help me further with getting my money back.  Thank you.	Refund_not_showing_up
+893	How does a transfer work?	transfer_into_account
+1015	I received my new card, but I don't see it in the app anywhere.  What do I do?	card_linking
+1443	How can I check the exchange rate applied to my transaction?	card_payment_wrong_exchange_rate
+298	My child needs a card, how can I add them to the account I currently have?	getting_spare_card
+2586	My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?	reverted_card_payment?
+1303	This rate is too low. Are you sure your using the right exchange rate.	card_payment_wrong_exchange_rate
+1654	Is there a way to know when my card will arrive?	card_arrival
+264	Why am I required to verify my identity?	why_verify_identity
+169	How can I fund my top-up account using my bank account?	transfer_into_account
+1930	Can I get my card expedited?	card_delivery_estimate
+2074	Why do I have to verify my identity?	why_verify_identity
+1780	Do I have to pay any fees in order to receive money?	top_up_by_bank_transfer_charge
+1405	What can I pay with? Does cash work?	top_up_by_cash_or_cheque
+63	I think my identity has been stolen, can you check on unauthorized charges?	compromised_card
+721	I made an out of country transfer and it hasn't went through yet.	balance_not_updated_after_bank_transfer
+654	Can I use my account without verifying my identity?	why_verify_identity
+168	What stores can I sue my card?	card_acceptance
+1016	Unknown direct deposit	direct_debit_payment_not_recognised
+1360	Which cards do you guys support? I want to top up using my credit card.	supported_cards_and_currencies
+1591	I have 1 other US card.  Can you take that?	supported_cards_and_currencies
+1197	Which forms of currency are accepted?	supported_cards_and_currencies
+2712	How long does it take for a transfer?	transfer_timing
+189	How long will it take for my transferred money to show up?	balance_not_updated_after_bank_transfer
+2374	top up did not complete	pending_top_up
+2012	I topped up my card but the money disappeared.	topping_up_by_card
+2235	Can I use my account if the identity verification is not complete?	why_verify_identity
+708	Do I need to verify my identity to use my account?	why_verify_identity
+2965	I paid for something in foreign currency but noticed the exchange rate is incorrect.	card_payment_wrong_exchange_rate
+2726	If I started the Bank transfer from Europe, how long will the process take to complete?	transfer_timing
+3035	Do I have to verify my identity?	why_verify_identity
+906	Can I use app to freeze my card and dispute fraud?	compromised_card
+1754	I had a wrong fee charged at this ATM.	cash_withdrawal_charge
+1384	Is it possible for me to get money out in a different currency?	receiving_money
+2441	Why do I have to give you all of my identification details?	why_verify_identity
+1407	Your exchange rate is totally wrong for my card payment	card_payment_wrong_exchange_rate
+2061	The ATM at Metro bank on High St. Kensington didn't return my card. What should I do now that the bank is closed?	card_swallowed
+2563	What happened to the cash that I tried to deposit into my account? It's gone!	balance_not_updated_after_cheque_or_cash_deposit
+2783	What do I do if my virtual card won't work.	virtual_card_not_working
+342	Is there a top-up feature, if there isn't a lot of money left?	automatic_top_up
+2537	How long does it take for an international transfer into my account?	balance_not_updated_after_bank_transfer
+1470	Hello- It is urgent I get a refund on this product. The merchant has not been helpful, what can I do now to get this resolved ASAP?	request_refund
+2605	How long does it take to get my card? Can I choose when to receive it?	card_delivery_estimate
+590	Why am I being charged more ?	card_payment_wrong_exchange_rate
+196	Can I reactivate my PIN?	pin_blocked
+2676	I have paid money into my account but it doesn't show.	balance_not_updated_after_cheque_or_cash_deposit
+224	What do you need for my identity check?	verify_my_identity
+2722	do I need to verify my identity every time I log into my account?	why_verify_identity
+777	Im waiting for my transaction to go through.	transfer_not_received_by_recipient
+2462	How come you need to know my identity?	why_verify_identity
+468	Need to deposit a cheque into my account	top_up_by_cash_or_cheque
+2569	How long to I have to wait for a transfer to reach my account?	transfer_timing
+1345	i know i entered the right info, but my top up isn't in my balance	topping_up_by_card
+1886	How do i finalize a card payment	pending_card_payment
+1152	I checked my account today and it said I was out of money. How do I transfer money into my account?	transfer_into_account
+2587	Why am I unable to take money from my card but the statement says the transaction is still pending?	pending_cash_withdrawal
+2770	How do I know when my card will arrive?	card_arrival
+2906	I was getting cash and can't get my card back.	card_swallowed
+1738	Why can't I get my virtual card to work?	virtual_card_not_working
+297	I was charged for something I didn't expect	transfer_fee_charged
+705	Can I make transfers before identity verification?	why_verify_identity
+660	Are there restrictions for my disposable card since it does not seem to be working?	virtual_card_not_working
+1553	My disposable virtual card is broken.	virtual_card_not_working
+2683	Can I still use my account, even though the identity verification has not passed yet?	why_verify_identity
+2559	I need to cancel my card that got stolen a little while ago. Someone has already taken some money out and I don't want them to take anymore. Can you please do that?	cash_withdrawal_not_recognised
+2308	Can you please identify the problem with my bank card?	card_not_working
+419	Where can the card be used?	card_acceptance
+2943	Why is the exchange rate wrong when I purchase something abroad?	card_payment_wrong_exchange_rate
+592	I don't like that I have to fill out so much information about my identity.	why_verify_identity
+709	Can you tell me if my pop-up went through?	top_up_failed
+2323	What's the process for ID verification?	verify_my_identity
+1569	the conversion value for my card payments is incorrect.	card_payment_wrong_exchange_rate
+1127	How do I receive my physical card	order_physical_card
+276	I cannot get my virtual card to work.	virtual_card_not_working
+1030	I want to order another crad	getting_spare_card
+461	If I only have 1 other US card, can you take it?	supported_cards_and_currencies
+1222	How long does a funds transfer take from one back to another?	transfer_timing
+573	How do I cancel my card? There are charges on my account that I didn't make.	cash_withdrawal_not_recognised
+2562	I want to go back on what I did this morning	cancel_transfer
+2083	Can you tell me what the transfer policy is?	top_up_by_bank_transfer_charge
+407	Why don't I have my transfer?	balance_not_updated_after_bank_transfer
+1646	I don't understand the money transfer process.	transfer_into_account
+717	My disposable virtual card is not working when I try to use it at a point of sale transaction. What do I do now?	virtual_card_not_working
+1839	How do I do a successful transfer to an account?	beneficiary_not_allowed
+1336	Can I exchange money from abroad without additional costs?	exchange_charge
+2186	My funding to my card didn't go through.	top_up_failed
+787	The stupid machine just swallowed my card!! I need a new one ASAP	card_swallowed
+377	I believe my money did not go through with my top up, was there a problem on your end?	top_up_reverted
+1142	Can you explain the transfer fee to me?	transfer_fee_charged
+2579	I am having issues with identity verification	unable_to_verify_identity
+324	How can my friend transfer money to me?	receiving_money
+2642	How long does it take for a money transfer to show?	pending_transfer
+404	My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much.	card_payment_wrong_exchange_rate
+2163	What all currencies can be exchanged?	exchange_via_app
+513	Why doesn't my disposable virtual card work?	virtual_card_not_working

@@ -1,0 +1,2549 @@
+id	text	label
+0	that is cool, thanks, olly.	praise
+1	Remove the board meeting and reschedule for next Wednesday	remove
+2	Should I break out my scarf and mitts for tonight?	query
+3	Hey PDA!	greet
+4	lets get a taxi!	taxi
+5	Let me hear my no. 1 favorite play list	music
+6	What amount of traffic in this road?	traffic
+7	Can you let me know when it's 2:00?	set
+8	PDA what is the answer to...	maths
+9	play The Weeknd	music
+10	i could not understand what you have said.	explain
+11	pls turn off the lights in patio	hue_lightoff
+12	What will be the highest temperature this week.	query
+13	set an alarm	set
+14	Find lyrics of this song and save it. It is very nice song.	likeness
+15	Do I have any emails from hongbin.	query
+16	What events are happening soon?	events
+17	What is 9 - 10	maths
+18	Save this afternoon for my date	set
+19	What time is it on the west coast?	query
+20	Please tell me latest news of world.	query
+21	Search for the best spagetti recipe	recipe
+22	Read me the front page of the New York Times.	query
+23	Is it sunny outside?	query
+24	will you remind me of my next dentist appointment one day before?	set
+25	will you check details please.	confirm
+26	Olly, should I keep my windows open tonight?	query
+27	Tweet complaint to consumer service	post
+28	pardon.	repeat
+29	yeap you've understood my instructions correcly.	affirm
+30	please cancel.	commandstop
+31	Is it thursday tomorrow?	query
+32	i need to hear again.	repeat
+33	it seems like the command is not correct.	negate
+34	family bonding before meeting	set
+35	i am sorry but i think it's not the correct answer.	negate
+36	Play Sirus on satellite radio.	radio
+37	Will it snow next week?	query
+38	thumbs down	dislikeness
+39	Search Nandy	query
+40	it's great one, i appreciate it.	praise
+41	Please tell me some international news.	query
+42	Olly, please start the coffee.	coffee
+43	20-10	maths
+44	movies of tom hanks	factoid
+45	whatever would be ok to me.	dontcare
+46	Play songs by Bryan Adams.	music
+47	What is the weather for this week?	query
+48	s1, please explain me further on what you just said.	explain
+49	Olly, guide me to the restaurant	locations
+50	could you tell me what i have said once again please.	repeat
+51	I went skiing today.	quirky
+52	Is the brightness of my screen running low?	quirky
+53	sorry but it is not the correct command.	negate
+54	Olly prepare my coffee	coffee
+55	turn off the alarm	remove
+56	Lights brighter	hue_lightup
+57	perfect work, you've done well.	praise
+58	what is the exchange rate between USD and INR	currency
+59	I need to something every monday set a reminder for it	set
+60	describe item xy	definition
+61	the meeting with XXX will be in 10mins	query
+62	Book me a cab going to 'location'.	taxi
+63	Olly, what's the current weather?	query
+64	Add new email address and send email	sendemail
+65	What's on my calendar	query
+66	turn socket off	wemo_off
+67	yeap exactly.	affirm
+68	Play mindsweeper with me.	game
+69	Are there any upcoming events on my calendar?	query
+70	Look up next weeks weather for me please.	query
+71	what is my schedule like today	query
+72	I like songs from 90s	likeness
+73	why isnt adam sandler funny PDA?	factoid
+74	Visit metronorth.com to help me purchase train tickets	query
+75	Add Bubbles birthday to March 15	set
+76	When did I place my order and what was the projected time it would take?	query
+77	check email for <unk>	query
+78	say once again please.	repeat
+79	Olly, define the word 'novel'.	definition
+80	THIS SONG IS AMAZING, IS NOT IT ?	likeness
+81	appreciated, olly.	praise
+82	are you sure.	negate
+83	reserve the closest uber	taxi
+84	Lower lights in kitchen	hue_lightdim
+85	is it going to rain tomorrow?	query
+86	Play music in Queue	music
+87	repeat what i've just said please.	repeat
+88	Remind me when it is lunchtime.	set
+89	book Ola cab for now	taxi
+90	What's the weather in Manila today?	query
+91	Speak softer please	volume_down
+92	Send me links to news articles about the protest.	query
+93	delete new year's eve from the calender	remove
+94	Play fault in our stars on Audible	audiobook
+95	Brief me about my news feed stories	query
+96	Play my midnight love playlist.	music
+97	any one, olly.	dontcare
+98	What will the weather be like for the next week?	query
+99	how long do I boil a hard boiled egg, alexa?	recipe
+100	What is the length of song?	query
+101	could you check the question please.	confirm
+102	Let me know if I get a new email today.	query
+103	please can you explain further on your words.	explain
+104	Book a ticket in irctc website from sbc to mdu on may 2 for stored passenger list	ticket
+105	Alexa play 90's alternative	music
+106	Can you show me the popular posts from Facebook today?	query
+107	you have gotten it right.	affirm
+108	yes that's correct.	affirm
+109	Remind me at 6 about the meeting at 7	set
+110	Please list my query.	query
+111	please turn down the volume	volume_down
+112	Which place has more traffic?	traffic
+113	please would you check the detail.	confirm
+114	shit, i didn't ask for it response.	negate
+115	Remind me to go grocery shopping today	set
+116	I like rock music	likeness
+117	when is the arrival of the train at_____	query
+118	Put the lights off now.	hue_lightoff
+119	reminder	set
+120	What is the highest rated joke today	joke
+121	i am sorry but you have gotten this incorrectly.	negate
+122	i am sad	quirky
+123	that is cool, thanks.	praise
+124	Remind me tomorrow at 4 about an event	set
+125	explain to fellow tweeters how horrible their customer service is at the local store	post
+126	Delete the scheduled meeting on 4th Oct, 12 pm	remove
+127	What TV show is Jennifer Aniston on?	factoid
+128	Read me today's news from Polk County, Florida.	query
+129	navigate to a place	query
+130	Tell company their service is bad	post
+131	Where is the nearest gas station?	locations
+132	Set a event that will happen everyday.	set
+133	would you clarify further please.	explain
+134	Is Tom Cruise an only child?	factoid
+135	Give me all my lists.	query
+136	repeat marriage day	set
+137	would you please clarify me about the last sentence again.	explain
+138	It looks sunny and clear today, is that true?	query
+139	yes perfect response.	affirm
+140	How many days are in this month?	query
+141	Start the audiobook file for where I left off in A Tale of Two Cities.	audiobook
+142	What is the weather at home	query
+143	play rap	music
+144	Alexa are there any backups on route 80 today?	traffic
+145	olly could you just stop please.	commandstop
+146	do you know how to cook risotto?	recipe
+147	oh no, you did not understand what i meant.	negate
+148	what is the date today?	query
+149	What do you think was the best decade?	quirky
+150	Delete my latest event.	remove
+151	send reply to joe	sendemail
+152	Tell me what I wore yesterday.	quirky
+153	Echo, have I received any emails from my father?	query
+154	turn <unk> on	coffee
+155	open news about BP Oil	query
+156	Hey, what is the time?	query
+157	yes you have understood my instructions perfectly.	affirm
+158	on january 25 set meeting for XXX	set
+159	the weather updated to the PDA using SPB Weather.It either updates forecasts from Intellicast or Weather.com, both rather poor for my site.	query
+160	how many sunday having this month?	query
+161	Olly, is anything trending on social media today?	query
+162	Tell me how old is Ryan Seacrest?	factoid
+163	What song is that?	query
+164	will you tell me one more again.	repeat
+165	check xxxx's number	querycontact
+166	Play the last song from my most recent playlist.	music
+167	Weather, San Antonio, Texas	query
+168	Can you tell me what movies are playing at the movies tonight?	movies
+169	Is the answer of 5+2, 7?	maths
+170	Please start the vacuum.	cleaning
+171	now playing	music
+172	Remind me in one hour about my meeting.	set
+173	Book a taxi for pickup at my current location in one hour's time	taxi
+174	Make my calendar empty	remove
+175	Boiled.	recipe
+176	whats the weather	query
+177	I want to hear my rap playlist.	music
+178	How safe is the city regarding law and order.	query
+179	Please check on the rock concerts scheduled this weekend	events
+180	pls change timezone to india	convert
+181	that was not what i wanted.	negate
+182	Is there anything new on Snapchat?	query
+183	please can you confirm what i just said.	confirm
+184	anything would be fine with me.	dontcare
+185	Start from last time on my audio book	audiobook
+186	How's the weather this week?	query
+187	Bedroom lights off now.	hue_lightoff
+188	What is the current song called?	query
+189	what is the coldest place on earth	factoid
+190	yeap perfect response.	affirm
+191	Buy a train ticket for one week from now from New York, New York to Las Vegas Nevada	ticket
+192	Show me recent emails	query
+193	yeah you've gotten my instructions right.	affirm
+194	next i want to hear shinedown	music
+195	Remind me to have the presentation ready by 10 on Wednesday.	set
+196	thanks but this is not the right response.	negate
+197	Tell to Joe┬┤s email that come to my house in this moment i am alone	sendemail
+198	i'd like you to confirm that please.	confirm
+199	what is the capital of China	factoid
+200	confirm what last said please.	confirm
+201	Change the color of the lights to blue	hue_lightchange
+202	What do you know about the statue of Liberty	definition
+203	Add wedding to my claendar	set
+204	Give me stats on the election by the hour	query
+205	s2, i was not so clear about what you said.	explain
+206	Gather all my songs from Madonna	music
+207	Will it rain tomorrow in Miami	query
+208	try the last message one more time please.	repeat
+209	Current news CNN	query
+210	Mute speakers please.	volume_mute
+211	PDA use this program	radio
+212	you've done that correctly.	praise
+213	tell me if the following is true about the weather:	query
+214	temperature outside	query
+215	please would you reset.	repeat
+216	olly that's not how you pronounce that.	negate
+217	Turn off my wemo plug socket now.	wemo_off
+218	play keno	game
+219	What is the Canadian exchange rate?	currency
+220	what is the purpose of	quirky
+221	Tweet complaint to Pizza Hut	post
+222	Tell me the brief definition.	definition
+223	play popular dance music	music
+224	What are my reminders?	query
+225	Can you find the newest song from MGK?	music
+226	PDA I need you to add Gary's email to my favorites.	addcontact
+227	Destroy all events.	remove
+228	Send an email to peter asking him which one dress should I bring and attach the photos of dresses taken recently.	sendemail
+229	there are errors.	negate
+230	Show meaning of clarion	definition
+231	i want you check details please.	confirm
+232	Compose an email to (name)	sendemail
+233	doesn't matter to me.	dontcare
+234	downloads management	quirky
+235	Paper, scissors or stone?	game
+236	Please alert me on Friday at 8:00 am to go to the gym.	set
+237	What is the US dollar and Euro exchange rate.	currency
+238	In what scenario would you use word inconvenience?	definition
+239	can you tell me the time in new york	query
+240	Olly, find my food.	query
+241	Turn the volume up	volume_up
+242	appreciate your helps, olly.	praise
+243	Give me the specs on the Bugatti Veyron.	definition
+244	Please change the colour of the lights. I'll tell you when to stop	hue_lightchange
+245	wait, i think it's not the correct response.	negate
+246	any emails?	query
+247	Hey Olly, place an event in my calendar to go to the doctor on Friday, April 14th at 123 Water Street, New York, NY, 11289.	set
+248	It is 9:00 here. What time is it in California?	convert
+249	Spaghetti Recipe	recipe
+250	Look up word	definition
+251	set alarm reminder for calendar	set
+252	What's happening in Cambridge	query
+253	how we can get credit	sendemail
+254	Find a kid friendly event in my area for tonight.	events
+255	explain your answers again.	explain
+256	What do you do with my personal data?	quirky
+257	play my soundtrack	music
+258	Remove lunch with co workers on Thursday	remove
+259	Did I have any plans later on tonight at 8pm?	query
+260	could you please check and confirm the details.	confirm
+261	Send me all the info for the Houston Texans draft please.	query
+262	Please check and tell me contact details of Mongomery LLc company	querycontact
+263	start angry bird	game
+264	What are you reading lately?	quirky
+265	What song is playing right now?	query
+266	what you said now was not clear.	explain
+267	Tell me which stocks were the biggest gainers in stock market nasdaq today	stock
+268	prepare coffee	coffee
+269	send email to daddy, i'll be going to the birthday party.	sendemail
+270	Play Hoizer radio station from my Pandora app.	radio
+271	I want to hear my favorite song from Iron Maiden	music
+272	Alexa, give me updates on the presidential candidate race.	query
+273	i can't quite catch that.	explain
+274	Send a birthday email to my boss	sendemail
+275	Remind me of dinner with mom tonight on my calendar	set
+276	Please note I like jazz and hate disco	likeness
+277	Text Sarah if she is free for brunch today.	sendemail
+278	Currency converter please	currency
+279	Can you play my favorite audio book of Tarzan?	audiobook
+280	Access latest news	query
+281	I want to listen Irene	music
+282	Is it the 29th already?	query
+283	tell joke?	joke
+284	Alexa play my second playlist.	music
+285	I want to play FIFA 17	game
+286	can you please confirm what said.	confirm
+287	ON THE RADIO, IT IS TIME FOR GOOD MUSIC.	radio
+288	Please start my podcast.	podcasts
+289	take bread out from the shopping list	remove
+290	look for new emails.	query
+291	Keep me up to date with the world news.	query
+292	you are so helpful, thank you so much.	praise
+293	Can you tell me on tuesday to give Jane a call?	set
+294	what is the deepest point on earth?	factoid
+295	mahaboobsayyad@gmail.com	sendemail
+296	What is the exchange rate with in 1 british pound.	currency
+297	What's trending on social media?	query
+298	Can you tell me the exchange rate for Canadian currency	currency
+299	Is it rainy in my area?	query
+300	Delete an last event reminder of 29/03/2017	remove
+301	What day does april 16th fall on?	query
+302	are there any construction areas on Harvard?	traffic
+303	PDA: Whats on my grocery list	query
+304	who has covered this song?	query
+305	would you check what just said please.	confirm
+306	Remind me at work to take a meeting with Dave on Friday.	set
+307	What percentage of the US population is related to the English royal bloodline in some way?	factoid
+308	Order 1 coffee from nearest coffee shop	coffee
+309	I would like to know her history	quirky
+310	Turn off/on wemo outlet.	wemo_off
+311	Clear my day on the 29th.	remove
+312	Please tell me the background of celebrity X.	factoid
+313	Notify me on March 11th, the day of my appointment.	set
+314	yes amazing response to the command.	affirm
+315	please set a reminder for my 5pm meeting today	set
+316	Show me the time.	query
+317	Tweet Lfix and let them know my app crashed.	post
+318	How do I cook a hard boiled egg?	recipe
+319	Play it again please	music
+320	turn  on music by seal	music
+321	Go forward one episode.	podcasts
+322	what time zone is arizona	query
+323	i am not so clear about what you just said.	explain
+324	i am sorry but i think you're incorrect.	negate
+325	Find me eighties music	music
+326	olly please will you just cancel.	commandstop
+327	yeah wonderful response to command.	affirm
+328	i think olly's answer is not right.	negate
+329	Please play me songs from the 80's	music
+330	i have no idea for what to select.	dontcare
+331	set an alarm on Wednesday noon, so I can register for early adopters program	set
+332	What is the time for Jimmy's party?	query
+333	How can I go to the place?	query
+334	What is happening in the world right now? Check BBC.	query
+335	set a reminder	set
+336	play frozen let it go	music
+337	play bingo	game
+338	i think you have made a mistake, please rectify this.	negate
+339	i didn't ask for it.	negate
+340	check if there any new email.	query
+341	gossiping about celebrities	quirky
+342	Make a reminder at 1PM every Monday until I I remove it.	set
+343	Do I have any meeting tomorrow morning	query
+344	PDA, When will you do my laundry?	quirky
+345	Please make me updated about today's scenario.	set
+346	New list please	createoradd
+347	read me the headlines from Detroit News	query
+348	Is Fox News reporting any breaking news at this time?	query
+349	Email....	sendemail
+350	Stay quite	volume_mute
+351	Remind me to call my grandma this Sunday	set
+352	Can you please update me on the latest tweets from my feed?	query
+353	that's helpful, i appreciate it, olly.	praise
+354	Complain to...	post
+355	What day of the week is 25th	query
+356	did you watch the news about the car accident that happened last night	quirky
+357	PDA what's happening in world news	query
+358	book next NY train ticket	ticket
+359	how do i make mashed potatoes	recipe
+360	stop please.	commandstop
+361	Olly play music from my fav pianist	music
+362	Play rock radio station	radio
+363	could you again elaborate me on your answers please.	explain
+364	Display stock price for Lexmark International.	stock
+365	yeah you understood your understanding correcly.	affirm
+366	Is the year 2018 a leap year?	query
+367	Please add an appointment at 9am wednesday at dr greens office	set
+368	Olly you need to find an alternate route to my destination	query
+369	What do i have on the schedule today from 12pm-2pm	query
+370	I was chased by a dog	quirky
+371	please could you tell me once more.	repeat
+372	I want to know how cold is it outside today?	query
+373	i don't mind for anything, olly.	dontcare
+374	you rock, thank you very much.	praise
+375	Have I gotten any emails in the last couple of days?	query
+376	where does this friend live?	querycontact
+377	Recent advice concerning Google SEO	quirky
+378	Please make the lights natural.	hue_lightchange
+379	change light colour to yellow	hue_lightchange
+380	set a reminder for the 23rd	set
+381	Would you please notify me about the event in my calendar	set
+382	get me top headlines	query
+383	Play bohemian raphsody for me	music
+384	What is the current exchange rate between dollars and euros?	currency
+385	i did not say that.	negate
+386	I want to know the weather in Nashik.	query
+387	show exchange rate of USD and INR	currency
+388	How many emails do I have?	query
+389	play 93.5 fm	radio
+390	Read my list to me.	query
+391	This is a good song. Put it on repeat.	likeness
+392	What time is the party tonight	query
+393	s1, would you further elaborate to me please.	explain
+394	What's the meaning of Rumplestiltskin?	definition
+395	What year was Chuck Norris born?	factoid
+396	your salary	quirky
+397	i was unclear about your answers.	explain
+398	olly call me a cab	taxi
+399	thank you so much.	praise
+400	object details	definition
+401	will you shut off.	commandstop
+402	I want to play a game with you	game
+403	Remove apple from list	remove
+404	Please add johndoe@yahoo.com to my contact list.	addcontact
+405	Hey Google, what time does the DART Orange Line leave for West Plano?	query
+406	what is the xxx	query
+407	Check email for received from mom.	query
+408	a cup of coffee please	coffee
+409	give me directions to the target on i-40	query
+410	Add Jane's birthday party at 123 Main St for 2PM tomorrow on my calendar	set
+411	Tell me the office address of my brother	querycontact
+412	what's next on the list?	query
+413	is there any new mail for me	query
+414	what time is it?	query
+415	Google IBM stock prices	stock
+416	Play music from the jazz genre.	music
+417	Olly have i gotten any emails from mom lately?	query
+418	Make sound louder	volume_up
+419	Current exchange rates for UK pound	currency
+420	Need a taxi tomorrow at 8 in the morning	taxi
+421	when is john's birthday?	querycontact
+422	Hey, email Jan about our meeting	sendemail
+423	hey olly what has been happening interesting in sports lately	quirky
+424	more bright	hue_lightup
+425	find me some talk back radio	radio
+426	Show me recipes	recipe
+427	it's perfect job, musch appreciated, olly.	praise
+428	Is there any event today in my calendar?	query
+429	Who is Lenin	factoid
+430	i think this was not the correct answer.	negate
+431	I enjoy 80's music.	likeness
+432	What is a geographic fact in this region	factoid
+433	Find and Order rasgulla of janta sweet home pvt Ltd	order
+434	doesn't really matter.	dontcare
+435	Will it rain this week?	query
+436	Google what songs have I listened to at least ten times.	query
+437	READ ME MY CALENDAR FOR THE MONTH	query
+438	hi google please cancel all the programs for friday	remove
+439	Where is the biggest mountain	factoid
+440	Please give me the wnning lottory numbers for this weekend.	quirky
+441	How cold is it outside?	query
+442	Where is the Acme meeting being held on Friday?	query
+443	blot me the dentist appointment on Tuesday 21 March 2017	set
+444	ABHI JO SONG PLAY HO RAHA HAI USKE BAARE ME KYA KHYAAL HAI ?	likeness
+445	how many days are in february?	query
+446	I haven't checked my Facebook yet, are there any updates from my close friends?	query
+447	Turn my lights to some random color.	hue_lightchange
+448	olly that's all, cancel.	commandstop
+449	i could not get this.	explain
+450	it is useful, thank you.	praise
+451	retry.	repeat
+452	how far is it from New York to Japan	query
+453	HELLO, WHAT TIME IT IS NOW?	query
+454	Book me an Uber ride to go home	taxi
+455	that is all, just cancel.	commandstop
+456	schedule pizza takeout for 7 p.m.	order
+457	Please trun off Middle light of room.	hue_lightoff
+458	what is going on in Milwaukee	events
+459	please tell me one more time.	repeat
+460	you have done answer right.	affirm
+461	Alexa, get me a train ticket to Chicago today.	ticket
+462	What is the price for Marvel?	stock
+463	i don't really mind to choose any one, olly.	dontcare
+464	i am sorry but got this wrong.	negate
+465	see you	quirky
+466	set meeting for january 25	set
+467	Don't let me forget Rover's vet appointment on the 25th.	set
+468	I would like my PDA to Feed and Pet my dog when I'm not home	quirky
+469	Set the alarm for five o'clock in the morning.	set
+470	any meeting between 6 to 7pm	query
+471	Show me 1 week weather of mumbai	query
+472	that's amazing, thank you very much, olly.	praise
+473	seems like the answer was not correct.	negate
+474	tell me a nice Chinese Restuarant	locations
+475	i think not right answer.	negate
+476	Turn off the Wemo plug socket	wemo_off
+477	Iterate events on the note	query
+478	I don't need the shopping list, delete it.	remove
+479	play next expisode on podcast.	podcasts
+480	would you please check and confirm what i last said.	confirm
+481	i like you check my last question please.	confirm
+482	Any new emails for me?	query
+483	Show me popular exchange rates	currency
+484	How are things in the world?	query
+485	Set a reminder for a meeting at 2pm tomorrow between myself and John.	set
+486	Please do not respond.	volume_mute
+487	Can you book me a train ticket to Boston for next Tuesday?	ticket
+488	play me a podcast	podcasts
+489	Send an email to mom,  Subject, weather.  Body, what is the weather like there this week?	sendemail
+490	What ingredient can be used to replace white wine	recipe
+491	when the birthday will be	query
+492	can you please confirm details.	confirm
+493	give me the time of the events	query
+494	uh no, it isn't what i asked.	negate
+495	What's happening in the news?	query
+496	Show me the date of today	query
+497	could you start over please.	repeat
+498	can you further clarify me on that please.	explain
+499	Who is the most frequently called person in my phone book?	querycontact
+500	you have made some mistake.	negate
+501	Are there any traffic delays?	traffic
+502	stop, i think you messed up with.	negate
+503	Show current track in music player.	settings
+504	Send email to new email address	sendemail
+505	what is the 16th president	factoid
+506	olly will you just cancel it.	commandstop
+507	Fun stuff to do near me	events
+508	what are my pending tasks?	query
+509	post this picture on twitter	post
+510	i think you did that in wrong manner.	negate
+511	Who is the wife of Obama ?	factoid
+512	Please talk softer.	volume_down
+513	Please find the most popular store in the area.	locations
+514	how many calories in an orange	factoid
+515	i do not really bother.	dontcare
+516	generate a new inventory	createoradd
+517	Olly, lower the lights please.	hue_lightdim
+518	Silence please.	volume_mute
+519	What is the time over in Florida?	query
+520	open weather	query
+521	What does session mean	definition
+522	delete the list please	remove
+523	Please tell me Bob lives.	quirky
+524	What time i sit in China right now.	query
+525	Please Find a contact number of Rahul Judawa.	querycontact
+526	i think you've done task wrong.	negate
+527	set a reminder alerm for my 5pm meeting please	set
+528	Make a new notification for political campaign tweets.	query
+529	flag two day after this day as my holiday	set
+530	Dollar rupees exchange rate	currency
+531	history of person	quirky
+532	Change my house lights colour to blue	hue_lightchange
+533	What is an electronic emissions system?	definition
+534	Do I have any new emails in the last hour?	query
+535	please set event on Tuesday	set
+536	what is 123X 123	maths
+537	Make my collection mostly 60s pop with a good bit of 60s psychedelia.	music
+538	Please describe the new Harley davidson street bike	definition
+539	Tell me all the pending reminders	query
+540	recollect nextweek GM's meeting	set
+541	Please play a song by Bruno Mars.	music
+542	i do not really mind for anything.	dontcare
+543	Can you show me all of the emails from my favorites list?	query
+544	What is the weather like tomorrow?	query
+545	The weather predictions you gave me are for the wrong city, I want to know the temperature where I am at.	query
+546	hey sire turn the radio on	radio
+547	Get me Osteen on sirius?	radio
+548	Olly can you change my timezone from central time to pacific?	convert
+549	hi, how was your day today?	quirky
+550	What's was the upcoming event	query
+551	Play all albums by Bad Religion	music
+552	Is there anything exciting on twitter today?	query
+553	mileage of BMW cars	quirky
+554	it's cool, thanks.	praise
+555	what is the current weather in miami	query
+556	Has the war in Syria ended?	query
+557	Cancel my meeting with Lisa on Tuesday and reschedule it for Thursday	set
+558	What happens to me if you become sentient?	quirky
+559	If there were 10 easy steps to make myself rich what would they be?	quirky
+560	yes it's confirmed.	affirm
+561	Save email id	addcontact
+562	please will you check that.	confirm
+563	I want the complete weather details of 7th March	query
+564	I want the wemo socket off.	wemo_off
+565	show contact of john	querycontact
+566	it must be some mistake.	negate
+567	sorry but this is not the right response.	negate
+568	Turn off bedroom fan	wemo_off
+569	Take me to MC Donalds	query
+570	Delete the first item on the list	remove
+571	Change your colors to something different.	hue_lightchange
+572	silent	volume_mute
+573	Please tell me when's my financial meeting?	query
+574	uhh no, incorrect command.	negate
+575	Next episode in podcast	podcasts
+576	lady gaga	music
+577	Raise the volume to 60	volume_up
+578	What do you do all day?	quirky
+579	Set reminder to print the documents on Tuesday morning	set
+580	thanks for the information.	praise
+581	Start the vacuum.	cleaning
+582	Please don't shuffle songs in music player just playing continuously.	settings
+583	that is all, just cancel it.	commandstop
+584	Cortana, open up contacts and add, email, something@gmail.com.	addcontact
+585	How old is Tom Hanks?	factoid
+586	Remind me everyday at 5am.	set
+587	Jack birthday is on 15th march set a reminder	set
+588	Tell me time of alarm you set	query
+589	it was good job, i appreciate it, olly.	praise
+590	Show me my lists	query
+591	OLLY, LET'S EMAIL SANDY	sendemail
+592	What store is having sales tomorrow	quirky
+593	What do I have on my schedule for tomorrow morning?	query
+594	away off or take off a specific calender event	remove
+595	Help complaint to consumer service	post
+596	The 2nd of next month lands on what day?	query
+597	Email Karen about the budget meeting	sendemail
+598	send email to jim	sendemail
+599	any junk mails	query
+600	How tall is Hulk Hogan?	factoid
+601	Change the station to 82.4	radio
+602	What days do I have booked?	query
+603	what time is the alarm set for tomorrow?	query
+604	What is the meaning of a stethoscope?	definition
+605	What is the geographical significance of India ?	factoid
+606	can you replay what said.	repeat
+607	What time is my appointment tomorrow?	query
+608	what events are happening today	events
+609	Turn off wemo socket	wemo_off
+610	give me the exchange rate between <unk>	currency
+611	What to-do lists do I have?	query
+612	Could you please confirm if Leonardo is Married?	factoid
+613	Send this reply to received email	sendemail
+614	Olly can I use brown sugar instead of white in peanut butter cookies?	query
+615	contact customer service	post
+616	What is the largest ocean in the world?	factoid
+617	that was not what i was looking for.	negate
+618	Play music radio for me	radio
+619	PDA, Open Internet	factoid
+620	use shortcut	music
+621	Put a 7pm meeting time down for March 14th	set
+622	12th July is Bola's birthday and my calender to be updated with this date	set
+623	how expensive is Google stock?	stock
+624	What is today's forecast for Berlin?	query
+625	Who is the artist of the current playing song?	query
+626	Show me reviews of my nearest location food court	locations
+627	Can you tell me what flabbergasted means?	definition
+628	Give me an update on the election in one hour.	set
+629	check and confirm the question.	confirm
+630	send a reply to mike	sendemail
+631	Your recipe of steak was superb	recipe
+632	Is it windy today?	query
+633	Play Creed from my rock playlist.	music
+634	i don't know.	dontcare
+635	Don't talk	volume_mute
+636	What will be the weather this week?	query
+637	Tell me the current weather in New York city	query
+638	Set notification for news on the stock market	stock
+639	it's useful, appreciated.	praise
+640	Find me kiss fm channel.	radio
+641	Block one hour from 10 tomorrow morning.	set
+642	How is weather likely to be in my area today?	query
+643	Can you read me my next reminders?	query
+644	Give me a days notice before my next meeting.	set
+645	I want you to tweet for me to Hathway Customer service as I have got a very huge bill amount.	post
+646	Add build my resume to my to-do list.	createoradd
+647	How can I contact this person?	querycontact
+648	Remove the list of person starting from letter M in my contact list	remove
+649	show local events near me	events
+650	I want to hear some Jazz.	music
+651	List the games you can play with me.	game
+652	Hey Olly, I just lost my wallet today.	quirky
+653	Echo, turn on the local radio	radio
+654	Send report to consumer service	post
+655	Siri, how much is a train ticket	query
+656	play country radio	radio
+657	World War II	quirky
+658	Tell me upcoming event's	query
+659	Send email to family member and read it first.	sendemail
+660	get played the latest classic music	music
+661	please remind me about the event later 5pm.	set
+662	anything is good to me.	dontcare
+663	speak what i have just said one more again.	repeat
+664	What is Apple's stock	stock
+665	can you try the last one you just said one more time please.	repeat
+666	i'd like to hear the last spoken again.	repeat
+667	you get it perfectly.	affirm
+668	do i have any emails about chemistry	query
+669	Olly can you pull up a recipe for spaghetti?	recipe
+670	do you have a boyfriend?	quirky
+671	Is my calendar event right or wrong?	query
+672	Please turn up the screen brightness all the way	hue_lightup
+673	Will gloves come in handy on Tuesday?	query
+674	please can you speak that things again.	repeat
+675	can you please clarify me more on your answers.	explain
+676	What's happening at the library this month?	events
+677	How any times does 50 go into 1 million?	maths
+678	thanks but this is not right command.	negate
+679	PDA, cut the lights off	hue_lightoff
+680	Are there any events happening in town?	events
+681	convert 8:30 from GTM -4:00 to GMT 5:30	convert
+682	let's try that one more again please.	repeat
+683	select station you want	radio
+684	Do I have to bring umbrella for tonight party	query
+685	i do not mind to select any one, olly.	dontcare
+686	What's the weather like tomorrow?	query
+687	Hey does Open Sesame do take out?	query
+688	Can you tell me about expensive sushi restaurants in West Philadelphia?	locations
+689	latest news on cars	query
+690	i need to hear what i just said again.	repeat
+691	Start my favourite podcast	podcasts
+692	play back in black	music
+693	How many hours ahead is NYC?	query
+694	Reply to all	sendemail
+695	Give me the detailed schedule for next week.	query
+696	olly can you shut down please.	commandstop
+697	i don't mind for any one, olly.	dontcare
+698	will you rephrase this again to me please.	explain
+699	New email for contact	sendemail
+700	Convert current time from IST to EST	convert
+701	There is a pile of torn paper on the rug to suck up	cleaning
+702	pull up trump stories	query
+703	florida	factoid
+704	set alarm for 6 am everyday	set
+705	How old is Bruce Willis?	factoid
+706	Olly can you convert my time zone to the timezone I'm currently in?	convert
+707	will you say the last phrase said one more time please.	repeat
+708	What new movies are good?	movies
+709	What do I have for reminders this week?	query
+710	Is Pink recording a new album?	factoid
+711	What is the temperature for Houston, Texas?	query
+712	could you  calculate 5 + 5?	maths
+713	I went to the store	quirky
+714	What's going on outside?	query
+715	Have any emails come in since 4:00 today?	query
+716	Please check on the movies playing in theaters nearby	movies
+717	Please place my new email address to the contact.	addcontact
+718	you didn't understand what i just said.	negate
+719	play the romanitc songs	music
+720	please tell me what is the time in tokyo japan.?	query
+721	What is the 10 day forecast?	query
+722	i need to know where to get chicken wings in benton ar	locations
+723	Where is the radio head concert?	query
+724	Play my favorite music now	music
+725	How to cook that meal	recipe
+726	Save all of my preferences information specific to songs.	likeness
+727	is michael jackson really dead	factoid
+728	How many pounds do 60 kg make?	maths
+729	Turn on the radio please.	radio
+730	yeah you've understood my instructions perfectly.	affirm
+731	PDA, Lets send a tweet	post
+732	What's the weather like today?	query
+733	please can you confirm last thing said.	confirm
+734	i think you did not get this correctly.	negate
+735	this must be mistake.	negate
+736	Create reminder for meeting in two hours.	set
+737	say joke	joke
+738	have no idea regarding to which to select, olly.	dontcare
+739	s1, will you explain me more on what you said now.	explain
+740	How is the weather like today	query
+741	delete event	remove
+742	I want you to play bohemian raphsody for me	music
+743	What are the train times today?	query
+744	Latest news on traffic at my current location.	traffic
+745	Show me the list of alarms	query
+746	yeap perfectly.	affirm
+747	Olly time Mr. Coffee for 6 am	coffee
+748	What's the current breaking news about the economy?	query
+749	dim the lights a bit	hue_lightdim
+750	I hope it is sunny weather there.	query
+751	How is the traffic on I-25?	traffic
+752	that's not what i am searching for.	negate
+753	start chapter five of physics for future presidents	audiobook
+754	Give me the latest information about President Trump please.	query
+755	How can I make your day a little better?	quirky
+756	can you get me a train ticket to NYC?	query
+757	find the list	query
+758	Play 103.7 FM.	radio
+759	Put me in on Tuesday, the 21st at ten with Al	set
+760	Play dynamite by ACDC.	music
+761	Can you tell me if I have any new emails?	query
+762	How old is morgan freeman	factoid
+763	I want to mute the speaker	volume_mute
+764	How many rivers are there in the world?	factoid
+765	ah that's awesome work.	praise
+766	that's helpful, thank you very much.	praise
+767	Please set my coffee machine to start at x time?	coffee
+768	Is this the hottest day in Mangalore	query
+769	Play Firefly by Mura Masa	music
+770	Give me the description of a Smartphone circuit	definition
+771	Write on twitter that customer service in this location is horrible	post
+772	Schedule a meeting with John Connor tomorrow, at eight in the morning.	set
+773	will you tell me it once more.	repeat
+774	Finance	query
+775	oh no, i think not right.	negate
+776	please resume current song of masti	audiobook
+777	will you replay that please.	repeat
+778	Do you know the ETA of my order?	query
+779	Is my calendar empty?	query
+780	can you check what i last said.	confirm
+781	i want you to check the question please.	confirm
+782	Tell me everything about UMF	quirky
+783	Who sells the cheapest netbooks in South Austin?	locations
+784	I need to turn on the plug in my office for my computer.	wemo_on
+785	i don't really mind.	dontcare
+786	Remove Yams	remove
+787	i took my truck to the shop	quirky
+788	Do they have any events going on downtown this weekend?	events
+789	traffic report	traffic
+790	How is the weather in San Francisco	query
+791	Activate the radio please.	radio
+792	please can you confirm the command.	confirm
+793	What time does the train departs Lagos?	query
+794	Make vacuum cleaner start	cleaning
+795	Play my favorite podcast, please.	podcasts
+796	did you get the details correctly?	confirm
+797	What am I doing this week?	quirky
+798	Do I have any events happening next week?	query
+799	play next BBC4 podcast	podcasts
+800	Let's play a game.  How about tic-tac-toe	game
+801	Are you happy today?	quirky
+802	When is the next train arriving to Union Station from Grand Central Station?	query
+803	Please continue playing Odd Thomas by Dean Koontz.	audiobook
+804	Schedule a meeting with Reeta today evening at 5 PM	set
+805	thanks for doing it.	praise
+806	What is the westernmost city in the contiguous 48 states of the American mainland?	factoid
+807	How do you define textual	definition
+808	Olly, Where is the best vacation spot in calafornia?	factoid
+809	what trains are available	query
+810	What time do I have my alarm set for tomorrow?	query
+811	Activate the wemo plug socket	wemo_on
+812	delete the following list:	remove
+813	Has John sent me a reply via email yet?	query
+814	Can you tell me if I have any alarms set?	query
+815	you've done that right thank you so much.	praise
+816	define a phrase blue sky research	definition
+817	i don't mind to choose any one.	dontcare
+818	get all availables	query
+819	Church with Mom and Dad on Sunday.	set
+820	olly would you shut down.	commandstop
+821	i would like to hear your last the procedure said again.	repeat
+822	what is the time in London now	query
+823	Suggestions for future	quirky
+824	Compile favorites list according to my song feedback	likeness
+825	Does John's pizza have takeaway	query
+826	Change the audio settings	volume_other
+827	add a party tonight in my remainder	set
+828	the news from cbs alexa	query
+829	retry what i've said please.	repeat
+830	I like it	likeness
+831	that's enough, just stop.	commandstop
+832	Turn on alarm 30 minutes before liverpool started to play	set
+833	it is nice job, thanks.	praise
+834	What is the exchange rate of USD to CDN?	currency
+835	I had a great day today, What do you think Olly?	quirky
+836	Please choose a game that you can play with me Olly.	game
+837	Let me know if I get a new personal message from Martha on Facebook today	query
+838	I HAVE REPORT ANY OF THE PDA'S	query
+839	With whom do I have appointment today	query
+840	will you remind me of my gym class on my calendar one hour before	set
+841	hmm, you've done this all in wrong manner.	negate
+842	Broadcast The Health Show from the kitchen.	radio
+843	Most recently received emails	query
+844	do we have 31st day on this month?	query
+845	How long do I chill an icebox pie?	recipe
+846	Cortana, if it's 8 PM on the east coast, what time is it in Sacramento, California?	convert
+847	hey olly. do i have any emails from Bob about the bulldog?	query
+848	remove all alarms	remove
+849	you got the command perfectly.	affirm
+850	Surrounding environment	quirky
+851	What does (insert) mean ?	definition
+852	Latest updates on Syrian Civil War	query
+853	How do I duct tape a goose.to a.pig?	quirky
+854	Does Peking Garden do orders online?	query
+855	I want to know who is at the top of the English Premier League at the moment	query
+856	want to play songs depends on my mood	music
+857	send email to daughter	sendemail
+858	Do I have anything scheduled today between 3 and 4pm?	query
+859	olly, find a description about a samung tv	definition
+860	Remove the upcoming calendar event	remove
+861	I would like my PDA to be able to discuss topics to me that i am studying in class	quirky
+862	I hope tomorrow will be better.	quirky
+863	dont do that again.	negate
+864	where is steven spielberg living?	factoid
+865	I would like to know my next schedule details	query
+866	Today some things happened	quirky
+867	on the button of cleaner	cleaning
+868	could you again elaborate me on that.	explain
+869	i appreciate it, that was great one.	praise
+870	Period the light should be in dim	hue_lightdim
+871	please clarify me more on this.	explain
+872	I want to see news about politics.	query
+873	Make an alarm to wake me up after 5 hours.	set
+874	Tell me that list I wrote 2 days ago	query
+875	let's start over.	repeat
+876	How many top 10 tunes did Katy Perry have last year?	quirky
+877	Are eggs on my shopping list?	query
+878	it will be good if you yellowish the light.	hue_lightchange
+879	good day	greet
+880	Please set the alarm for	set
+881	appreciate the response.	praise
+882	I'd like to hear some oldies songs.	music
+883	wake me up at 5:30	set
+884	Will it rain in the noon	query
+885	road speed manoeuvres	query
+886	could you confirm that please.	confirm
+887	would you try again please.	repeat
+888	Physical education drill Marilyn	query
+889	please would you repeat.	repeat
+890	olly select a different color for the lights	hue_lightchange
+891	What is the biggest city in the world?	factoid
+892	Baking times for chicken in the oven.	recipe
+893	What is happening in my area	events
+894	cars	quirky
+895	Display the local time of London at this moment.	query
+896	Loop this track.	settings
+897	PDA, tell me the time in Tokyo.	query
+898	it's fantastic, thank you.	praise
+899	uhh no, i think it was incorrect response.	negate
+900	pls turn on all the outdoor lights	hue_lighton
+901	Turn on my electronic playlist	music
+902	Daily news	query
+903	tallest building	factoid
+904	Is there anything new happening in politics today?	query
+905	what did you just say in the last conversation.	repeat
+906	yes you've got my instructions perfectly.	affirm
+907	What time does the downtown parade start?	query
+908	Remove Mother from my contact list.	remove
+909	Is it going to rain on Saturday?	query
+910	pls send a mail to my friend divya how ru	sendemail
+911	book an Uber for 1 hour from now	taxi
+912	How many pesos to an American dollar?	currency
+913	If my package shows that it is for delivery tomorrow, can you set up an alarm 1 hour after? Thank you!	set
+914	what is a sloth	definition
+915	Should i wear my sunscreen	query
+916	yo, Olly, I need a coffee now	coffee
+917	goodnight	volume_mute
+918	I need to go to (location). Book a train ticket.	ticket
+919	Open email and send it to	sendemail
+920	send 'will do. thanks' to john as a reply to his last message	sendemail
+921	What news do you have today?	query
+922	find a recipe for homemade bread	recipe
+923	Recent tech headlines	query
+924	Olly cancel business meeting on wednesday	remove
+925	Play music by KORN	music
+926	What reminders did I set?	query
+927	When is my doctor's appointment	query
+928	Remove all events from calendar.	remove
+929	ricky matin	music
+930	Need Information about events, before shift ends.	query
+931	Olly, what is the fastest route to town?	traffic
+932	get me a taxi.	taxi
+933	the lights are too bright	hue_lightdim
+934	What friends were in popular places the last day?	query
+935	that's fantastic, thank you.	praise
+936	Tell me about my schedule for the next month.	query
+937	play BBC radio one	radio
+938	s1, could you clarify me further on that please.	explain
+939	change my room lights to some romantic colour.	hue_lightchange
+940	Show me world news updated in the pst hour.	query
+941	Olly, do I have any new email from Ryan?	query
+942	Tell me about Neal Adams	factoid
+943	anything will be okay for me.	dontcare
+944	whats the traffic density in NH8?	traffic
+945	i was unclear about your words.	explain
+946	you helped a lot, i appreciate it, olly.	praise
+947	would you say that once more please.	repeat
+948	Add Bola birthday of 12th July to my calender	set
+949	i think not right command.	negate
+950	that's awesome job, thank you very much.	praise
+951	post my current location on instagram	post
+952	please explain me more on what you've just said.	explain
+953	Is April 15th on a weekend?	query
+954	what's up olly	greet
+955	Please cook me a hamburger.	recipe
+956	Add work out to the calendar for Monday through Friday from 5 to 6:00 a.m.	set
+957	if I have $20 in japanese money what does it equal to in american currency alexa	currency
+958	would you please shut off.	commandstop
+959	Let's play Canasta	game
+960	nope, i think you messed up.	negate
+961	What's the next thing on my list of appointments?	query
+962	Set notifications on the current weather disasters in america.	set
+963	Lights to 50%	hue_lightchange
+964	how do you get?	query
+965	Let's play a game together	game
+966	what train companies are near me	locations
+967	Can you add an event with John and Mary?	set
+968	Please let me know the exchange rate between  Indian rupees and US$.	currency
+969	send 'thank you so much mom' to mom	sendemail
+970	play my favorite game.by name xxxxx	game
+971	Any new Facebook posts from Amy?	query
+972	Is traffic heavy?	traffic
+973	yeah affirmative.	affirm
+974	oh no, you gave me not right information.	negate
+975	delete an item	remove
+976	date in new york	query
+977	tell KOC on twitter at KOC your wait time sucks	post
+978	Go near vaccum cleaner	cleaning
+979	Is there more traffic in Canal street?	traffic
+980	Who is highest scoring football player of all time?	factoid
+981	Update me on latest news	query
+982	i am sorry but you do not get the command right.	negate
+983	PDA, tell me whats on the web.	query
+984	Places to order takeaway food	order
+985	Please find a email from my friend, Tiffany	query
+986	Set an alarm for 9 AM.	set
+987	I want to see the news.	query
+988	get me the number for local taxi service	taxi
+989	it's not what i meant.	negate
+990	Play the top 40 station with Rocket and Theresa	radio
+991	got the answer perfectly.	affirm
+992	check the last thing said please.	confirm
+993	PDA, I would like to make a post on ****	post
+994	When did Mt. St. Helens last erupt?	factoid
+995	yeah great response to command.	affirm
+996	how far in steps is home from here	factoid
+997	it seems like your command you have gotten is not right.	negate
+998	Turn off lights in kitchen	hue_lightoff
+999	could you confirm the question please.	confirm
+1000	What to do next on events	query
+1001	Remove the doctor's appointment I added to my calendar for February 12th at 9am.	remove
+1002	i would like to hear what you've just said again.	repeat
+1003	It would be good if my PDA can connect peoples	quirky
+1004	Plan me a holiday trip	quirky
+1005	Show me information of today's cricket match	query
+1006	uhh no, you gave me not correct information.	negate
+1007	Send Dad an email saying how is the weather this week?	sendemail
+1008	what is my location?	quirky
+1009	What is the definition of this word?	definition
+1010	Schedule and appointment with Mike for next Thursday morning.	set
+1011	Amazon deals	quirky
+1012	When is (insert event) taking place?	query
+1013	PDA name: ask @nsa why they are spying on me and post it on twitter	post
+1014	Order food from Applebees	order
+1015	PDA, access my Clue app and tell me what day of my cycle I am on.	quirky
+1016	type something and post	post
+1017	make the lights pink at the house	hue_lightchange
+1018	Tell me about what latest inventions are our scientists doing these days?	quirky
+1019	fantastic response.	affirm
+1020	Remind me to meet Joe for lunch tomorrow.	set
+1021	this is unimportant with me, olly.	dontcare
+1022	you've understood my instructions exactly.	affirm
+1023	it's pleasant today.	query
+1024	is summer going on?	query
+1025	it is time to lower the kitchen lights	hue_lightdim
+1026	turn down media volume	volume_down
+1027	yeap.	affirm
+1028	s1, explain me on your answer further please.	explain
+1029	s2, your answer was not so clear to me.	explain
+1030	it is useful,, olly.	praise
+1031	Olly, change the color of lights.	hue_lightchange
+1032	what day is new year's eve this year?	query
+1033	Remove a list of accessories purchase last week.	remove
+1034	lights at percent	hue_lightchange
+1035	Please add brunch with Erin to my calendar at the Diner	set
+1036	please could you elaborate me further on that.	explain
+1037	Open email, check messages	query
+1038	Please remove the first list.	remove
+1039	Alexa what are todays country hits	music
+1040	Add a new email in my contacts from John	addcontact
+1041	Time in New York now	query
+1042	What happened in NYC, Times Square, yesterday at noontime?	query
+1043	you have got it correcly.	affirm
+1044	what is todays close of goog	stock
+1045	wats online, PDA?	query
+1046	Add the post office to my list of errands for Saturday.	createoradd
+1047	Open chess, play against me	game
+1048	you are the best, thank you so much, olly.	praise
+1049	Reply to all emails received from 10pm to 9am	sendemail
+1050	Catcha a ride!	taxi
+1051	i have no idea about which to choose.	dontcare
+1052	you have got the answer exactly.	affirm
+1053	How's the weather in the capital city?	query
+1054	will you check and confirm detail please.	confirm
+1055	Please define the word bleak.	definition
+1056	Should I close the window before I leave this afternoon?	query
+1057	Search this object's definition	definition
+1058	check the details.	confirm
+1059	What is the time at Singapore when or time is 5 pm	convert
+1060	i like you check and confirm last thing i said please.	confirm
+1061	it's nice one, thank you very much.	praise
+1062	Skip this episode.	podcasts
+1063	Please add supervision to my calendar	set
+1064	make appointment for next friday	set
+1065	Please check email contain job listing	query
+1066	Turn the vacuum on	cleaning
+1067	Check emails for last 2 hours	query
+1068	can you tell me your last sentence said once again.	repeat
+1069	create calendar event	set
+1070	How old was Elvis when he died	factoid
+1071	play news  programme.	radio
+1072	definition for object name	definition
+1073	tell me what is next on my query	query
+1074	Did you meet her?	quirky
+1075	Olly, I challenge you to a game of tic-tac-toe.	game
+1076	I want to hear a yo mama joke.	joke
+1077	where is ToNa?	factoid
+1078	Tell me about the latest sports news	query
+1079	I eat breakfast at 8am	quirky
+1080	What is the week today?	query
+1081	Do a coffee for me please	coffee
+1082	add doctor's appointment  monday at 3 to calendar	set
+1083	Resume the reading of the French lesson.	audiobook
+1084	Please play music.	music
+1085	that wasn't what i expected.	negate
+1086	how the weather today	query
+1087	find local events	events
+1088	you are helpful,.	praise
+1089	Please add event in calendar	set
+1090	this weeks events	query
+1091	Move to the next song in the list.	settings
+1092	wouldn't really mind for any one.	dontcare
+1093	Book a ticket for me on a train to get to Boston tomorrow, what is available?	ticket
+1094	delete my 'to do's for this week	remove
+1095	well done, appreciated, olly.	praise
+1096	Change volume to 35 percent.	volume_other
+1097	Olly, open alarm and create an alert for ten a.m.	set
+1098	What is the name of the best italian restuarant?	quirky
+1099	hows the food order going?	query
+1100	Inform me about international news	query
+1101	Reply to John stating that I will attend the party.	sendemail
+1102	what is joe joe's home address	querycontact
+1103	Compose a new email, but I got a new address this time, brandon at example dot com	sendemail
+1104	cancel  the breakfast at tiffany's	remove
+1105	Inform me on the items on the list	query
+1106	Start the podcast	podcasts
+1107	can you shut off.	commandstop
+1108	wouldn't mind, olly.	dontcare
+1109	please start vacuuming	cleaning
+1110	Do I have any recent emails?	query
+1111	Set alarm for 1 hour from now.	set
+1112	take birthday party off of calendar for May	remove
+1113	please rewind to start of podcast	podcasts
+1114	Set my calendar to remind me to buy groceries every Friday.	set
+1115	Start radio, channel 88.9	radio
+1116	using play/pause button	audiobook
+1117	Are any of my new emails from Amy?	query
+1118	book me a single train ticket travelling to New York CIty, leaving after 9:00am	ticket
+1119	What's happening on BBC news today?	query
+1120	What is latest gossip of Hollywood going on?	query
+1121	Play my Killers playlist, please.	music
+1122	Find songs from my Big Band playlist.	music
+1123	Please repeat the last sentence from that book.	audiobook
+1124	Please remove the parent/teacher conference scheduled on March 7.	remove
+1125	what is the most concern issue in USA today and what can be done to deal with it effectively .	quirky
+1126	Olly, where is the closest bar	locations
+1127	google....	factoid
+1128	can you wake the roomba for the kitchen?	cleaning
+1129	Please turn off the light	hue_lightoff
+1130	Have there been updates on abortion law?	query
+1131	Show latest news about migration	query
+1132	is there any new emails?	query
+1133	Get rid of the 5 pm alarm.	remove
+1134	john marriage anniversary	set
+1135	Tell me present time in Malaysia	query
+1136	is there any traffic to work	traffic
+1137	In how many hours will it be midnight in London, England?	query
+1138	Describe (insert) for me please	definition
+1139	Play Hip Hop Songs	music
+1140	How is the current stock price looking for Charmin?	stock
+1141	it's helpful, thanks.	praise
+1142	Alexa, what information do you have on file in my information about Bill ?	querycontact
+1143	that was cool,.	praise
+1144	please tell me that message spoke once more.	repeat
+1145	start a small chart	quirky
+1146	I want my PDA to tell me when a new anime season will come out	set
+1147	Is this event date right?	query
+1148	KYA TUM MERE FRIEND KE PAAS EK EMAIL BHEJ SAKTE HO.	sendemail
+1149	I need a recipe for chicken thighs for my pressure cooker.	query
+1150	What is the date and time?	query
+1151	take item off list	remove
+1152	how is the stock going in general	stock
+1153	PDA, how do you zest a lime without a zester?	recipe
+1154	Who is singing the song I am listening to right now?	query
+1155	again clarify me on your answers please.	explain
+1156	list all pending reminders	query
+1157	What is the weather going to be like today?	query
+1158	thanks but that's not the correct response.	negate
+1159	Post that I am going to McDonalds at Manhattan	post
+1160	Please add contact e-mail johndoe@yahoo.com to John Doe's contact information.	addcontact
+1161	Remove x playlist	remove
+1162	Current trends in tecnology.	quirky
+1163	Tell me the name of the radio station that I want played	radio
+1164	how long is this?	quirky
+1165	elaborate further on what you've just said to me please.	explain
+1166	How many hours difference is there between London and New York?	convert
+1167	let us do it again please.	repeat
+1168	please would you reset that.	repeat
+1169	check weather I got an email from rohit?	query
+1170	i think you don't get answer right.	negate
+1171	off all the lights on the right side	hue_lightoff
+1172	you've done that right musch appreciated, olly.	praise
+1173	Mark next Tuesday in my calendar as Steve's birthday.	set
+1174	that's cool, appreciated, olly.	praise
+1175	What is the current stock price for amazon?	stock
+1176	Do I have any music by Lady Antebellum?	query
+1177	Tell me items that are on my shopping list	query
+1178	coding tutorial	query
+1179	Let Wendy's know I hate them	post
+1180	I am having a meeting on tomorrow, set it	set
+1181	Any new Pinterests from Linda?	query
+1182	Book a train ticket to Charleston, West Virginia 8 AM	ticket
+1183	olly i'd like you just stop it.	commandstop
+1184	tell me how Brexit is going to affect EU citizens in the long and mid terms	factoid
+1185	Define what's├ö├ç├» a goalkeeper	definition
+1186	Delete event for November	remove
+1187	its very tough one	quirky
+1188	Can I get delivery from this restaurant?	query
+1189	I need to book rajdhani train ticket from mumbai to ahmedabad	ticket
+1190	i'd like to hear that again.	repeat
+1191	I want to have a new playlist of 80s songs	createoradd
+1192	pls turn off all the lights outdoor	hue_lightoff
+1193	Play the college baseball game	radio
+1194	Olly, please tell me the date for the first day of next month	query
+1195	could not understand that.	explain
+1196	Add payday to my calendar for every other Thursday.	set
+1197	Clear my activities list for today.	remove
+1198	it was cool, musch appreciated, olly.	praise
+1199	keep me posted on _____subject in the news	query
+1200	what day of the month is it?	query
+1201	PDA, play the radio for me.	radio
+1202	check and confirm the instruction please.	confirm
+1203	Is there valet service at the event	query
+1204	What is five over three?	maths
+1205	Is it snowing in California?	query
+1206	stop.	commandstop
+1207	Bring up Twitter to Target Customer Service.	post
+1208	I have not gotten my daily news yet, can you please brief me a little bit?	query
+1209	can you shut down please.	commandstop
+1210	start playing my most played podcast	podcasts
+1211	Is there anything on my list today?	query
+1212	PDA can you create an email for me.	sendemail
+1213	whats the time in Sydney now	query
+1214	pls add list of things to buy for pary	createoradd
+1215	turn my kitchen lights off when i leave	hue_lightoff
+1216	PDA, How much is a dollar in rupees	currency
+1217	What is going on with Obamacare?	query
+1218	i'd like to hear what i've said again.	repeat
+1219	Remove the fundraiser for dolphines in April.	remove
+1220	Do you know the weather?	query
+1221	Can you put in Lee's birthday on the 22nd of June?	set
+1222	would you please further clarify me about this.	explain
+1223	Was there any email regarding the wrong booking in SIA?	query
+1224	could not get what you've said.	explain
+1225	Do I have any email?	query
+1226	please speak one more time again.	repeat
+1227	listening song of arijit singh,post it on my fb account.	post
+1228	it's good one, thank you.	praise
+1229	When is medonna's birthday	factoid
+1230	please rectify the wrong command.	negate
+1231	read freds emails	query
+1232	no, i did not ask for it.	negate
+1233	PDA check recent news on someone	factoid
+1234	Please play some Lady Gaga.	music
+1235	send a tweet to safeway about water in my gas	post
+1236	play old classic music	music
+1237	Read information about calendar event on March 19th at 2PM	query
+1238	nope, i did not say this.	negate
+1239	yeah you get it perfectly.	affirm
+1240	add this email to my contact list	addcontact
+1241	What's my emals this morning say?	query
+1242	Book a ticket for the Ethan Allen Express to Vermont.	ticket
+1243	Turn the robot vacuum cleaner on.	cleaning
+1244	please further explain your answers to me.	explain
+1245	Olly please purchase me a train ticket to atlanta	ticket
+1246	Did the stock prices of Google go up or down?	stock
+1247	What did the S&P close out at?	stock
+1248	remind my meetings	set
+1249	it doesn't really matter with me, olly.	dontcare
+1250	Investing	quirky
+1251	isn't food great?	quirky
+1252	its peaceful	likeness
+1253	thanks for doing that.	praise
+1254	will you rephrase me about your answers further please.	explain
+1255	change the lights to a different hue	hue_lightchange
+1256	Our water bill was too high	quirky
+1257	remove the old music list	remove
+1258	i'd like to hear the last one said again.	repeat
+1259	Dim my light	hue_lightdim
+1260	best energy food for gym	recipe
+1261	olly call an uber now	taxi
+1262	please could you check that.	confirm
+1263	Hey Olly, can you please make me a creamy coffee?	coffee
+1264	what day is it today	query
+1265	turn down volume	volume_down
+1266	disable my 3PM alarm	remove
+1267	Olly make the living room blue	hue_lightchange
+1268	can you tell me what kind of show can I go tonight in Miami?	events
+1269	What is the definition of forensic?	definition
+1270	Make New List	createoradd
+1271	send a message to bill@mail.com	sendemail
+1272	On every tuesday remind me to go shopping.	set
+1273	Play music from the playlist	music
+1274	play hiphop in hot 97	radio
+1275	what were the first number of email subjects I got today?	query
+1276	its hot today?	query
+1277	What is the time difference between here and <insert city>	query
+1278	Send an email to my mom.	sendemail
+1279	Are there any events going on nearby?	events
+1280	this doesn't matter with me, olly.	dontcare
+1281	go to ne mail compile	sendemail
+1282	yeap your understanding is confirmed.	affirm
+1283	Increase volume to 50%	volume_up
+1284	you've done it right i appreciate it.	praise
+1285	uber please	taxi
+1286	jam	traffic
+1287	See my inbox for mail I received from X person	query
+1288	stop and do it again.	repeat
+1289	Play playlist WORKOUT	music
+1290	How tall is the Empire State Building?	factoid
+1291	Alexa, play music that I like.	music
+1292	what is my most played podcast	podcasts
+1293	would you elaborate your words once again to me please.	explain
+1294	Does Fongs have delivery?	query
+1295	a good first impression	quirky
+1296	send email to rohan to meet me today at evening.	sendemail
+1297	record	quirky
+1298	send reply to name	sendemail
+1299	couldn't understand what you just said now.	explain
+1300	Please find out the share price of IBM in Nasdaq	stock
+1301	explain marketing	definition
+1302	I want to hear Snow by Red Hot Chili Peppers	music
+1303	Olly, how would you describe the sun?	definition
+1304	Play favourite music	music
+1305	Math	quirky
+1306	Hey olly make the house lights a different color	hue_lightchange
+1307	Anything interesting happening next Friday?	query
+1308	olly remind me i have a meeting at 7pm	set
+1309	alert me at 3pm to goto the concert	set
+1310	Is there snow in the forecast?	query
+1311	Ok Google, what is a Ferrari?	definition
+1312	open calendar	set
+1313	Add that song to my playlist.	likeness
+1314	it doesn't really matter with me.	dontcare
+1315	Make the volume to zero	volume_mute
+1316	check recent to do list	query
+1317	How is the weather at home	query
+1318	shit, that's not what i was looking for.	negate
+1319	Meet with Joe tomorrow at 3	set
+1320	Show newest emails.	query
+1321	Check my to do list	query
+1322	go to next	podcasts
+1323	What genre is most played on my PDA?	query
+1324	what is the time of the morning train headed to Chicago	query
+1325	please confirm last thing said.	confirm
+1326	Is there room on my grocery list for an extra item?	createoradd
+1327	What time can I catch the train to DC and arrive by 9 AM?	query
+1328	will you cancel it.	commandstop
+1329	i was not clear about your answers.	explain
+1330	is it raining?	query
+1331	cancel event	remove
+1332	what is the answer to that question	maths
+1333	yeap perfect response to the command.	affirm
+1334	Make me a cup of coffee, please.	coffee
+1335	yes amazing response to command.	affirm
+1336	Olly, should I wear my gloves or not?	query
+1337	Date of recording of the song playing?	query
+1338	Play current episode.	podcasts
+1339	What is the time in India, when the time in US is 12pm	convert
+1340	send an email to my supervisor	sendemail
+1341	check all emails from XXX	query
+1342	Are there any takeaways around here?	query
+1343	remove 'father's day' from calender	remove
+1344	What is the exchange rate of rupee for dollar ?	currency
+1345	you are my star, thank you very much.	praise
+1346	what day is it on 5th december?	query
+1347	You should reply to the mail.	sendemail
+1348	play me news radio channel	radio
+1349	Play a talk program about child care	radio
+1350	is there a takeout menu at the restaurant	query
+1351	Please put me your input to know my schedule	set
+1352	Time & Date	ticket
+1353	Keep me updated on the election results	query
+1354	thanks but i think you're not right.	negate
+1355	remember <unk>	set
+1356	Please defined about printing works.	definition
+1357	What time is it in the Central timezone?	query
+1358	i think this is not the right command.	negate
+1359	order me some chinese food	order
+1360	Brew some coffee	coffee
+1361	How many countries are in Europe?	factoid
+1362	open grocery list and add milk	createoradd
+1363	add a new list	createoradd
+1364	How is the traffic in San Francisco over the Bay Bridge?	traffic
+1365	New e-mail from mom?	query
+1366	it doesn't matter, olly.	dontcare
+1367	Play me this mornings show from 101.9.	radio
+1368	Olly, give me the news on donald trump	query
+1369	Create a new list of grocery store	createoradd
+1370	Would you provide me with the answer to this question	quirky
+1371	Can you tell me list of events for this weekend in Pondichery?	events
+1372	PDA: What are the train times on the 23rd to Clarksville	query
+1373	search	factoid
+1374	Was Paul Walker working on any movies besides the Fast and the Furious when he died?	factoid
+1375	What do you do with my data and information?	quirky
+1376	what is love	definition
+1377	Whats the news on bbc news	query
+1378	s1, again explain to me please.	explain
+1379	Please turn on my smart plug socket.	wemo_on
+1380	Turn on 107.5.	radio
+1381	Tweet for me the compalint about excess water evacuation	post
+1382	How much is 12 divided by 4?	maths
+1383	one more again please.	repeat
+1384	email notifications	query
+1385	local shops	locations
+1386	When is this going to happen	query
+1387	olly i would like you just cancel it.	commandstop
+1388	who are the last number of people I got emails from?	query
+1389	When is the party this weekend?	query
+1390	What's happening in the world today?	query
+1391	resume harry potter book 1	audiobook
+1392	will you please elaborate me about what you have said again.	explain
+1393	Add v8 to my groceries.	createoradd
+1394	s1, would you please rephrase it further to me.	explain
+1395	WHAT WILL HAPPEN  TO EARTH BASED ON CLIMATIC CHANGE?	quirky
+1396	Please play Doluma from vedhalam	radio
+1397	i would like to hear again.	repeat
+1398	yeap get that right.	affirm
+1399	Do I have a home number for Shelly?	querycontact
+1400	What is IBM's stock worth?	stock
+1401	Shut off the lights in the bedroom	hue_lightoff
+1402	Add this song to my favorite list	likeness
+1403	that's helpful, thanks, olly.	praise
+1404	Martial Arts	quirky
+1405	Please send an email to <email address>	sendemail
+1406	Remind me to get the mail in 10 minutes.	set
+1407	dammit, this isn't what i am looking for.	negate
+1408	PDA, can you tell me what the date is today?	query
+1409	doesn't matter.	dontcare
+1410	New tweet:	post
+1411	you did nice job,.	praise
+1412	Look at my email	query
+1413	What is 12 plus 196?	maths
+1414	s2, i don't quite catch that.	explain
+1415	Olly, all new mail	query
+1416	Check for emails from my teacher	query
+1417	PDA, I'd like to listen to Poker Face by Lady Gaga	music
+1418	make an alarm for fridays meeting at 10am	set
+1419	previous episode	podcasts
+1420	yeap it's excellent.	affirm
+1421	check and see what will be the weather condition in New jersey, at 8 am tommorrow	query
+1422	i think that's not the correct command.	negate
+1423	play sanam	music
+1424	What time does the next train leave to Paris?	query
+1425	Olly, open Pandora and play 'workout'	radio
+1426	Whats the best way to france?	query
+1427	play me a radio channel for trance music	radio
+1428	Please send Mom an email saying that I can make it next week.	sendemail
+1429	play audiobook of arijit singh	audiobook
+1430	yeap get it right.	affirm
+1431	your answers was not so clear.	explain
+1432	please will you shut off.	commandstop
+1433	you said that wrong.	negate
+1434	s2, i can not quite catch up with you.	explain
+1435	speak once again please.	repeat
+1436	Remove events.	remove
+1437	Is my golf game going to get rained out?	query
+1438	s1, will you rephrase your answer once again to me.	explain
+1439	Make Wednesday evening at 5pm always be a meeting with Phil on my calendar.	set
+1440	Alexa, lower lights down	hue_lightdim
+1441	well done, i appreciate it, olly.	praise
+1442	Remind me at 8am tomorrow that I have a lunch meeting at noon in the conference room	set
+1443	Help me to mute my speaker.	volume_mute
+1444	which film the music comes from?what is the name of the music	query
+1445	Play Soundcloud	radio
+1446	Book a first class ticket in the next train to Miami	ticket
+1447	Purchase ticket to New York City on train.	ticket
+1448	Sum up all the things for me I could do to make myself happier	quirky
+1449	Delete the list item about the meeting.	remove
+1450	Play BBC radio 2	radio
+1451	Do I have email from my work?	query
+1452	Send email to Gary	sendemail
+1453	please would you replay your last phrase said.	repeat
+1454	check if any new emails came from {contact}	query
+1455	Play Power 102.3.	radio
+1456	what is the time right now?	query
+1457	Have my iroomba clean the house.	cleaning
+1458	set alarm half an hour from my meal time.	set
+1459	What does speaker mean?	definition
+1460	add new event to calendar and name as anna	set
+1461	What does the traffic look like on my usual route to work?	traffic
+1462	Please remove my to-do list from today	remove
+1463	hmm, you gave me wrong information.	negate
+1464	it seems like your response is incorrect.	negate
+1465	give description of statue of liberty	definition
+1466	tell me the recipe for mashed potatoes	recipe
+1467	i think you messed up the command.	negate
+1468	Review set alarms.	query
+1469	put on a pot of coffee	coffee
+1470	I need a uber to my current location.	taxi
+1471	Play a game of Chess with me.	game
+1472	can you set my alarm for 7:30 am?	set
+1473	Play The Circle	audiobook
+1474	confirm what last said.	confirm
+1475	Give me idea about the day	query
+1476	thanks for completing that.	praise
+1477	House lights blue.	hue_lightchange
+1478	Delete all my appointments for today.	remove
+1479	What video game should I play next?	factoid
+1480	play cindi's favorite podcast	podcasts
+1481	thanks but you do not get answer correctly.	negate
+1482	Drop (sender) a line	sendemail
+1483	it's cool, musch appreciated, olly.	praise
+1484	Please turn off the lights in the kitchen.	hue_lightoff
+1485	Play music on shuffle	music
+1486	What does a grapefruit look like?	definition
+1487	Tell me what clothing stores are within 5 miles of me.	locations
+1488	Please put all the lights	hue_lightup
+1489	Olly does Sarah have a new email address listed?	query
+1490	Explain what a contact lense is.	definition
+1491	yeah answer was correct.	affirm
+1492	When was Bryan Adams born?	factoid
+1493	Olly you have to check out Kfix he's the best	likeness
+1494	What are the prices to get to Chicago on a train? Book the cheapest one.	query
+1495	What are the headlines from the new york times	query
+1496	Google Michael Jackson	factoid
+1497	Today's weather is awesome .	query
+1498	plan for tomorrow	query
+1499	thanks, that was great one.	praise
+1500	Add butter to the list	createoradd
+1501	Who sent me email today and what was the subject?	query
+1502	find the most popular recipie for tacos	recipe
+1503	what is the longest river on earth	factoid
+1504	whats on my shopping list?	query
+1505	Indie	music
+1506	Please show new emails	query
+1507	Is it going to snow tonight?	query
+1508	I need to set up a meeting with Debra for Thursday at 3pm.	set
+1509	Tell me if I should use the train or bus to get across town today?	query
+1510	My mother needs the weekly weather sent to her.	sendemail
+1511	Is there a new email in the inbox from jay ?	query
+1512	kung fu panda 3	movies
+1513	show stage shows near me	quirky
+1514	Get me a train ticket from mumbai to goa	ticket
+1515	PDA set this date to repeat reminder	set
+1516	Alexa, reply to the mail with the following content	sendemail
+1517	i think you did a mistake, please fix this.	negate
+1518	MSN news	query
+1519	could you speak one more again.	repeat
+1520	How much is 500 pesos worth?	currency
+1521	Is jackie chan married	factoid
+1522	Do I have anything scheduled for tomorrow?	query
+1523	shit, you did not understand what i said.	negate
+1524	I FAVORITE SINGER IS ARIJIT SINGH, FIND HIS VOICE ON RADIO.	likeness
+1525	PDA, what is the weather of this week?	query
+1526	Tell me about the weather this week	query
+1527	Tune 91.1 Suriyan FM on	radio
+1528	this is unimportant, olly.	dontcare
+1529	music three	audiobook
+1530	can you add my brother's birthday dinner at rusk for march 23rd	set
+1531	Easy home cooking recipes	recipe
+1532	get command right.	affirm
+1533	How much time is a train to there	query
+1534	Lower my music player volume by 50% of its current level	volume_up
+1535	take note of today as my first date with bob	set
+1536	What is the time in India right now?	query
+1537	any one will be ok with me, olly.	dontcare
+1538	link 'john@gmail.com' to 'john' in contacts	sendemail
+1539	Where is the venue in which the marriage of Tom is going to takeplace	query
+1540	Play some Christian music	music
+1541	find a taxi to book	taxi
+1542	good work, you have done well.	praise
+1543	will you retry it.	repeat
+1544	Create a reminder for Visa application on this Thursday	set
+1545	yeap you have understood your understanding right.	affirm
+1546	Will you mark that I have a meeting with tom at 3 tomorrow.	set
+1547	Tell me what time it currently is.	query
+1548	Show me my last email?	query
+1549	How many degrees is it in Orange, Tx right now?	query
+1550	give me name and type of this music	query
+1551	Turn the volume down a little please	volume_down
+1552	What are my reminders for this week?	query
+1553	wait, i think you messed up my command.	negate
+1554	What shops are around me?	locations
+1555	yeap you've gotten your understanding perfectly.	affirm
+1556	olly can you cancel please.	commandstop
+1557	what did you mean by it.	explain
+1558	wooo!	quirky
+1559	you did good job,, olly.	praise
+1560	yeah you've understood my instructions right.	affirm
+1561	Hi there,Congratulate me I got a promoted in my job at office	quirky
+1562	where the event will be	query
+1563	Please program volume settings for 16 when I'm in the room at 14 for when I've gone to bed.	settings
+1564	tlemcen weather	query
+1565	How's the weather going to be this week?	query
+1566	Tweet this complaint to Delta Airlines...	post
+1567	What is the meaning of placid?	definition
+1568	Order pizza for delivery.	order
+1569	Alexa locate me the amazon restaurants	locations
+1570	you are helpful, thanks.	praise
+1571	sorry but got me incorrect.	negate
+1572	i would like to hear the last information you just said again.	repeat
+1573	check and confirm my last command please.	confirm
+1574	make list	createoradd
+1575	Erase calender events	remove
+1576	Schedule meeting with Laura	set
+1577	What street do i take to get to downtown?	query
+1578	i'd like you just stop it.	commandstop
+1579	yeah you have understood my instructions perfectly.	affirm
+1580	What is garam masala?	definition
+1581	I have a meeting at noon today	set
+1582	Update to current time	query
+1583	What time is Bina going live with her sale on Facebook?	query
+1584	Create an email to my brother asking him what time he will be over for dinner.	sendemail
+1585	Latest world news please.	query
+1586	can you set the alarm for 1:30	set
+1587	Open facebook messenger	query
+1588	Which song am I listening to right now?	query
+1589	What is the temperature I am supposed to cook this lasagna at?	recipe
+1590	you did perfect work,.	praise
+1591	give me a cooking tutorial	recipe
+1592	yeah strongly agree.	affirm
+1593	it is useful, thank you, olly.	praise
+1594	NOTE DOWN THIS EVENT ON MY CALENDAR.	set
+1595	Search for a train ticket to...	ticket
+1596		factoid
+1597	What is the time in clock	query
+1598	show bbc report of migrations	query
+1599	Show me the meetings held last month	query
+1600	Remember that I do not like this music.	dislikeness
+1601	would you repeat please.	repeat
+1602	What you know about Jhon Abraham Lincon	factoid
+1603	what is on my schedule for 9 to 11am tomorrow?	query
+1604	your answer was not so clear to me.	explain
+1605	Open media play jingle bells	music
+1606	Remove that event from my calendar	remove
+1607	Play all music by Billy Joel	music
+1608	Pull up Kate's email and write that I will let her know.	sendemail
+1609	olly what's going on around here this weekend	events
+1610	Tell me if I can travel the whole world in a day	quirky
+1611	Show the to do list for today	query
+1612	Tweet the following:  DirecTv has horrible customer service.	post
+1613	can you please please reply for that mail	sendemail
+1614	Set my alarm for 8 AM.	set
+1615	current date please	query
+1616	Remove my 1:30 appointment.	remove
+1617	Update Outlook mailbox	query
+1618	What's the weather for the entire week?	query
+1619	Give me some lavender-toned light	hue_lightchange
+1620	Resume my audio book from karl Pilkington	audiobook
+1621	s1, will you please again elaborate.	explain
+1622	Playback Tom Clancy: Splinter Cell	audiobook
+1623	PDA please compose email to...	sendemail
+1624	Mention the time in Canada now.	query
+1625	PDA, please turn on the smart socket.	wemo_on
+1626	Remember I've ordered a cake for tonight's birthday party, let me know the status please	query
+1627	Olly I love Kfix so much he's by far my favorite	likeness
+1628	aljazeera today news	query
+1629	Tell me about the events going on around my location	events
+1630	Can you turn on the demo plug socket?	wemo_on
+1631	Hey Olly, what time is it in Ocho Rios, Jamaica?	query
+1632	will you please check that.	confirm
+1633	Google find and play Florida Georgia Line the one with Nelly.	music
+1634	can you please further explain me about that.	explain
+1635	Show me events in Sacramento	events
+1636	i would like you to check last thing i said please.	confirm
+1637	can you further explain me on it please.	explain
+1638	can you tell me whats on my shopping list?	query
+1639	Forward to 4:20	podcasts
+1640	Resume a song from the audiobook by Michael Jackson	audiobook
+1641	edit contacts	addcontact
+1642	turn off all the lights	hue_lightoff
+1643	PDA, what is the current state of the investigation into Trump's ties with Russia?	query
+1644	olly shut down.	commandstop
+1645	Quiet time	volume_mute
+1646	Schedule meeting on	set
+1647	could you check that please.	confirm
+1648	Turn on all upstairs lights.	hue_lighton
+1649	Turn on my alarm	set
+1650	create a playing teams and play with them	game
+1651	lower the brightness	hue_lightdim
+1652	Delete my appointment tomorrow	remove
+1653	it's good one, thank you so much, olly.	praise
+1654	My daily schedule	quirky
+1655	Change dollar to rupees rates	currency
+1656	Make me a capuccino.	coffee
+1657	Recommend a movie which is released last Friday	movies
+1658	i think olly's command was wrong.	negate
+1659	are my contacts mostly female or male?	querycontact
+1660	Please keep quiet for the next hour.	volume_mute
+1661	Play my favorite song of last year.	music
+1662	I have a meeting by 2 pm today, please remind me.	set
+1663	Do I need to wear a coat tomorrow when I leave for work?	query
+1664	What's 13+14?	maths
+1665	define yourself in one word.	quirky
+1666	Olly can you recommend good stores in this area?	locations
+1667	would you say what you said once again please.	repeat
+1668	What time am I meeting John tomorow?	query
+1669	PDA, can you read me my Lists?	query
+1670	What day is Easter?	query
+1671	Thirteen minutes from now, remind me to drive to the park	set
+1672	What is this weeks weather forecast?	query
+1673	Bingo	quirky
+1674	set an alarm for 2 hours from now please	set
+1675	Tell more about this event	query
+1676	What are my next scheduels?	query
+1677	Mute immediately..	volume_mute
+1678	Turn on a song	music
+1679	Remove a list of food items purchased last week.	remove
+1680	Can you start FM 89.0 radio channel	radio
+1681	Please list active alarms	query
+1682	What is _________?	definition
+1683	What time will I arrive home if I take this train	query
+1684	How old is J.K. Rowling?	factoid
+1685	Send email to...	sendemail
+1686	Is there a sports bar near Kansas City Plaza area?	locations
+1687	Could you tell me about the alerts I have set?	query
+1688	Remove the next event on my calender	remove
+1689	olly please could you shut up.	commandstop
+1690	uh no, it isn't what i am looking for.	negate
+1691	Let's suck out the dust.	cleaning
+1692	please say once more.	repeat
+1693	that was useful,.	praise
+1694	Can you get me a taxi home?	taxi
+1695	Can you tell me some fun things to do in Kentucky?	events
+1696	Remind me of my sister's birthday party tomorrow an hour before it starts.	set
+1697	Find the nearest Olive Garden that has take out service.	order
+1698	New reminder at 3pm	set
+1699	Delete a list.	remove
+1700	Inform me about meetings.	query
+1701	kenny roger's lady play	music
+1702	Speak louder please.	volume_up
+1703	What artist is singing that song?	query
+1704	anything is ok with me.	dontcare
+1705	i don't really mind to select any one.	dontcare
+1706	can you try the utterance you said one more time please.	repeat
+1707	I have dinner with my sister this Saturday	set
+1708	Reply to Anthony's email	sendemail
+1709	clear calendar events all	remove
+1710	Hi, how is the weather	query
+1711	Switch to night light setting.	hue_lightchange
+1712	What's for today?	query
+1713	make a new email for emily	sendemail
+1714	olly i need a drink	coffee
+1715	do homework for me please!	quirky
+1716	Alert me if any topic relating to politics comes up	query
+1717	Waiter at Outback was rude	post
+1718	What is the traffic like this morning	traffic
+1719	Switch the lights to blue	hue_lightchange
+1720	what is my meeting at 9AM?	query
+1721	Please play any music created in the 1980's decade.	music
+1722	What does (insert) mean ?	definition
+1723	send an email to 'rohit' saying 'I am busy tommorrow'	sendemail
+1724	i think it's not the right answer.	negate
+1725	how you know me	quirky
+1726	what is my event schedule tomorrow	query
+1727	What time does the train arrive in Sacremento?	query
+1728	Put on fm101	radio
+1729	what is the status of my order no?	query
+1730	well done, thank you very much.	praise
+1731	Where are we in the stream of time?	query
+1732	yeah you've got my instructions perfectly.	affirm
+1733	Remove alarm of 7.30 a.m. on monday	remove
+1734	start podcasts on NFL	podcasts
+1735	Ring the alarm when I get home	set
+1736	remind me before monday.	set
+1737	Multiply one thousand by twelve.	maths
+1738	when is the event going to start?	query
+1739	you did great job,.	praise
+1740	olly later tonight remind me about tomorrows meeting	set
+1741	Hello how are you?	greet
+1742	uhh no.	negate
+1743	what kind of cloth eastern people wear	factoid
+1744	status of take away	query
+1745	play my playlist 'party songs'	music
+1746	please make sure your command was correct because it doesn't sound right.	negate
+1747	yes the command is confirmed.	affirm
+1748	Book taxi for now	taxi
+1749	todays a lovely day what the date	query
+1750	olly i want you just stop it.	commandstop
+1751	Has Mike sent me an email	query
+1752	hey siri give me a list of nearby shops	locations
+1753	google music find me some Enya to listen to	music
+1754	switch to 101.1	radio
+1755	let's try it once more.	repeat
+1756	put the item on the list	createoradd
+1757	Please clear my calendar for tomorrow.	remove
+1758	transcribe email <unk>	query
+1759	play rohan sharma podcast for me.	podcasts
+1760	Where does Brad Pitt live?	factoid
+1761	Could you check the reminders and tell me what are pending?	query
+1762	What time can I call from Pennsylvania and it will be business hours in Australia?	convert
+1763	Play me something <insert genre>	music
+1764	please play this song	music
+1765	thanks but i think that's not the correct response.	negate
+1766	Tell me what's happening on Instagram	query
+1767	Book me a train ticket for tomorrow	ticket
+1768	play an FM	radio
+1769	you rock, thank you so much, olly.	praise
+1770	Turn up the volume of my speakers	volume_up
+1771	Where is	factoid
+1772	uh no, you gave me incorrect information.	negate
+1773	object search	definition
+1774	what is that once again.	repeat
+1775	Make a schedule for meeting with our customer next week.	set
+1776	is the weather bad in new york right now	query
+1777	PDA, Please book me a taxi/Uber	taxi
+1778	Does my co worker have a home phone number?	querycontact
+1779	Do I need a raincoat day after?	query
+1780	Continue from where we left off in Divergent.	audiobook
+1781	post swagging in LA on my facebook timeline	post
+1782	Start me a new list.	createoradd
+1783	30 minute reminder on meeting for Tuesday	set
+1784	how the rain today	query
+1785	What is the weather like in Toronto?	query
+1786	Change my plan, erase my next event	remove
+1787	Has @realDonaldTrump posted anything new on Twitter?	query
+1788	will you please check what just said.	confirm
+1789	I love the songs of micheal Jackson, can you save some songs of jackson for me	likeness
+1790	Forward a complaint to MTS regarding Internet speed issues	post
+1791	Olly, compare the stock prices for nintendo and sony and tell me which ones are better.	stock
+1792	clear my schedule	remove
+1793	Olly, check my email.	query
+1794	ABOUT WATER	quirky
+1795	How will be the weather at night	query
+1796	describe the current state of politics	factoid
+1797	Schedule a reminder on 15th march and input name as meeting	set
+1798	Latest news from the area.	query
+1799	Is there is a High traffic?	traffic
+1800	List me the audiobooks I have already listened to.	audiobook
+1801	Tell me about this week's weather.	query
+1802	ocean 11	movies
+1803	I need to add bananas to my grocery list.	createoradd
+1804	wouldn't bother.	dontcare
+1805	Echo I added a new email address for Joe yesterday, will you find it please.	query
+1806	it's correct.	affirm
+1807	read me the news from nsnbc alexa	query
+1808	Status of my inbox.	query
+1809	uber	taxi
+1810	How much for a train ticket?	query
+1811	no, it is not what i just requested.	negate
+1812	What's on a list about my meetings this month?	query
+1813	what did you mean by saying this.	explain
+1814	4+5=9	maths
+1815	Set an alarm for this 8:00 PM this evening	set
+1816	i did not say it.	negate
+1817	Can you get me train ticket prices, please?	query
+1818	I would like to hear my lists.	query
+1819	Continue reading Moby Dick to me.	audiobook
+1820	Don't forget to remind me of my brother's birthday on April 20.	set
+1821	Only 99.9 FM is to be played on the radio	radio
+1822	what is the most famous cave in texas	factoid
+1823	put a new mail	sendemail
+1824	yeah good response to command.	affirm
+1825	Tell me person A message.	query
+1826	Notify me if I receive any mail on my email account	query
+1827	What is 10 AM in Eastern time?	query
+1828	volume check	set
+1829	s1, could you please rephrase me further on that.	explain
+1830	What's a parsec?	factoid
+1831	how many saturdays are in march?	query
+1832	PDA: Turn off the porch light	hue_lightoff
+1833	check for the color requirement	hue_lightchange
+1834	Tell me about the meeting this week	query
+1835	Define keyboard	definition
+1836	s2, that was not clear to me.	explain
+1837	i am sorry but i think you do not get me.	negate
+1838	how we calcultate	sendemail
+1839	Can you play kxly for me?	radio
+1840	i'd like to hear what you've said again.	repeat
+1841	What's trending on Twitter?	query
+1842	I need to add an event on May 5th 2017 location Goshen for Danny's Graduation Party.	set
+1843	Send an email to sjobs@apple.com	sendemail
+1844	Please defined about internet.	definition
+1845	Do I need pants?	query
+1846	Tell me Today's events of mine	query
+1847	Whats going on in my calendar	query
+1848	event remove	remove
+1849	you've done that right i appreciate it, olly.	praise
+1850	can you play my last song	music
+1851	Trending, tech news	query
+1852	yes it's amazing.	affirm
+1853	Olly, tell me what's new.	query
+1854	please let's do it again.	repeat
+1855	What does apple of my eye mean?	definition
+1856	Where do I get my pet fixed?	quirky
+1857	can you recommend some movies to watch in theater near me	movies
+1858	Send an email to my family telling them about my upcoming birthday plans	sendemail
+1859	Good restaurants	quirky
+1860	Set up a meeting with Peter Francis for Monday at 2 pm.	set
+1861	Save the opinion that I just posted to this song.	likeness
+1862	yes right response.	affirm
+1863	Open the playlist	music
+1864	Clear my next event	remove
+1865	can you please check question.	confirm
+1866	Is there a meeting on my calendar this afternoon?	query
+1867	you have done that correctly.	praise
+1868	Your personal Spotify collection, Your Music/Your Library,	music
+1869	please again explain me on this.	explain
+1870	What is the definition of succinct?	definition
+1871	s it going to be hot tomorrow	query
+1872	What is a funny joke?	joke
+1873	please set the alarm for next morning to 7 am	set
+1874	disable the alarm which is set at 9:30pm	remove
+1875	play Third Day	music
+1876	At 1pm today start the robot vacuum cleaner.	cleaning
+1877	Play the last podcast I listened to.	podcasts
+1878	fix alarm	set
+1879	set a alarm for the day	set
+1880	In another city what time is it?	query
+1881	Can I get an Uber home from the Fox downtown as soon as possible?	taxi
+1882	Aroma	recipe
+1883	what events do I have comming up	query
+1884	It's quiet time	volume_mute
+1885	Find easy recipe for almond milk	recipe
+1886	What are the subject line and sender from today's email inbox?	query
+1887	doesn't really matter to me, olly.	dontcare
+1888	Tell me a good alcoholic drink	quirky
+1889	Volume up/down	volume_up
+1890	I am no longer going to Wyatts birthday party	remove
+1891	this song is too length	dislikeness
+1892	touch the mute button	volume_mute
+1893	Which was longest river in the world	factoid
+1894	i'd like to hear the last utterance spoken again.	repeat
+1895	From my play list filter devotional songs and play write now or me	music
+1896	Get me a ticket to Boston.	ticket
+1897	confirm the details please.	confirm
+1898	can we please lower tge lights	hue_lightdim
+1899	Is it raining in New Brighton, PA?	query
+1900	Please play the song Games by Disturbed	music
+1901	What is the current exchange rate of Euro to dollar	currency
+1902	Hey hey	greet
+1903	how's it going?	quirky
+1904	who is going to my meeting at 9AM?	query
+1905	Is there anything I can substitute for eggs in a recipe?	recipe
+1906	PDA: Save this channel on Pandora please	likeness
+1907	PDA, how is the weather looking for this week?	query
+1908	Play from Smashing Pumpkins.	music
+1909	Pull up political news today from CNN	query
+1910	Find today's WaPo articles about Trump.	query
+1911	turn on smart socket in dining room	wemo_on
+1912	review latest movies	quirky
+1913	Olly, remove standup on Friday at 10am	remove
+1914	Between 10pm and 9am all emails received is to be replied to.	sendemail
+1915	Please Delete All reminder of Sunday.	remove
+1916	Next Thursday I need to be reminded to call the bank	set
+1917	i would like you confirm it please.	confirm
+1918	Find Joel Osteen's broadcast on sirius?	radio
+1919	What is the square root of 148,587	maths
+1920	please could you try what you've said once more.	repeat
+1921	Check and tell me the address of My friend Alex	querycontact
+1922	I want to hear Play That Funky Music.	music
+1923	Clean the carpets.	cleaning
+1924	remove my 4 am alaram	remove
+1925	repeat music	settings
+1926	Please tell me whether there is a new mail from jay ?	query
+1927	What is the time in Dubai ?	query
+1928	Please lower music volume	volume_down
+1929	what genre is this?	query
+1930	open jazz	music
+1931	you are my hero, musch appreciated.	praise
+1932	Give me the driving directions from faripir to gurpur	query
+1933	bbc breaking news	query
+1934	tell me what the formal defination is of .......	definition
+1935	Add Bruno Mars to my favorites	likeness
+1936	Are there any events going on in Milan?	events
+1937	PDA, what's the word orange mean?	definition
+1938	place alarm at 5 o'clock morning	set
+1939	How many alarams are set?	query
+1940	my work schedule	query
+1941	Clear the entire month of May	remove
+1942	please check and confirm what said.	confirm
+1943	oh my god why did you do that.	negate
+1944	Who have emailed me recently and what are the subjects of each email?	query
+1945	whatever is okay with me.	dontcare
+1946	Add dinner plans to my calendar	set
+1947	Is Mary Smith in my contacts list?	querycontact
+1948	Increase the volume of the speaker	volume_up
+1949	Activate the robot and vacuum the floor.	cleaning
+1950	please again explain me about it.	explain
+1951	What's the news from CNN?	query
+1952	Give me tomorrow's weather update	query
+1953	i couldn't understand what you said.	explain
+1954	I want topics on latest news	query
+1955	please could you shut up.	commandstop
+1956	Describe Heaven	definition
+1957	Is it sunny?	query
+1958	Could you please turn on the plug?	wemo_on
+1959	Get me fresh news.	query
+1960	remind me to check morning news update	query
+1961	Has the budget been voted on yet?	query
+1962	Breeds of dog that are most hypoallergenic	quirky
+1963	How much is a train ticket to Denver from here?	query
+1964	reply to Johns email by saying yes I can.	sendemail
+1965	Play the next episode	podcasts
+1966	cooking recipe	recipe
+1967	i was not clear about what you have said.	explain
+1968	Play sec01 music from good playlist	music
+1969	Do not play this song again	dislikeness
+1970	new music tracks	music
+1971	that does not matter for me, olly.	dontcare
+1972	I want to know the news form Miami Herald	query
+1973	Does Louie's do take out	query
+1974	thanks for answer.	praise
+1975	What does a geranium look like?	definition
+1976	Remove the alarm	remove
+1977	What are the latest news?	query
+1978	Where does Rush Limbaugh live	factoid
+1979	time zone between india and US	convert
+1980	thanks for your answers.	praise
+1981	i have a function at washington tomorrow, remind it	set
+1982	i have no idea regarding to what to choose.	dontcare
+1983	Turn on the lights	hue_lighton
+1984	How many reminders do I have pending?	query
+1985	Is California between Nevada and New York?	factoid
+1986	will you try what i have just said one more time please.	repeat
+1987	Is the weather cloudy tonight ?	query
+1988	that's useful, i appreciate it.	praise
+1989	Tell me Mary's cell number?	querycontact
+1990	it was nice job, thanks, olly.	praise
+1991	can you please check the command.	confirm
+1992	Give me the latest on Donald Trump.	query
+1993	Do I have any mail	query
+1994	command wrong.	negate
+1995	Give me the description of a Television circuit	definition
+1996	Please remove tomatoes from grocery list.	remove
+1997	would you tell me what said one more time.	repeat
+1998	New event, breakfast meeting, WM Mason Room, 9am	set
+1999	go to favourite list	podcasts
+2000	Change the color of my lights to something random.	hue_lightchange
+2001	your response is not so clear.	explain
+2002	can you say it one more time again please.	repeat
+2003	yeah your understanding was confirmed.	affirm
+2004	What where the winning numbers of the powerball lottery yesterday?	query
+2005	Train times location	query
+2006	I'd like to cancel the trip to Vegas next week	remove
+2007	I like jazz, you should know...	likeness
+2008	Tweet consumer service that the goods are of low quality.	post
+2009	what time does the train arrive at______	query
+2010	Set a reminder for tomorrow evening	set
+2011	What is the time now in San Diego?	query
+2012	please remind me the birthday of my uncle Joe, every may 4th?	set
+2013	Create packing checklist	createoradd
+2014	Remind me to start the crock pot at 2:00 PM	set
+2015	Is Susan's birthday on March 1?	query
+2016	tell me speed to go sun	quirky
+2017	s1, please clarify me about this further.	explain
+2018	Start new email for Yulia	sendemail
+2019	When is Christmas?	factoid
+2020	search on his interests	factoid
+2021	set list	createoradd
+2022	sorry but it's not the right answer.	negate
+2023	what you've just said is not clear.	explain
+2024	Please access GPS to direct me	query
+2025	location	definition
+2026	this is unimportant with me.	dontcare
+2027	great work, you did well.	praise
+2028	your words was not so clear.	explain
+2029	play me music	music
+2030	please will you check what i said.	confirm
+2031	can you speak the command spoke one more again please.	repeat
+2032	Increase the volume to seventy percent.	volume_up
+2033	Can you define a house	definition
+2034	What song do I listen to the most?	query
+2035	Play Nakumukka	music
+2036	Facebook Status: Anyone wanna go to the movies?	post
+2037	quite	volume_mute
+2038	is india win today cricket match.	query
+2039	Define flabbergasted.	definition
+2040	i appreciate it, it was awesome.	praise
+2041	s1, could you elaborate me further on this please.	explain
+2042	that is good one, i appreciate it.	praise
+2043	Add broccoli to my grocery list.	createoradd
+2044	that is helpful, thank you, olly.	praise
+2045	Please, cancel all my events for today	remove
+2046	Define Love	definition
+2047	no, you gave me incorrect information.	negate
+2048	you've done it correctly appreciated, olly.	praise
+2049	yes right response to the command.	affirm
+2050	give me the list of all events coming up in the next month and set notifications for all of them	set
+2051	Play country music.	music
+2052	Hey PDA what's the current time in Austin?	query
+2053	again explain me about your answers please.	explain
+2054	Can you please tell me what is the meaning of the word turnt?	definition
+2055	hey siri chance the current light settings	hue_lightchange
+2056	Tell me the weather situation	query
+2057	Set alarm for 6:00 a.m. tomorrow.	set
+2058	Can you send an email to Chelsea please	sendemail
+2059	Show me best in class theatre	movies
+2060	Please give me the forecast for Chicago.	query
+2061	Tell me a fun fact!	quirky
+2062	This question does not make sense.	quirky
+2063	PDA, Reduce volume.	volume_down
+2064	i couldn't get what you just said now.	explain
+2065	What did I get emailed about this week?	query
+2066	Compose a mail for jack	sendemail
+2067	oops, it's not correct.	negate
+2068	yeap that was wonderful.	affirm
+2069	Please, clean my shopping list	remove
+2070	Open my inbox	query
+2071	turn down the sound	volume_down
+2072	yes fantastic response.	affirm
+2073	Who I am meeting with on Wednesday at 4 pm?	query
+2074	PDA, how do I start the robot vacuum cleaner?	cleaning
+2075	I would like to listen to	music
+2076	i appreciate response, olly.	praise
+2077	I need to set up a meeting with Peter Francis on Monday.	set
+2078	Did I email Tom on the subject of gun control?	query
+2079	do not really care.	dontcare
+2080	it's helpful, appreciated.	praise
+2081	yeah exactly.	affirm
+2082	I wan to play me a Justin bieber song	music
+2083	What are the train times at Millenium Station departing toward Indiana today	query
+2084	How long does train A take to get to station B?	query
+2085	I want to hear rock.	music
+2086	I have a date with the World bank Group on the 28th, please remind me.	set
+2087	aib podcast on kashmir,start it.	podcasts
+2088	Turn the left light off	hue_lightoff
+2089	What's my calendar today	query
+2090	i would like you to check that please.	confirm
+2091	Play Hungry Eyes.	music
+2092	What's Trump been on about this week?	factoid
+2093	Delete my lunch from my calendar scheduled for tomorrow	remove
+2094	What is the last email I received?	query
+2095	Find me the oldies channel.	radio
+2096	I need a repeating reminder for every Monday at 3:30 p.m.	set
+2097	Tell me about latest controversial news of kim kardashian.	query
+2098	i was not so clear about that.	explain
+2099	What is the latest headline news from this newsource	query
+2100	Next play selected song	music
+2101	can you please check my last question.	confirm
+2102	Give me my list.	query
+2103	olly could you please shut off.	commandstop
+2104	I want you to delete my shopping list from last month	remove
+2105	Stop playing	volume_mute
+2106	start fm 109	radio
+2107	update latest news	query
+2108	Olly please check if i got any emails from mom	query
+2109	will you reset it please.	repeat
+2110	Do i got anything planned for today	query
+2111	bring me a train ticket.	ticket
+2112	Lower lights in my room	hue_lightdim
+2113	Set a notification for sports game.	set
+2114	stocks fb	stock
+2115	is river in country y?	factoid
+2116	Give me the description about Smartphone	definition
+2117	How would you describe the internet?	definition
+2118	Meaning of a particular word.	quirky
+2119	delete the vacation things to do list	remove
+2120	olly please could you shut down.	commandstop
+2121	tell me it once more.	repeat
+2122	RadioShows.mobi.	radio
+2123	Set an alarm in an hour's time	set
+2124	s2, i was unclear about what you've just said.	explain
+2125	Play the podcast entitled episode 1 Making a Murderer.	podcasts
+2126	What's the latest email I have?	query
+2127	let us play cross-words	game
+2128	Please send a business email about the time of the meeting change to Lauren.	sendemail
+2129	africa info	factoid
+2130	open company name and find forms	post
+2131	yashas bithday with vinay ,vally	set
+2132	go to setting	hue_lightchange
+2133	Any traffic issues today?	traffic
+2134	Do I need a jacket today?	query
+2135	Save this music to my favorites.	likeness
+2136	I would like a wake up alarm at 7:00 am tomorrow.	set
+2137	Send new email to jana dot litt at gmail dot com	sendemail
+2138	Skip to the next podcast	podcasts
+2139	please remove all the appointments marked in the calendar for past 5 years.	remove
+2140	By definition what does the word absolute mean?	definition
+2141	you didn't interpret the request right.	negate
+2142	when are holiday in current month	query
+2143	email gary	sendemail
+2144	Who has sent me an email in the past week?	query
+2145	find me a recipe for <unk>	recipe
+2146	I would like you to check my emails.	query
+2147	what is the dress code for tonight	query
+2148	What day of the week is 30th	query
+2149	What is AMZN worth?	stock
+2150	did trey sand any messages?	query
+2151	Include this event in my calendar.	set
+2152	I hope we could eat cookies and watch movies together.	quirky
+2153	What time are my alarms set for?	query
+2154	uh no, i think you don't interpret request right.	negate
+2155	remove this event from my calender	remove
+2156	could you please check and confirm my last command.	confirm
+2157	couldn't get what you said now.	explain
+2158	i am sorry but you did not interpret command right.	negate
+2159	can you confirm the details please.	confirm
+2160	new to list	createoradd
+2161	funny story	joke
+2162	could you check and confirm the detail please.	confirm
+2163	it is of no importance with me.	dontcare
+2164	set my alarm for 7am	set
+2165	Please add this email to my contacts	addcontact
+2166	Can you please describe the I phone seven?	definition
+2167	Tell me the names on the list.	query
+2168	agree.	affirm
+2169	Play the most popular music from the seventies	music
+2170	Send a copy of the bills to Mecky by email.	sendemail
+2171	Instruct the coffee maker to make a filter coffee ready in 10 mins.	coffee
+2172	Make an event for a dentist appointment thursday at 9am	set
+2173	Find me the latest podcast about President Trump and his immigration ban.	podcasts
+2174	set a reminder for james' party on the third	set
+2175	about  todays headline news	query
+2176	Define...	definition
+2177	Check the status of my order	query
+2178	this does not really matter for me.	dontcare
+2179	Play hip hop music	music
+2180	The latest climate and weather news.	query
+2181	Please set a monthly reminder for paying rent.	set
+2182	Alert me in three hours	set
+2183	that is useful, thank you.	praise
+2184	Activate the vacuum	cleaning
+2185	I need to set up a recurring event in my calendar please	set
+2186	Open calendar, remove all events	remove
+2187	clear current calendar	remove
+2188	play 80s music playlist	music
+2189	Tell me if anything important is happening on social media today.	query
+2190	Resume the playback of A Child Called It	audiobook
+2191	PLAY THIS PROGRAMMES IN THIS PDA'S	radio
+2192	i can't catch that.	explain
+2193	Turn the volume down.	volume_down
+2194	Am I scheduled to have any meeting today	query
+2195	Power off please	wemo_off
+2196	Can I take food home here?	query
+2197	Book me a train ticket to Chicago for tomorrow morning before 10.	ticket
+2198	Play Candy Crush	game
+2199	Did the boss send anything?	query
+2200	i'd like you check my last question please.	confirm
+2201	remind me of my meeting on...	set
+2202	i would like to start this new audiobook	audiobook
+2203	PDA please remove the appointment on April 1st.	remove
+2204	Make the list of person of the year	query
+2205	tell me that one more again please.	repeat
+2206	don't really mind.	dontcare
+2207	please remove sporty event from list.	remove
+2208	Set event on recurring	set
+2209	cnn news	query
+2210	Olly, answer the equation 8x7	maths
+2211	Did I set reminder for tomorrow meeting at 5 pm?	query
+2212	What are my available lists?	query
+2213	Please call a taxi to arrive at 4:00 and take me to the Manor Theater.	taxi
+2214	Change my music player volume to 80%	volume_up
+2215	What is (9+4/5-3)^10?	maths
+2216	anything would be okay with me.	dontcare
+2217	WHat is the latest news from CBS?	query
+2218	i am sorry but you have messed up my command.	negate
+2219	Will it rain later in Manila?	query
+2220	For how much is HP selling for?	stock
+2221	Resume The Last Kingdom for me	audiobook
+2222	What day o the week is 12th	query
+2223	Google who was the last President who didn't own a dog?	factoid
+2224	What is the weather in Seattle now?	query
+2225	Send a snotty tweet to BBC	post
+2226	clarify more on your answers please.	explain
+2227	fantastic job, you have done well, olly.	praise
+2228	Send an email to Jake to tell him thank you	sendemail
+2229	no, i think you have done a task all wrong.	negate
+2230	Make us a brew olly	coffee
+2231	i think that's not the correct response.	negate
+2232	Anything on your mind.	quirky
+2233	play latest reason podcast	podcasts
+2234	What are the things I need for my journey?	query
+2235	please tell me it one more time.	repeat
+2236	Reduce the brightness.	hue_lightdim
+2237	that's good one, thank you very much.	praise
+2238	remind me of location A on the date of X on calendar.	set
+2239	you have done it all wrongly.	negate
+2240	send reply 'thank you so much mom' to mom	sendemail
+2241	PDA turn off the light	hue_lightoff
+2242	What time is it, relative to New York?	query
+2243	How many reminders do I have	query
+2244	yeah got the answer exactly.	affirm
+2245	increase light	hue_lightup
+2246	send email to <unk>	sendemail
+2247	i wouldn't mind.	dontcare
+2248	cancel	remove
+2249	s2, don't get your words.	explain
+2250	fantastic work, you did well, olly.	praise
+2251	What is the net worth of thew celebrity.	factoid
+2252	check the weather app to see if	query
+2253	What time is it in London right now?	query
+2254	Get me a taxi to take me to the airport on Friday at 5:30am.	taxi
+2255	display my lists	query
+2256	Get in contact with (sender) on email	sendemail
+2257	Look for a radio station called rhythm on the frequency 100.1	radio
+2258	strongly agree.	affirm
+2259	PDA, show list items	remove
+2260	PLEASE TELL ME WHEN I CAN BECOME RICH IF I INVESTED IN DOW STOCKS TODAY AND WHAT WILL BE THE RETURN AFTER 5 YEARS.	stock
+2261	Please check for recent emailstudy from this sender.	query
+2262	Get news from FOX	query
+2263	tell me the time in someplace	convert
+2264	brighten lights in living room	hue_lightup
+2265	Use Schadenfraude in a sentence.	definition
+2266	Turn off all the lights in the living room and den	hue_lightoff
+2267	UEFA European Championship	quirky
+2268	list todo	query
+2269	How long does it take to get there	query
+2270	Google can you book me a ticket on the train for tomorrow.	ticket
+2271	confirm last thing said please.	confirm
+2272	what does my schedule look like today	query
+2273	mark today as the start of my diet	set
+2274	you've done that exactly.	affirm
+2275	tell me joe joe's home address	querycontact
+2276	Where does my personal information get stored?	quirky
+2277	Are there any recent unread emails?	query
+2278	Is there going to be any flip flop weather soon?	query
+2279	Remove a list no 7.	remove
+2280	Turn up the brightness	hue_lightup
+2281	yeah you got your understanding perfectly.	affirm
+2282	Turn on my pandora radio	radio
+2283	does not really matter, olly.	dontcare
+2284	System, pull any traffic news for my commute.	traffic
+2285	show conversion rate of usd and eur	currency
+2286	google calendar	set
+2287	Please let me know the what Raj's status update in Facebook	querycontact
+2288	Greg wants black coffee, can you make one?	coffee
+2289	Tell me what is on the schedule for July 7th	query
+2290	Book me a Uber for tomorrow night at 6 pm.	taxi
+2291	What is the scorecard of the India versus Australia Hockey game?	query
+2292	give me all available lists	query
+2293	How much is indian rupee going against US dollar?	currency
+2294	2AM REMOVED 4PM SET	remove
+2295	show me reviews of Donald Trump	quirky
+2296	Take me to news from NBC	query
+2297	I need to have location services on, can you check?	quirky
+2298	give me a reminder notification on tomorrow's meeting at 10:00AM	set
+2299	I want to listen to podcast about rock n roll.	podcasts
+2300	Album repeat	settings
+2301	Its too bright in here	hue_lightdim
+2302	How long do you cook a whole chicken on 350?	recipe
+2303	open grubhub	order
+2304	call me an uber for right now	taxi
+2305	say what i've just said one more again please.	repeat
+2306	describe what a chair is	definition
+2307	weather in Florida this week	query
+2308	Prepare coffee now	coffee
+2309	repeat this song	settings
+2310	start song x	music
+2311	show me the dimcolour	hue_lightdim
+2312	Please don't tell me it's going to rain on Sunday!	query
+2313	please speak the last one said one more time.	repeat
+2314	anything new on insta	query
+2315	play games	game
+2316	Place Event X in my calendar every Tuesday.	set
+2317	thanks, it was excellent.	praise
+2318	My sister just had her baby.	post
+2319	How does the dollar compare to the pound?	currency
+2320	give the shortest route to the airport	query
+2321	tell me what you've just said once more please.	repeat
+2322	tell contact mobile number	querycontact
+2323	Put dark colours instead of light ones in the house.	hue_lightchange
+2324	pull up my cnn app and read it to me	query
+2325	Set reminder notification for three o'clock	set
+2326	delete calendar events	remove
+2327	Make sure all events are removed from valendar	remove
+2328	I wish it had wider range of conversation	quirky
+2329	it's great one, thank you very much.	praise
+2330	Alexa compose email.	sendemail
+2331	change <unk> to blue	hue_lightchange
+2332	What time is the next event scheduled?	query
+2333	What was the last thing my mom said?	query
+2334	i am sorry but you messed up.	negate
+2335	Can you find Animal Crossing	game
+2336	the answer was confirmed.	affirm
+2337	i'd like to hear your phrase spoke again.	repeat
+2338	whats the date today	query
+2339	Do you think it's going to rain tommorow?	query
+2340	Send email to Elain and reminder her not to forget the oranges in the morning	sendemail
+2341	Play for me the album by The Beatles on television	radio
+2342	I would like to hear Heathens by Twenty one Pilots.	music
+2343	Set a reminder on 15th march as meeting	set
+2344	Play Subway surfers with me.	game
+2345	i am sorry but you do not understand it correctly.	negate
+2346	that isn't what i meant.	negate
+2347	Can you see what Andrew emailed me about?	query
+2348	where is the closest uber	taxi
+2349	English test form email from Marcia	query
+2350	olly that is all, cancel it.	commandstop
+2351	Should we expect rain this afternoon?	query
+2352	what are the latest mails i received?	query
+2353	Check my Facebook for notifications	query
+2354	What time is it in Moscow now?	query
+2355	hockey	events
+2356	Play the local R&B radio station.	radio
+2357	it does not really matter.	dontcare
+2358	USD to Yen	currency
+2359	uh no.	negate
+2360	raie lights	hue_lightup
+2361	Bypass certain passwords	factoid
+2362	alexa resume joes book from where i left off last time	audiobook
+2363	will you retry it please.	repeat
+2364	tweet a complaint to telephone exchange	post
+2365	Olly, can you tell me the price of google stock?	stock
+2366	you did good job, thanks.	praise
+2367	let's try what said one more again please.	repeat
+2368	what are the train schedules to New York	query
+2369	Remind me about the upcoming national holiday.	set
+2370	Read what lists I have	query
+2371	I want to listen to MC's podcast.	podcasts
+2372	no, that's not it.	negate
+2373	What is Tom's phone number?	querycontact
+2374	how much is a dollar worth compared to a yen	currency
+2375	recipe please	recipe
+2376	Remove Thanks Giving event from my calendar	remove
+2377	Siri, what time is it in Denver?	query
+2378	local things to do	events
+2379	please delete my morning alarm	remove
+2380	Olly, Do i need to bring a coat today?	query
+2381	really i do not mind, olly.	dontcare
+2382	Tell me this song	query
+2383	Between 1990 and 2000 music album is only to be played.	music
+2384	Define what a wizard is	definition
+2385	is it ok to lower tge lights	hue_lightdim
+2386	Send tweet to Wallmart	post
+2387	find me a podcast about animals.	podcasts
+2388	Music on PDA.	music
+2389	I need some rap!	music
+2390	How's the weather in Orlando?	query
+2391	What lists available	query
+2392	Move forward 2 minutes in this podcast.	podcasts
+2393	Olly, what is the most recent update regarding the hurricane Katrina?	query
+2394	this weeks weather forecast	query
+2395	dim the bedroom lights to half	hue_lightdim
+2396	What are the big news stories on Twitter?	query
+2397	I need you to set 12 noon prayer for every friday	set
+2398	Send a reply to Mike with the answer 4:30 from his email he sent this morning.	sendemail
+2399	Show John's contact information	querycontact
+2400	Turn my iroomba on.	cleaning
+2401	will you write an email to Chelsea for me	sendemail
+2402	Add this email to my address book.	addcontact
+2403	Alexa, give me another update on breaking news.	query
+2404	Create an email to Toby at Tobytoday dot com	sendemail
+2405	I want to reply to this email.	sendemail
+2406	Olly play Sigur Ros	music
+2407	again elaborate.	explain
+2408	Tell me about reasons of winning of trump.	quirky
+2409	Post to Facebook: I'm home	post
+2410	Describe the Statue of Liberty.	definition
+2411	Is the celebrity single or married.	factoid
+2412	play my playlist	music
+2413	Please tell me if I got any email recently	query
+2414	Please read any e-mails from the yesterday aloud.	query
+2415	please repeat my shopping list	query
+2416	If I have $20 how many Francs is that?	currency
+2417	set direction to central market	query
+2418	emma watson	factoid
+2419	Open Sirius app and play the classical channel	radio
+2420	send email 'how are you dad?' to dad	sendemail
+2421	Start reading that Alan Partridge book.	audiobook
+2422	please play all the songs in high volume and make adjustments to pop music mode.	music
+2423	please decrease the volume of music player.	volume_down
+2424	What day of the week is the 22nd march?	query
+2425	give me the latest updates	query
+2426	you are hero,.	praise
+2427	get it with fry	recipe
+2428	influx	traffic
+2429	Download the latest folk songs having rating of 4 star or above and play all without shuffle.	music
+2430	what are the top 20 jazz hits	music
+2431	Olly make coffee at 6am	coffee
+2432	May I know what is there on the list	query
+2433	Tell me about celebrity	quirky
+2434	I need to send a reply to Charlotte	sendemail
+2435	s2, i couldn't quite catch that.	explain
+2436	off lights	hue_lightoff
+2437	What are my alarms	query
+2438	can you tell me your last things spoke once more please.	repeat
+2439	How doespopulation play a role in a countries econonmy?	factoid
+2440	Raise living room lights half way	hue_lightup
+2441	check what i last said please.	confirm
+2442	Shut down the plug	wemo_off
+2443	Have I received any emails in the last ten minutes?	query
+2444	Play the Breakfast Club.	radio
+2445	Tweet to Amazon about late delivery of my TV	post
+2446	Tell me a play lust	query
+2447	what should i do this weekend	events
+2448	Check emails, new	query
+2449	please would you confirm what i said.	confirm
+2450	Ask for the weather today morning	query
+2451	Book and pay for a train ticket to Denver for Saturday.	ticket
+2452	i think that is not the right answer.	negate
+2453	Book me a train ticket to...	ticket
+2454	I would like to reply to the most recent email.	sendemail
+2455	Are there any reminders set for today?	query
+2456	current politics	quirky
+2457	What time is it in Central Standard Time?	query
+2458	will you speak one more time again.	repeat
+2459	I want to remove the grocery list.	remove
+2460	tell me chinese restaurants in the area	locations
+2461	will you turn the alarm off for me?	remove
+2462	i want to hear the last you just said again.	repeat
+2463	Wgat time is the train passing by	query
+2464	Can I see the next episode of the podcast?	podcasts
+2465	s2, i could not catch up with you.	explain
+2466	GIVE AN FULL DETAILS OF PDA'S	query
+2467	Snooze all today's alarms permanently.	remove
+2468	uh no, i think not right response.	negate
+2469	play my latest podcast	podcasts
+2470	Send an email to my family wishing them a happy holiday	sendemail
+2471	what color are chairs	factoid
+2472	thanks, that was fantastic job, olly.	praise
+2473	Music, led Zeppelin, houses of the holy	music
+2474	May i ask you to dim the lights	hue_lightdim
+2475	let us try what you've said one more time again.	repeat
+2476	what about this joke?	joke
+2477	Weather in Leisure City	query
+2478	open lyrics name	audiobook
+2479	Whats going on around here	query
+2480	Will 'punjab mail' reach on time in gwalior?	query
+2481	Please turn on Roomba.	cleaning
+2482	call city cab to airport	taxi
+2483	What is the echange rate between USD and CAD	currency
+2484	PDA name: kill the lights	hue_lightoff
+2485	go to calendar and schedule event	set
+2486	Book my train ticket from Las Vegas to Los Angeles	ticket
+2487	Show me the location of Everest Mountain	factoid
+2488	Today was a hard day.	quirky
+2489	the song touches my heart	likeness
+2490	Please turn the station to 107.4	radio
+2491	What does pro-bono mean?	definition
+2492	that is of no importance with me.	dontcare
+2493	Continue the last chapter of the audio book I was listening to.	audiobook
+2494	i have no idea regarding to which to select.	dontcare
+2495	Radio play 989 please	radio
+2496	Do I have a 2pm appointment	query
+2497	what is that one more time again.	repeat
+2498	Which river in Germany is the biggest?	factoid
+2499	Tell me more about the show.	quirky
+2500	Play rock 98.7 on the FM dial please?	radio
+2501	i am sorry but that was not right.	negate
+2502	When was Benjamin Franklin born?	factoid
+2503	s1, could you please elaborate me on this further.	explain
+2504	Restaurant order status	query
+2505	please elaborate me about your answers further.	explain
+2506	PDA, tell me about the solar powered garden stakes	definition
+2507	Olly, i fell at work today.	quirky
+2508	Where is Venzuela?	factoid
+2509	Play for me Hip-Hop music	music
+2510	what is the timing of bagmati express	query
+2511	what is the best method to decide what the best thing to do is....re:	quirky
+2512	whens the next train to cornwall.	query
+2513	Tell me about the current weather	query
+2514	Ask for the weather today evening	query
+2515	I need to let my small group know the location has changed	set
+2516	speak one more again please.	repeat
+2517	Order a meal from a nice restaurant	order
+2518	What's happening with the hurricane in the gulf?	query
+2519	i asked for something else.	negate
+2520	will arby's offer takeaway	query
+2521	s1, can you please explain more on what you've said to me.	explain
+2522	Please tell me what lists I have made.	query
+2523	Please send the following email to Uncle John: Yes, I will be there.	sendemail
+2524	Ok Google, lets start FMOD	game
+2525	Please check on the live football matches this weekend	events
+2526	please elaborate again to me.	explain
+2527	check for the availability of shops nearby	hue_lightoff
+2528	Porn	quirky
+2529	you have done it correctly thank you, olly.	praise
+2530	Please set the alarm for 8pm Wednesday evening	set
+2531	Change the volume	volume_other
+2532	Can you turn off/on the wenmo plug socket.	wemo_off
+2533	play new gaga playlist	music
+2534	you've done it correctly.	praise
+2535	Change moms birthday event to repeat every year on same day	set
+2536	I'd like to know the latest news on <insert topic here> as it comes in	query
+2537	Send an email to all my co workers	sendemail
+2538	shoot an email to chris about work tomorrow	sendemail
+2539	Do I have any time free on Tuesday for a 2 hour meeting with Ken?	set
+2540	Can I know the breaking news from CNN?	query
+2541	chess playing	game
+2542	Wipe everything on my calendar.	remove
+2543	dammit, not correct answer.	negate
+2544	is it bumper to bumper	traffic
+2545	Louder volume please	volume_up
+2546	How do you cook a four-cheese omelette?	recipe
+2547	Turn off room lights.	hue_lightoff

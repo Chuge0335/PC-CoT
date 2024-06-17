@@ -1,0 +1,1105 @@
+id	text	label
+0	lights to fifty percent	iot/hue_lightchange
+1	npr ted talks	play/podcasts
+2	what rihanna is doing	general/quirky
+3	tell me distance between sun and moon	qa/factoid
+4	write a tweet of complaint about my tv to samsung	social/post
+5	exchange rate of euro with dollar	qa/currency
+6	i need a train ticket to	transport/ticket
+7	where is russia located	qa/factoid
+8	have i received any mentions on twitter	social/query
+9	can you please turn off my wemo plug	iot/wemo_off
+10	what is the status of last take away order	takeaway/query
+11	olly would you shut up please.	general/commandstop
+12	shit, not correct response.	general/negate
+13	tag this song with five stars	music/likeness
+14	any important notifications	email/query
+15	how long to get downtown	transport/query
+16	shut off the lights in the bedroom	iot/hue_lightoff
+17	how many dollars is twelve pesos	qa/currency
+18	it's great one, thank you very much.	general/praise
+19	make an alarm	alarm/set
+20	i want to order some takeout food	takeaway/order
+21	what's the email address of silvia	email/querycontact
+22	s2, i was unclear about your response.	general/explain
+23	where should i go for mexican food in me area	recommendation/locations
+24	please arrange to make all lights to show brighter	iot/hue_lightup
+25	i find rap music really enjoyable	music/likeness
+26	can you mute my speaker	audio/volume_mute
+27	time to hear me some blake shelton	play/music
+28	remove the item from list	lists/remove
+29	play for me hip hop music	play/music
+30	my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id	email/sendemail
+31	what is the current date today	datetime/query
+32	wouldn't mind.	general/dontcare
+33	i think you did the task incorrectly.	general/negate
+34	order a medium pizza with pepperoni and bacon on its	takeaway/order
+35	lindafancy55@gmail dot com	email/sendemail
+36	how many likes does my last instagram photo have	social/query
+37	headline news for texas	news/query
+38	turn on notification for all news on the stock market	qa/stock
+39	i am sorry but that is not the right answer.	general/negate
+40	stop audiobook	play/audiobook
+41	set alarm for tomorrow six am	alarm/set
+42	when it is nine in the east what time is it in the west	datetime/convert
+43	i need to set an alarm how many do i have set	alarm/query
+44	how much rate will be calculated	qa/stock
+45	all alarms	alarm/query
+46	list phone and email id of robert	email/querycontact
+47	i would like the recipe for baked chicken	cooking/recipe
+48	increase the volume so that i can hear it in other room	audio/volume_up
+49	next episode please	play/podcasts
+50	olly will you just stop it please.	general/commandstop
+51	what is mondays actual date	datetime/query
+52	what music is playing	music/query
+53	we need milk	lists/createoradd
+54	more light	iot/hue_lightup
+55	how much is the us dollar versus the pound	qa/currency
+56	is my reminder alarm set for dance class	alarm/query
+57	awesome job, you did well.	general/praise
+58	play music for me	play/music
+59	will you just stop it please.	general/commandstop
+60	make my collection mostly pop with a good bit of psychedelia	play/music
+61	is my order ready	takeaway/query
+62	how many months in a year	qa/factoid
+63	get news about new foreign policy	news/query
+64	remove the first alarm	alarm/remove
+65	send an email to with the subject as test and no content	email/sendemail
+66	can i get takeout from pf changs	takeaway/query
+67	what time is it eastern	datetime/query
+68	please call china wok and order number seven	takeaway/order
+69	recommend me some shops to shopping in angel	recommendation/locations
+70	how many pesos to an american dollar	qa/currency
+71	i'd like you just stop.	general/commandstop
+72	tell me once again.	general/repeat
+73	olly i would like you just cancel it.	general/commandstop
+74	i need to see if i got any new email	email/query
+75	do you recommend any movies that are currently playing in me area	recommendation/movies
+76	when does the closest bar close	recommendation/locations
+77	what is the traffic like	transport/traffic
+78	google uber	transport/taxi
+79	how effective will be to buy nike stock	qa/stock
+80	switch off the master's bedroom	iot/hue_lightoff
+81	lower the lights	iot/hue_lightdim
+82	what is the time in bangalore	datetime/query
+83	remind me every year on this date of	calendar/set
+84	i want a train ticket from boston to new york	transport/ticket
+85	what trips are available from new york city to poughkeepsie	transport/query
+86	pull up lights control	iot/hue_lightup
+87	what is my wife's email	email/querycontact
+88	define elaborate	qa/definition
+89	olly can you cancel please.	general/commandstop
+90	olly that is enough, cancel.	general/commandstop
+91	find the events	recommendation/events
+92	fetch me two train tickets for the earliest train to paris	transport/ticket
+93	set rotating event	calendar/set
+94	what alarms do i have set	alarm/query
+95	show me all of my active alarms	alarm/query
+96	play alex jones in radio	play/radio
+97	turn on shuffle	music/settings
+98	mute the sound	audio/volume_mute
+99	define what a wizard is	qa/definition
+100	i need to go to dundee at five am on sunday by train	transport/ticket
+101	michael jackson family background	qa/factoid
+102	list the lists i have	lists/query
+103	order a large pepperoni pizza from dominos to go	takeaway/order
+104	add a reminder to april fourth to go to the dentist	calendar/set
+105	give details of rock sand	qa/definition
+106	pontificate definition	qa/definition
+107	anyone for tennis	play/game
+108	what new movies available today	recommendation/movies
+109	bed room two darken	iot/hue_lightdim
+110	did any emails come for me in the last five hours	email/query
+111	what's his number	email/querycontact
+112	how many species of bees are there in the united states	qa/factoid
+113	turn off the closet light	iot/hue_lightoff
+114	search for podcasts that cover men's issues	play/podcasts
+115	i need you to book a train ticket that leaves at two pm	transport/ticket
+116	make me a capuccino	iot/coffee
+117	check inbox for mail from sarah	email/query
+118	dim the lights	iot/hue_lightdim
+119	please play some songs for kids	play/radio
+120	order six chicken tacos from chipotle	takeaway/order
+121	closest chipotle	takeaway/order
+122	thanks but you didn't get me.	general/negate
+123	tweet complaint to dominoes	social/post
+124	brighten of lights in living room	iot/hue_lightup
+125	restart bill nye book	play/audiobook
+126	order food from applebees	takeaway/order
+127	please play me a song from my favourite list	play/music
+128	hello google post my current status on twitter mentioning a great trip to paris with friends and family	social/post
+129	add detergent to the list of things i need to buy	lists/createoradd
+130	what is on my to do list today	lists/query
+131	turn on vacuum	iot/cleaning
+132	turn off wifi when you leave home to save power	iot/wemo_off
+133	launch super mario	play/game
+134	where is the closest bar	recommendation/locations
+135	convert eastern time to western time	datetime/convert
+136	please remove the first list	lists/remove
+137	what genre of music is in my music folder	music/query
+138	turn off all lights	iot/hue_lightoff
+139	play a news radio station	play/radio
+140	what is today's current date	datetime/query
+141	rm rf calendar	calendar/remove
+142	does peking garden do orders online	takeaway/query
+143	can i see my lists for today	lists/query
+144	tell me the song that is currently playing	music/query
+145	how does merriam webster define ultra	qa/definition
+146	i want to hear this week's midweek motorsport	play/radio
+147	what does a beech tree look like	qa/definition
+148	i'm really enjoying this song	music/likeness
+149	does not matter to me.	general/dontcare
+150	what movies are playing tonight	recommendation/movies
+151	play all by the beatles	play/music
+152	change alarm to start at midnight	alarm/set
+153	recipe for crabmeat	cooking/recipe
+154	where is the closest uber	transport/taxi
+155	tell me what is on my grocery list for this week	lists/query
+156	where is a walking trail near me	recommendation/locations
+157	yeap excellent response.	general/affirm
+158	love me some brad paisley	music/likeness
+159	do i have any new email from ryan	email/query
+160	play recently added audiobook	play/audiobook
+161	lets play tic tac toe	play/game
+162	i want to hear what i've just said again.	general/repeat
+163	i want coffee	iot/coffee
+164	set an alarm for five minutes from now	alarm/set
+165	tell me a joke	general/joke
+166	olly that's enough, stop it.	general/commandstop
+167	color the lights red	iot/hue_lightchange
+168	play scabble with me	play/game
+169	that's not the right answer.	general/negate
+170	more light please	iot/hue_lightup
+171	you have done it correctly musch appreciated, olly.	general/praise
+172	is there anything left on my list	lists/query
+173	would you try the last one spoken one more time again please.	general/repeat
+174	how is jennifer garner's career doing	qa/factoid
+175	that doesn't matter to me, olly.	general/dontcare
+176	cancel list	lists/remove
+177	next podcast play	play/podcasts
+178	do i have a doctors appointment today	calendar/query
+179	got it correcly.	general/affirm
+180	set the alarm for tomorrow five am	alarm/set
+181	i like you confirm my last command please.	general/confirm
+182	if i was in the eastern time zone what time would it be	datetime/convert
+183	tell me the details of the music playing	music/query
+184	what did you mean by saying this.	general/explain
+185	get me a uber	transport/taxi
+186	skip ahead to the next podcast	play/podcasts
+187	play the list from my favorites	play/music
+188	write a tweet to this company	social/post
+189	when is the next train to london	transport/query
+190	change the light colors	iot/hue_lightchange
+191	open uber and book a car for twelve o'clock	transport/taxi
+192	google the word	qa/definition
+193	could you please confirm what i just said.	general/confirm
+194	the list contain what	lists/query
+195	change the light color the red	iot/hue_lightchange
+196	cnn headlines	news/query
+197	can you make the room brighter	iot/hue_lightup
+198	i want a train ticket to edinburgh	transport/ticket
+199	i need to hear that sentence said again.	general/repeat
+200	please delete my morning alarm	alarm/remove
+201	show me my emails from the past hour	email/query
+202	check the traffic to our home	transport/traffic
+203	olly that is enough.	general/commandstop
+204	recommend a local steak restaurant	recommendation/locations
+205	i would like to know the meaning of word	qa/definition
+206	get rid of the first three events in my calendar	calendar/remove
+207	hmm, i did not ask for this response.	general/negate
+208	what is the current value of yen in american money	qa/currency
+209	hey olly make sure my calendar is completely clear tomorrow	calendar/remove
+210	is the answer of five plus two seven	qa/maths
+211	please play the early franks sinatra stuff i have	play/music
+212	what alarms have been set for me	alarm/query
+213	please change the color of my lights surprise me	iot/hue_lightchange
+214	please archive my read messages	email/query
+215	turn the lights down in the living room	iot/hue_lightdim
+216	reach by mail to my family	email/sendemail
+217	turn off garage light	iot/hue_lightoff
+218	you've got the answer perfectly.	general/affirm
+219	let's play chess	play/game
+220	wouldn't really mind for whatever.	general/dontcare
+221	make the volume to zero	audio/volume_mute
+222	where is the closest kroger	recommendation/locations
+223	turn the volume off	audio/volume_mute
+224	any local news stories for my home city	news/query
+225	what is twenty percent of one hundred and twenty	qa/maths
+226	how is my commute	transport/traffic
+227	would you clarify me on your answer further please.	general/explain
+228	olly please can you shut up.	general/commandstop
+229	what was the date when the plum street temple in cincinnati ohio was built	qa/factoid
+230	will it get warmer here next week	weather/query
+231	show me the recipe for cookies	cooking/recipe
+232	let me know of any incoming emails for the last hour please	email/query
+233	search the contact	email/querycontact
+234	access latest news	news/query
+235	find tacos near my home	recommendation/locations
+236	what is a stock price of tata	qa/stock
+237	please add an item in my calendar	lists/createoradd
+238	fantastic work, you've done well.	general/praise
+239	what is john doe's address	email/querycontact
+240	what are all my lists	lists/query
+241	tell how vegetable is cooked	cooking/recipe
+242	anything would be good with me, olly.	general/dontcare
+243	set alarm at five am	alarm/set
+244	google please be extra quiet the baby is sleeping	audio/volume_mute
+245	go back to previous episode of podcast	play/podcasts
+246	sorry.	general/repeat
+247	repeat music	music/settings
+248	please sound an alarm three hours before a scheduled event	alarm/set
+249	set lights to twenty percent	iot/hue_lightchange
+250	what's the pound to dollar exchange rate	qa/currency
+251	please play michael jackson album	play/music
+252	playback tom clancy splinter cell	play/audiobook
+253	tell me the recipe for yellow rice	cooking/recipe
+254	play the latest seahawks podcast	play/podcasts
+255	tweet british airways that my last flight from chicago to london was delayed	social/post
+256	what movies are playing nearby	recommendation/movies
+257	rock	play/music
+258	play what live	play/music
+259	please tell me the latest news about politics	news/query
+260	yes you have done it exactly.	general/affirm
+261	customer service complaint tweet the following	social/post
+262	can you please clarify me about this further.	general/explain
+263	hey reply a mail which i received	email/sendemail
+264	please turn down the lights to fifty percent in the den	iot/hue_lightdim
+265	what trending on twitter	social/query
+266	turn the volume down	audio/volume_down
+267	please turn off the light in the upstairs bedroom	iot/hue_lightoff
+268	dim the garden light by half	iot/hue_lightdim
+269	show me how to cook lasagna	cooking/recipe
+270	initiate cleaning process	iot/cleaning
+271	delete alarm	alarm/remove
+272	how me the highest weather this week	weather/query
+273	play any country music station	play/radio
+274	report the time in miami	datetime/query
+275	stop, this is not right answer.	general/negate
+276	remove tomorrow's alarm	alarm/remove
+277	double cappuccino small please	iot/coffee
+278	what is the traffic like right now	transport/traffic
+279	request a taxi from udrive service	transport/taxi
+280	oops, you did not get me.	general/negate
+281	lights down to seven	iot/hue_lightdim
+282	exact response to the command.	general/affirm
+283	how much is a g. b. p. in u. s. d.	qa/currency
+284	can you please remove the alarm	alarm/remove
+285	will traffic be good when i leave in five minutes	transport/traffic
+286	show me the time	datetime/query
+287	what are listed	lists/query
+288	current price of google please	qa/stock
+289	mute yourself until five pm	audio/volume_mute
+290	remind me to buy jeans on my shopping list	lists/createoradd
+291	initiate polling for new email	email/query
+292	i like this song	music/likeness
+293	delete the following list	lists/remove
+294	start radio station one oh seven point five fm	play/radio
+295	i want to hear this podcast	play/podcasts
+296	we are going to play poker together	play/game
+297	give me the time	datetime/query
+298	has sarah posted anything today	social/query
+299	it seems like olly's command was not right.	general/negate
+300	when is boy band playing	music/query
+301	send a tweet about my complaint on my truck to consumer digest	social/post
+302	did you get last thing i said correctly?	general/confirm
+303	what day is this event scheduled for	calendar/query
+304	is the road in some particular area wide or narrow	transport/traffic
+305	s2, i am unclear about what you have just said.	general/explain
+306	increase the brightness of lights bedroom	iot/hue_lightup
+307	s1, can you rephrase me more on the last sentence please.	general/explain
+308	Switch off the smart socket	iot/wemo_off
+309	yes wonderful response.	general/affirm
+310	recipes that can be cooked in an hour	cooking/recipe
+311	will you please check it.	general/confirm
+312	will you have the vacuum start cleaning	iot/cleaning
+313	what song in the theme song for frasier	music/query
+314	checkout top restaurant near me and order shahi panner	takeaway/order
+315	turn the lights higher	iot/hue_lightup
+316	that is helpful, thanks.	general/praise
+317	what is your country	general/quirky
+318	write an email recipient ray	email/sendemail
+319	start pandora	play/radio
+320	tell me my alarms	alarm/query
+321	low the volume	audio/volume_down
+322	convert current time from g. m. t. to est	datetime/convert
+323	what is recipe	cooking/recipe
+324	will you check what i said please.	general/confirm
+325	on third april we will go to watch j llb movie set it	calendar/set
+326	could you speak once more please.	general/repeat
+327	hi olly change the color of lights in my room to red	iot/hue_lightchange
+328	i want some coffee	iot/coffee
+329	i want to book a train ticket	transport/ticket
+330	google stock price	qa/stock
+331	try the last message one more time please.	general/repeat
+332	if my vacuum cleaner is not activated please activate it	iot/cleaning
+333	can this room have green light	iot/hue_lightchange
+334	turn on the wemo plug socket	iot/wemo_on
+335	what's the weather in toronto today	weather/query
+336	buy me a ticket to boston	transport/ticket
+337	that's helpful, i appreciate it.	general/praise
+338	i would like to hear the theme song to this is us	play/music
+339	skip this one	play/podcasts
+340	please further rephrase it.	general/explain
+341	turn off the garage light	iot/hue_lightoff
+342	make the light in here redder	iot/hue_lightchange
+343	how does the desk look	qa/definition
+344	that's helpful, thank you very much.	general/praise
+345	what's happening at the library this month	recommendation/events
+346	any one will be ok with me, olly.	general/dontcare
+347	whatever.	general/dontcare
+348	play lady by kenny roger	play/music
+349	let's play some pong	play/game
+350	send an email to my boss and attach the presentation file with it apologize for being late	email/sendemail
+351	what's happening in my town	recommendation/events
+352	how high is the s n. p	qa/stock
+353	right response to command.	general/affirm
+354	when is the third monday of this month	datetime/query
+355	order pizza from domino's	takeaway/order
+356	write a complaint to best buy	social/post
+357	start coffee machine	iot/coffee
+358	turn on the wemo plug socket to plug in my dongle	iot/wemo_on
+359	do i have a new email from eric	email/query
+360	how much snow has fallen in maine since yesterday	weather/query
+361	play sam harris audiobook	play/audiobook
+362	i am in need of some pizza what's the closest place that delivers	takeaway/order
+363	play football with me	play/game
+364	it's wonderful job, thank you very much.	general/praise
+365	new messages	email/query
+366	find me any news from so clean the last six hours	news/query
+367	when is taco bell going to arrive	takeaway/query
+368	is there a train from philadelphia to new york city at noon	transport/query
+369	is there anything new in my email folder	email/query
+370	you are the best, thank you so much, olly.	general/praise
+371	can you adjust the lighting for me to be brighter	iot/hue_lightup
+372	start from my last session of joes book	play/audiobook
+373	book my chair class ac train ticket from manhattan to new york	transport/ticket
+374	show me the stock prices of target today	qa/stock
+375	please change the lighting to blue	iot/hue_lightchange
+376	would not bother, olly.	general/dontcare
+377	could you tell me the last spoke once again.	general/repeat
+378	is it going to be nice tomorrow	weather/query
+379	erase all events	calendar/remove
+380	tell me the best recipes for a given dish	cooking/recipe
+381	what are the current lists i have	lists/query
+382	temperature this hour	weather/query
+383	lower the volume please	audio/volume_down
+384	which currency is greater the us dollar or yen	qa/currency
+385	is there a chili cookoff this weekend	calendar/query
+386	show mobile number of john	email/querycontact
+387	please let me know the alarm kept for tuesday's meeting	alarm/query
+388	tell me a good doctor joke	general/joke
+389	please reset that.	general/repeat
+390	please will you try again.	general/repeat
+391	when was the song playing now released	music/query
+392	it was not the correct response.	general/negate
+393	map out a route from here to abita brew pub	transport/query
+394	get rid of item on the list	lists/remove
+395	you've done that correctly thanks.	general/praise
+396	play my favourite podcasts	play/podcasts
+397	have bing's stocks dropped	qa/stock
+398	please play the next episode	play/podcasts
+399	please clean the floor	iot/cleaning
+400	is there christmas on twenty second	datetime/query
+401	hey what is the definition of survey	qa/definition
+402	how do you like being my assistant	general/quirky
+403	how long will it take to drive to long beach	transport/traffic
+404	skip to the next episode of this podcast	play/podcasts
+405	make a new list	lists/createoradd
+406	please remove the following list	lists/remove
+407	set alarm for tomorrow morning at six am	alarm/set
+408	get me a ride to hospital	transport/taxi
+409	bring back talking after	audio/volume_up
+410	delete shopping list	lists/remove
+411	add spent five dollars in my expenses list	lists/createoradd
+412	define a phrase blue sky research	qa/definition
+413	retry it please.	general/repeat
+414	answer for three times four	qa/maths
+415	exchange euro to dollar	qa/currency
+416	i need to play sims	play/game
+417	speak loudly	audio/volume_up
+418	could you please yell the answer out to me	audio/volume_up
+419	you got the command right.	general/affirm
+420	take out event from calendar	calendar/remove
+421	i want to play a game	play/game
+422	add new year with family next week	calendar/set
+423	open radio	play/radio
+424	i want the light in the kitchen powered off	iot/hue_lightoff
+425	please will you confirm command.	general/confirm
+426	s2, i didn't catch up with you.	general/explain
+427	fun things to do today	recommendation/events
+428	s2, i can not catch up with you.	general/explain
+429	Define economics	qa/definition
+430	you are star, musch appreciated, olly.	general/praise
+431	who sings the song about a long black train	music/query
+432	where is the closest spot to order food for pickup	takeaway/query
+433	please read me my current lists	lists/query
+434	what's around me	recommendation/locations
+435	please shut up.	general/commandstop
+436	open irctc application and go to book ticket	transport/ticket
+437	resume story	play/audiobook
+438	please increase the brightness in this room	iot/hue_lightup
+439	exchange rates of inr and u. s. d.	qa/currency
+440	remind me about my anniversary in one day advance	calendar/set
+441	today i had a record breaking sale	general/quirky
+442	what is apple's stock price	qa/stock
+443	set the speakers to mute	audio/volume_mute
+444	any one would be fine for me.	general/dontcare
+445	please tell me the name of this band	music/query
+446	i would like a joke	general/joke
+447	i would like to listen to this programme on radio	play/radio
+448	would you stop it.	general/commandstop
+449	when does olive garden close today	recommendation/locations
+450	what should i do this weekend	recommendation/events
+451	can you delete all events from my calendar	calendar/remove
+452	switch on the green light in playroom	iot/hue_lightchange
+453	play this game with me	play/game
+454	find train ticket	transport/ticket
+455	are there any events happening this weekend	recommendation/events
+456	can you define this word	qa/definition
+457	get me to the nearest train station	transport/query
+458	what is a cookie recipe	cooking/recipe
+459	read the audiobook of war of the roses	play/audiobook
+460	i want you to remove this event	calendar/remove
+461	show directions to pondy	transport/query
+462	enter silence mode	audio/volume_mute
+463	what's the temperature	weather/query
+464	remind me to take out the trash	calendar/set
+465	my events	calendar/query
+466	could you please book a cab for me in uber from la to ny today	transport/taxi
+467	tell me about the alarm timings	alarm/query
+468	can you change the lights to white	iot/hue_lightchange
+469	search for gluten free menus	cooking/recipe
+470	pull up all emails sent to me from amazon	email/query
+471	what was the first car made	qa/factoid
+472	can you give me a recipe for homemade chicken noodle soup	cooking/recipe
+473	email my meeting details to my manager	email/sendemail
+474	who is the contact that last called me	email/querycontact
+475	jokes	general/joke
+476	can you play tic tac toe	play/game
+477	do i have any new tweets	social/query
+478	what date is my anniversary	calendar/query
+479	if there any alarm is set then let me know	alarm/query
+480	please send mom an email saying that i can make it next week	email/sendemail
+481	turn on the wemo plug	iot/wemo_on
+482	this is one of the best songs for me	music/likeness
+483	send tweet via message to cardinal cafe and tell them their customer service is outstanding	social/post
+484	what is my next reminder	calendar/query
+485	what is on this list	lists/query
+486	start my audio book from where i left off	play/audiobook
+487	is the train time to a location long	transport/query
+488	set an alarm for me at eight am	alarm/set
+489	increase the volume of the left speaker by ten	audio/volume_up
+490	alter the color of the lights at home	iot/hue_lightchange
+491	give me the definition of carion	qa/definition
+492	delete the list item about the meeting	lists/remove
+493	can you raise the lights for me please	iot/hue_lightup
+494	call a taxi for me	transport/taxi
+495	make sure my shuffles are always repeat and always shuffled	music/settings
+496	send email to mommy that i'll be going the party	email/sendemail
+497	what time do i have a doctors appointment on the twenty second	calendar/query
+498	what is name of the song currently playing	music/query
+499	select a different color for the lights	iot/hue_lightchange
+500	olly that is all.	general/commandstop
+501	add this song to my favorite list	music/likeness
+502	send an email to my mum that i will visit her next weekend	email/sendemail
+503	please play only sad song in music player	play/music
+504	what about this joke	general/joke
+505	it doesn't matter to me.	general/dontcare
+506	yeah exact response to the command.	general/affirm
+507	save email id	email/addcontact
+508	please email celine	email/sendemail
+509	pawel prepare the meeting with john	calendar/query
+510	please try your last sentence you said once again.	general/repeat
+511	can you make me some coffee	iot/coffee
+512	play my bookmarked audiobook	play/audiobook
+513	s2, do not get your answer.	general/explain
+514	What's playing	music/query
+515	remove all alarms set today	alarm/remove
+516	ocean eleven	recommendation/movies
+517	eight am manila time is what in eastern time	datetime/convert
+518	add new items in the remainder list	lists/createoradd
+519	is mysore going to be very hot and humid today whats the weather status	weather/query
+520	draft an email to kailey about work later	email/sendemail
+521	get me the latest on current events going on in the world	news/query
+522	Shut down the sound	audio/volume_mute
+523	let's play a game of truth or dare	play/game
+524	let me hear some music	play/music
+525	check the current playing music title	music/query
+526	free home delivery	takeaway/order
+527	add this one also	lists/createoradd
+528	start play road rash	play/game
+529	pull up the shopping list	lists/query
+530	how much would it cost to buy stock in apple	qa/stock
+531	add a movie name to the wish list	lists/createoradd
+532	make me laugh	general/joke
+533	social media updates	social/query
+534	did i remember to set a reminder alarm for my next doctor's appointment	alarm/query
+535	get me the number for local taxi service	transport/taxi
+536	do i have a party tomorrow save on my calendar	calendar/query
+537	show stock of goog	qa/stock
+538	which was that coldplay song i listened to yesterday evening can you play it again	music/query
+539	please increase the light of table lamp	iot/hue_lightup
+540	can you please turn off the light of my bed room	iot/hue_lightoff
+541	is bills pager number in my contacts	email/querycontact
+542	anything is ok for me.	general/dontcare
+543	i need a taxi in thirty minutes	transport/taxi
+544	when will the match start	calendar/query
+545	book a cab for new york	transport/taxi
+546	retrieve the light for me	iot/hue_lightup
+547	hey send an email to my friend	email/sendemail
+548	set the alarm tone	alarm/set
+549	begin again book swan	play/audiobook
+550	i need a taxi at eight tomorrow morning to take me to work	transport/taxi
+551	i want a train ticket	transport/ticket
+552	any restaurant in the beautiful	takeaway/query
+553	play the urban radio station	play/radio
+554	comcast sucks put that on their twitter account	social/post
+555	exchange rate between dollar and mexican peso	qa/currency
+556	what is the news today in polk county florida	news/query
+557	what is the month day and year	datetime/query
+558	how do you describe a capabara	qa/definition
+559	hey olly chance the current light settings	iot/hue_lightchange
+560	can you tell me what's on the schedule for tomorrow	calendar/query
+561	did i add milk to the shopping list	lists/query
+562	did you get it correctly?	general/confirm
+563	solution for eighty one divided by nine	qa/maths
+564	could you please check and confirm details.	general/confirm
+565	i have ten us dollars how many canadian dollars do i have	qa/currency
+566	show me some food court nearest to my location	recommendation/locations
+567	raise the volume of my music player by fifty percent	audio/volume_up
+568	has anything happened to mass effect	news/query
+569	have a taxi pick me up	transport/taxi
+570	who is the singer	music/query
+571	add this song to my catalogue	music/likeness
+572	latest updates	news/query
+573	check the news	news/query
+574	you are helpful, thanks.	general/praise
+575	please will you reset.	general/repeat
+576	will you do it again please.	general/repeat
+577	please open snooker game i would like to play with you	play/game
+578	lower hallway lights	iot/hue_lightdim
+579	use vacuum cleaner in the hall	iot/cleaning
+580	let's play our favourite football match on tv	play/game
+581	send email to robert, what time is dinner	email/sendemail
+582	you are leading me into wrong.	general/negate
+583	create new list for baby names	lists/createoradd
+584	please could you try what you've said once more.	general/repeat
+585	how long until my order is ready	takeaway/query
+586	show exchange rate of u. s. d. and inr	qa/currency
+587	switch off the light on the left	iot/hue_lightoff
+588	current news cnn	news/query
+589	today's local events	recommendation/events
+590	that must be some mistakes.	general/negate
+591	send email to mom and tell her see her at disney world	email/sendemail
+592	do i have an email from person a	email/query
+593	i would like you to check and confirm detail please.	general/confirm
+594	olly please shut off.	general/commandstop
+595	i'd like to continue to the next episode	play/podcasts
+596	what is email id of john	email/querycontact
+597	remind me if i miss my evening walk routine	calendar/set
+598	tell me items that are on my shopping list	lists/query
+599	i would like to hear again.	general/repeat
+600	about reality in world	general/quirky
+601	can you turn my bedroom lights off	iot/hue_lightoff
+602	would you cancel it please.	general/commandstop
+603	change this time to ist	datetime/convert
+604	play songs by adele	play/music
+605	these lights are too bright please lower them	iot/hue_lightdim
+606	i want to hear a good joke	general/joke
+607	speak louder please	audio/volume_up
+608	how do i subtract four from two	qa/maths
+609	delete this from list	lists/remove
+610	delete event for tuesday	calendar/remove
+611	look up information on mount rushmore	qa/factoid
+612	stop, you didn't instruction the request right.	general/negate
+613	can you make me a cup of coffee	iot/coffee
+614	increase the volume to seventy percent	audio/volume_up
+615	please check and confirm detail.	general/confirm
+616	what song is playing on windows media player	music/query
+617	let's play workout playlist	play/music
+618	please list shops within one miles from me	recommendation/locations
+619	who is the singer of this song right now	music/query
+620	remove calendar events for this week	calendar/remove
+621	sorry but it was not the correct response.	general/negate
+622	please go to next date	play/podcasts
+623	lower speaker volume	audio/volume_down
+624	clear my next event	calendar/remove
+625	hey order a pizza pie with extra cheese	takeaway/order
+626	open this game	play/game
+627	turn off the socket	iot/wemo_off
+628	send an email to bob	email/sendemail
+629	i love the song do you	music/likeness
+630	where is the hottest place on earth	qa/factoid
+631	what does two plus two equal	qa/maths
+632	what playlist is on shuffle	music/query
+633	repeat the last song again	music/settings
+634	show me the picture of the singer	music/query
+635	what's traffic likexchange on four hundred and forty one	transport/traffic
+636	what and who was i emailed about last week	email/query
+637	i am in need of a taxi right now	transport/taxi
+638	what music is this	music/query
+639	reserve a ticket to go to destination by train	transport/ticket
+640	you've understood my instructions exactly.	general/affirm
+641	what is one dollar in euros	qa/currency
+642	what is the condition of traffic from work to home	transport/traffic
+643	play uno together	play/game
+644	book me a train ticket to new york city on the third i don't care what time	transport/ticket
+645	what is the time in milwaukee	datetime/query
+646	turn off speaker	audio/volume_mute
+647	am i free on sunday day	calendar/query
+648	erase my whole calendar	calendar/remove
+649	refresh email	email/query
+650	book a ticket for the evening train line	transport/ticket
+651	display exchange rate of euro to indian rupee	qa/currency
+652	i need a six am wakeup call	alarm/set
+653	are there any interesting stuff happened today in my twitter	social/query
+654	book a train ticket from mumbai to goa	transport/ticket
+655	what movies are being shown at the regal cinema	recommendation/movies
+656	please update me on my social media accounts	social/query
+657	go to the next episode in this podcast	play/podcasts
+658	where does fred work	email/querycontact
+659	are there any events going on downtown tonight	recommendation/events
+660	it is very hot today is not it	weather/query
+661	start the coffee maker	iot/coffee
+662	what is the plot of the most recent will smith movie	qa/factoid
+663	just add a new email in my contacts from michael	email/addcontact
+664	i need the lights raised can you do that	iot/hue_lightup
+665	what are the events taking place in new york today	recommendation/events
+666	decrease brightness	iot/hue_lightdim
+667	can you tell me the time in new york	datetime/query
+668	go to email and send message to	email/sendemail
+669	identify song	music/query
+670	turn on the robot vacuum	iot/cleaning
+671	compose a new email but i got a new address this time brandon at example dot com	email/sendemail
+672	please tell me what a crankshaft is	qa/definition
+673	tea shop	recommendation/locations
+674	send an email to dad about the weather for the week	email/sendemail
+675	what is a canadian dollar worth in the us	qa/currency
+676	tell me about city traffic	transport/traffic
+677	erase my next event	calendar/remove
+678	yes affirmative.	general/affirm
+679	i need an alarm set for five hundred and thirty am tomorrow	alarm/set
+680	turn up volume of music	audio/volume_up
+681	schedule a meeting with reeta today evening at five pm	calendar/set
+682	switch on the plug	iot/wemo_on
+683	is there a sports bar near kansas city plaza area	recommendation/locations
+684	olly i need the living room vacuumed can you turn on the vacuum cleaner	iot/cleaning
+685	create an alarm for today at ten am	alarm/set
+686	please send a complaint to someone	social/post
+687	play my midnight love playlist	play/music
+688	once again elaborate me on that.	general/explain
+689	will arby's offer takeaway	takeaway/query
+690	how is the traffic from home to work	transport/traffic
+691	what is open late in la	recommendation/events
+692	what is the answer to dollars minus dollars	qa/maths
+693	set an alarm at six in the morning	alarm/set
+694	is it possible for you to provide the likes of my music	music/query
+695	clear this list	lists/remove
+696	hi please remind the next meeting with my boss it will be at eleven am next monday	calendar/set
+697	turn the lights blue at three pm	iot/hue_lightchange
+698	just let me know the population of india	qa/factoid
+699	checkout subway food centre near me and order tandoori roti	takeaway/order
+700	it's cool, thanks.	general/praise
+701	get rid of the wednesday list	lists/remove
+702	would not care.	general/dontcare
+703	how many countries are in the european union	qa/factoid
+704	turn off my wifi	iot/wemo_off
+705	olly will you cancel it.	general/commandstop
+706	throw away my to do list please	lists/remove
+707	run vacuum cleaner	iot/cleaning
+708	could you please set an alarm at six am	alarm/set
+709	check question.	general/confirm
+710	please be quiet for the next two hours	audio/volume_mute
+711	set the volume to low	audio/volume_down
+712	hey does open sesame do take out	takeaway/query
+713	send a snotty tweet to bbc	social/post
+714	please give me directions to a park near me	transport/query
+715	please go to the next episode of the podcast	play/podcasts
+716	have i got any new email from my company	email/query
+717	current price of coca cola stock	qa/stock
+718	ensure i have to get up at six in morning	alarm/set
+719	make the lights shine blue	iot/hue_lightchange
+720	save this music to my favorites	music/likeness
+721	please book the next taxi	transport/taxi
+722	check all the new them emails and mark them star	email/query
+723	i dont want to carry an umbrella will we have rain today	weather/query
+724	could you please lower your volume	audio/volume_down
+725	how do i cook a medium rare steak	cooking/recipe
+726	play the song get happy by ella fitzgeral	play/music
+727	let's try what you said one more time again please.	general/repeat
+728	say joke	general/joke
+729	by main power off	iot/hue_lightoff
+730	i have no idea regarding to what to select.	general/dontcare
+731	what is the phone number for the nearest location of church's chicken	takeaway/query
+732	can i have my list	lists/query
+733	buy a train ticket for one week from now from new york to las vegas nevada	transport/ticket
+734	turn house lights off	iot/hue_lightoff
+735	add jpearsonjessica@gmail dot com to email contacts	email/addcontact
+736	i want to eat two pita gyros please and some diet coke	takeaway/order
+737	let's have the radio on	play/radio
+738	check to see if my mom sent me any emails	email/query
+739	silence	audio/volume_mute
+740	yes it's confirmed.	general/affirm
+741	show me pancakes	cooking/recipe
+742	would not really mind.	general/dontcare
+743	keep me updated on the election results	news/query
+744	new alarm for six am	alarm/set
+745	keep that song for when i need cheering up	music/likeness
+746	when is the next train to new york	transport/query
+747	can you get me train ticket prices please	transport/query
+748	shut down sps	iot/wemo_off
+749	what's the exchange rates	qa/currency
+750	blanket definition	qa/definition
+751	give me the birth date of mahatma gandhi	qa/factoid
+752	change the speaker volume to sixty five percent	audio/volume_up
+753	who takes less of duration of time for delivery	takeaway/query
+754	is my calendar free for Thursday	calendar/query
+755	traffic status please	transport/traffic
+756	turn on radio now	play/radio
+757	play the client by john grisham	play/audiobook
+758	can you reply to the email	email/sendemail
+759	when is the next train arriving to union station from grand central station	transport/query
+760	play audiobook of planets	play/audiobook
+761	when my takeaway order will arrive	takeaway/query
+762	what is the current stock rate of facebook	qa/stock
+763	tell me the funniest joke that was ever told	general/joke
+764	current song rating three stars	music/likeness
+765	you have done a wrong thing.	general/negate
+766	delete the scheduled meeting on fourth october twelve pm	calendar/remove
+767	how many alarms are currently on my phone	alarm/query
+768	convert time zone	datetime/convert
+769	play episode two of the intern	play/podcasts
+770	can you turn the lights up	iot/hue_lightup
+771	what is happening in the area	recommendation/events
+772	i'd like you to shut off my smart plug socket now please	iot/wemo_off
+773	brighten the lights	iot/hue_lightup
+774	shut the lights off in my bedroom please	iot/hue_lightoff
+775	tell me where the local shopping district is	recommendation/locations
+776	does fongs do carry out	takeaway/query
+777	does brick grill deliver	takeaway/query
+778	keep reading	play/audiobook
+779	few traffic roads	transport/traffic
+780	vacuum on	iot/cleaning
+781	please tell kmart they sent the wrong item	social/post
+782	where is the nearest atm machine	recommendation/locations
+783	can you again clarify what you've said please.	general/explain
+784	open the two towers	play/audiobook
+785	please tell me the main points of my two hundred meeting from this afternoon	calendar/query
+786	order me the fish risotto from the golden fork	takeaway/order
+787	what open lists do i have	lists/query
+788	new updates	social/query
+789	list events nearby new york	recommendation/events
+790	can you delete the doctors appointment i had Tuesday	calendar/remove
+791	open audiobook	play/audiobook
+792	use that email address as a contact	email/addcontact
+793	what can i substitute butter with	cooking/recipe
+794	tell funny things	general/joke
+795	lights off in the kitchen please	iot/hue_lightoff
+796	does mr pizza deliver	takeaway/query
+797	order some takeaway food	takeaway/order
+798	thanks for the response, olly.	general/praise
+799	yeap right response.	general/affirm
+800	what is the exchange rate between u. s. d. and cad	qa/currency
+801	olly shuffle playlist	music/settings
+802	does pf changs do takeout	takeaway/query
+803	what movie is this song from	music/query
+804	i'd like to play monopoly	play/game
+805	i need you to add gary's email to my favorites	email/addcontact
+806	how to make cheesecake	cooking/recipe
+807	arrange the list in alphabetical order that are available	lists/query
+808	kindly switch off the light in the drawing hall	iot/hue_lightoff
+809	fast me the news of academy awards	news/query
+810	oops, you're not correct.	general/negate
+811	who is the most frequently called person in my phone book	email/querycontact
+812	i want the light to be switched off	iot/hue_lightoff
+813	yeah exactly.	general/affirm
+814	light up	iot/hue_lightup
+815	set an alarm for two pm	alarm/set
+816	could you once again rephrase me about your answers.	general/explain
+817	what does my facebook feed look like	social/query
+818	call me an uber for right now	transport/taxi
+819	overhead lights on please	iot/hue_lighton
+820	can you tell me what the white house is	qa/definition
+821	let me laugh hearing some good joke	general/joke
+822	whats the weather now	weather/query
+823	show me my events	calendar/query
+824	what is on my rap playlist	lists/query
+825	tell me what happens when we die	general/quirky
+826	what is the square root of nine	qa/maths
+827	who delivers near here	takeaway/order
+828	i need a taxi uber	transport/taxi
+829	please add deodorant to my shopping list	lists/createoradd
+830	please remove the grocery list from my set of lists	lists/remove
+831	can you play monopoly with me	play/game
+832	what is the email address for tessa	email/querycontact
+833	how do i bake a potato	cooking/recipe
+834	has tom emailed me about ammunition	email/query
+835	how much is indian rupee going against us dollar	qa/currency
+836	send the email to john	email/sendemail
+837	what is on the agenda for today	calendar/query
+838	order a pizza	takeaway/order
+839	what day of the week is june twenty seventh on this year	datetime/query
+840	give me an update on the election in one hour	calendar/set
+841	tell me updates	news/query
+842	what is the list about my favorite songs	music/query
+843	how long will it take me to drive to work today	transport/traffic
+844	start cleaning floors	iot/cleaning
+845	what does the word labyrinth mean	qa/definition
+846	i would like to hear some rap music	play/music
+847	olly could you shut off.	general/commandstop
+848	send an email to jesse	email/sendemail
+849	change color of the light to red outside the house	iot/hue_lightchange
+850	please play football with me	play/game
+851	please update list with new item	lists/createoradd
+852	i want to hear a joke	general/joke
+853	this song is composed by whom	music/query
+854	I need the volume to be quieter	audio/volume_down
+855	tell me which catering packages are available	takeaway/query
+856	yeap you've gotten the command correcly.	general/affirm
+857	meeting july calendar	calendar/query
+858	what stores have clearance	recommendation/locations
+859	i want a not only to direct me to an internet site but actually answer any given question	general/quirky
+860	tell me if i should use the train or bus to get across town today	transport/query
+861	will you confirm that please.	general/confirm
+862	let me know about the exchange rate of rupee to dirham	qa/currency
+863	nope, you are incorrect.	general/negate
+864	start chapter five of physics for future presidents	play/audiobook
+865	please reduce the sound	audio/volume_down
+866	do you know the name of the song that is playing	music/query
+867	do i have an alarm set for morning flight	alarm/query
+868	can you set radio to mute	audio/volume_mute
+869	really don't mind, olly.	general/dontcare
+870	search earliest trains to brooklyn ny weekends and holidays	transport/query
+871	search for the latest news about iphone	news/query
+872	can you tell me what alarms i have set	alarm/query
+873	when is my order ready	takeaway/query
+874	delete my list	lists/remove
+875	quiet time	audio/volume_mute
+876	confirm i have set an alarm for six am	alarm/query
+877	bring up lights	iot/hue_lightup
+878	can you change my time zone from central time to pacific	datetime/convert
+879	where is a nearby park where i can go running	recommendation/locations
+880	the volume of the music playing now should be raised	audio/volume_up
+881	is it going to rain in the next few days in tucson	weather/query
+882	olly please could you shut up.	general/commandstop
+883	call me a taxi	transport/taxi
+884	can you play the next podcast	play/podcasts
+885	resume harry potter from the place i have stopped listening to last time	play/audiobook
+886	i'm into music	music/likeness
+887	how much does bde cost	qa/stock
+888	wonderful response to command.	general/affirm
+889	change the time in this location to ist	datetime/convert
+890	change lights	iot/hue_lightchange
+891	Check outlook	email/query
+892	how many dollars are there in a g. b. p.	qa/currency
+893	call a taxi	transport/taxi
+894	has any mail received with an attachment	email/query
+895	email co worker about work project	email/sendemail
+896	i need a ride to the airport	transport/taxi
+897	book train ticket to ny	transport/ticket
+898	disable my okug	iot/wemo_off
+899	really would not mind.	general/dontcare
+900	make it brighter in here please	iot/hue_lightup
+901	it is cloudy today	weather/query
+902	could you calculate five plus five	qa/maths
+903	please be quiet for another hour	audio/volume_mute
+904	find me a train ticket next monday to new york city	transport/ticket
+905	is the pound up or down against the dollar	qa/currency
+906	do not really care.	general/dontcare
+907	uhh no, you gave me not correct information.	general/negate
+908	listen to this song	music/query
+909	do i have any alarms set for today	alarm/query
+910	what is the current price of jindel stock	qa/stock
+911	do i have any pending reminder	calendar/query
+912	would you please check to see if i've set my alarm for tomorrow morning	alarm/query
+913	what movies are playing at carmike cinemas	recommendation/movies
+914	order pizza for delivery	takeaway/order
+915	where is a petrol station in five mile radius	recommendation/locations
+916	further explain.	general/explain
+917	start a match of chess	play/game
+918	will the weather be bad on Sunday	weather/query
+919	yeah excellent.	general/affirm
+920	play poker with me	play/game
+921	i'd like to hear what i have just said again.	general/repeat
+922	show conversion rate of u. s. d. and euro	qa/currency
+923	i do not really mind for anything.	general/dontcare
+924	what pubs are near the metro station	recommendation/locations
+925	tell me starting phrase of this music	music/query
+926	tell me what's going on with facebook	social/query
+927	spread some lights	iot/hue_lightup
+928	wake me up at five am this week	alarm/set
+929	what would be the exchange rate of currency in japan	qa/currency
+930	will you stop.	general/commandstop
+931	equalize the bass of this music	music/settings
+932	please check and tell me contact details of mongomery llc company	email/querycontact
+933	send a mail to alex asking about the due payment	email/sendemail
+934	what is the meaning of this word	qa/definition
+935	how many of my contacts live or work in detroit	email/querycontact
+936	give me the train time	transport/query
+937	play the davinci code	play/audiobook
+938	erase my grocery list	lists/remove
+939	what's the news from source	news/query
+940	please put all the lights	iot/hue_lightup
+941	what is twelve divided by four	qa/maths
+942	take note of today as my first date with bob	calendar/set
+943	i want to know more about the upcoming commonwealth games	general/quirky
+944	let's play a game of chess	play/game
+945	please make some coffee for me	iot/coffee
+946	tell me mary's cell number	email/querycontact
+947	turn on alarm thirty minutes before liverpool started to play	alarm/set
+948	is it ok to lower the lights	iot/hue_lightdim
+949	is that song from shakira	music/query
+950	can you see if there any trains going to	transport/query
+951	fix the driving route from here to grant market	transport/query
+952	add appointment in the list	lists/createoradd
+953	i am no longer attending the wedding on the tenth so remove it from my calendar	calendar/remove
+954	make me a cup of coffee please	iot/coffee
+955	who sang the song that is currently playing	music/query
+956	convert new york time to london	datetime/convert
+957	where do people shop for clothes here	recommendation/locations
+958	what is the time difference between india and ivory coast	datetime/convert
+959	what else is on the list	calendar/query
+960	remember that this is my favorite music	music/likeness
+961	tell me about rock	qa/definition
+962	olly please read me today's news	news/query
+963	i would like you to check the question please.	general/confirm
+964	raise lights to full power	iot/hue_lightup
+965	can you turn off the smart socket	iot/wemo_off
+966	please set a reminder for church services on sundays for eleven am	calendar/set
+967	see see for me the alarms that you have set tomorrow morning	alarm/query
+968	what's the closing price of abc	qa/stock
+969	add erosser@hotmail dot com as a new contact for emily rosser	email/addcontact
+970	how is the traffic presently near central park road	transport/traffic
+971	touch the mute button	audio/volume_mute
+972	go to setting	iot/hue_lightchange
+973	on vacuum cleaner	iot/cleaning
+974	do we have thirty first day on this month	datetime/query
+975	what list is available for my favorite music from ed sheeran	music/query
+976	increase the bright of the light	iot/hue_lightup
+977	set an alarm at ten tomorrow to remind me a meeting	alarm/set
+978	explain photosynthesis	qa/definition
+979	how old was elvis when he died	qa/factoid
+980	remove my list of notes from last week	lists/remove
+981	move to the next episode of hipsterhood	play/podcasts
+982	what day is it today	datetime/query
+983	any events this weekend in pondichery	recommendation/events
+984	give me more light	iot/hue_lightup
+985	please activate my coffee pot for me	iot/coffee
+986	one am set	alarm/set
+987	what is my daughter's phone number	email/querycontact
+988	what is two hundred divided by ten	qa/maths
+989	what's happening in town tonight	recommendation/events
+990	whatever is good with me, olly.	general/dontcare
+991	what's jesse's birthday	email/querycontact
+992	olly could you please shut off.	general/commandstop
+993	could you dim the lights	iot/hue_lightdim
+994	go to the list and remove item	lists/remove
+995	what is the answer to this math question	qa/maths
+996	i can't see turn up the lights	iot/hue_lightup
+997	where is morocco located	qa/factoid
+998	play the romantic songs	play/music
+999	whatever would be ok to me.	general/dontcare
+1000	please empty my calendar	calendar/remove
+1001	how is the current traffic between	transport/traffic
+1002	anything i need to know	general/quirky
+1003	which is the next event coming up	calendar/query
+1004	please retweet this post on twitter	social/post
+1005	give five stars to this song	music/likeness
+1006	what the sexiest food to cook on a date	cooking/recipe
+1007	what is going on around here	recommendation/events
+1008	turn off smart plug socket	iot/wemo_off
+1009	what did apple stock close at yesterday	qa/stock
+1010	please save this song	music/likeness
+1011	the meeting with justin and katrina has been changed put it on thursday	calendar/set
+1012	what alarms are set right now	alarm/query
+1013	set notification for news on the stock market	qa/stock
+1014	reply wishes to john by email	email/sendemail
+1015	i want exact time in washington right now	datetime/query
+1016	how long is it from dalls to san antonio by train	transport/query
+1017	list current set alarms	alarm/query
+1018	play my morning playlist	play/music
+1019	tell me all about hurricane	qa/definition
+1020	i need all the local events for this area that are being held this weekend	recommendation/events
+1021	can you change the colour to red	iot/hue_lightchange
+1022	may i know the time in london	datetime/query
+1023	olly will you please shut down.	general/commandstop
+1024	olly would you please shut up.	general/commandstop
+1025	i want a coffee	iot/coffee
+1026	change the lights in the house to green	iot/hue_lightchange
+1027	what is photosynthesis	qa/definition
+1028	on what date is easter this year	datetime/query
+1029	silence volume on speakers	audio/volume_mute
+1030	i need more light	iot/hue_lightup
+1031	clean my entire calendar	calendar/remove
+1032	please try the things one more again.	general/repeat
+1033	dim lights in living room	iot/hue_lightdim
+1034	what is tomorrows date	datetime/query
+1035	remember to remind me about client meet at four pm	calendar/set
+1036	please tell me the definition of home	qa/definition
+1037	order one coffee to starbucks coffee shop	iot/coffee
+1038	remind me to water my plants every tuesday thursday and saturday	calendar/set
+1039	on january twenty five set meeting for twelve	calendar/set
+1040	i want to hear it again.	general/repeat
+1041	complain to mcdonalds twitter about my burger	social/post
+1042	is yemen closer to japan or india	qa/factoid
+1043	i want to start war and peace where i left off	play/audiobook
+1044	give me my facebook update every three hours	social/query
+1045	remind me of this meeting soon	calendar/set
+1046	play lady now	play/music
+1047	remove standup on Friday at ten am	calendar/remove
+1048	tweet kohls about the cleanliness of their store	social/post
+1049	ah that's awesome work.	general/praise
+1050	why does tom izzo look like a whiny bitch when his team plays	general/quirky
+1051	what is the temperature	weather/query
+1052	read out my shopping list for today	lists/query
+1053	oh no, you gave me not right information.	general/negate
+1054	find me info on cars	news/query
+1055	what is the stock price of sensex right now	qa/stock
+1056	i want you to mute	audio/volume_mute
+1057	what time is the train passing by	transport/query
+1058	what is a trebuchet	qa/definition
+1059	pick up dry cleaning tomorrow	lists/createoradd
+1060	does mcdonalds do takeaway	takeaway/query
+1061	get me up in half an hour	alarm/set
+1062	i do not care.	general/dontcare
+1063	thank you so much, olly.	general/praise
+1064	can you take five and divide it by three	qa/maths
+1065	open chess play against me	play/game
+1066	remove john's birthday from the calendar	calendar/remove
+1067	wemo socket on	iot/wemo_on
+1068	is there anything new on reddit	social/query
+1069	keep me up to date on the election news	news/query
+1070	tweet on the bad service	social/post
+1071	hey i'd like you to order burger	takeaway/order
+1072	how many yen for each dollar	qa/currency
+1073	how many pages long is harry potter	qa/factoid
+1074	name the capital of nigeria	qa/factoid
+1075	get latest news report on kidnapping in ny	news/query
+1076	what is happening this weekend	calendar/query
+1077	don't talk until i ask you to	audio/volume_mute
+1078	i want coffee from the machine	iot/coffee
+1079	which bank will give better rate for currencies i have	qa/currency
+1080	what is the weather for the school week	weather/query
+1081	delete the events from the calendar on twenty eighth march	calendar/remove
+1082	please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm	email/sendemail
+1083	please go to the local sports talk show on the radio	play/radio
+1084	how long should i cook a hamburger on each side	cooking/recipe
+1085	it was wonderful.	general/affirm
+1086	uber me to the airport	transport/taxi
+1087	please increase the volume of the music hips don't lie	audio/volume_up
+1088	further elaborate me on what you have said please.	general/explain
+1089	how many shares of apple can i get for	qa/stock
+1090	what is zero divided by zero	qa/maths
+1091	prepare a cup of coffee for me	iot/coffee
+1092	thanks but i think you made some mistakes.	general/negate
+1093	turn off the lamp in the living room	iot/hue_lightoff
+1094	i think this was not correct.	general/negate
+1095	respond to graham and let him know that i will be free tomorrow	email/sendemail
+1096	book a cab which have cheapest price	transport/taxi
+1097	turn the room light off	iot/hue_lightoff
+1098	where is the nearest smoke shop	recommendation/locations
+1099	send a taxi to come pick me up from my location	transport/taxi
+1100	dentist appointment today at nine am	calendar/set
+1101	delete all meetings for tomorrow	calendar/remove
+1102	show todays events in new york	recommendation/events
+1103	yeap it's confirmed.	general/affirm

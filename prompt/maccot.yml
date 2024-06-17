@@ -1,0 +1,137 @@
+maccot_classify:
+  sys: "Below is a text classification problem:\n"
+  demo: "SENTENCE: {text1}\nLABEL: {label1}\nSENTENCE:{text2}\nLABEL: {label2}\n"
+  query: "The phrases can often be mistaken for \"{label1}\" and \"{label2}\", due to certain shared characteristics.
+SHARED ASPECTS: ||
+
+Next, diligently contrast the deviations between these two topics, putting aside the mentioned shared characteristics. Concisely explain, what is the key element that sets them apart?
+CONTRASTING POINTS: ||
+
+After scrutinizing the presented SHARED ASPECTS and CONTRASTING POINTS, which term - \"{label1}\" or \"{label2}\" - would be a more accurate representation for the label of {text}? Provide the final label in the format \"LABEL: a\"."
+
+fewshot_maccot_classify:
+  sys: "Below is a text classification problem:\n"
+  demo: "SENTENCE: {text1}
+
+LABEL: {label1}
+
+SENTENCE: {text2}
+
+LABEL: {label2}
+
+SIMILARITIES: {similar}
+
+DIFFERENCES: {differ}
+
+which term is more likely to represent the label of INPUT based on the SIMILARITIES and DIFFERENCES - \"{label1}\" or \"{label2}\" :
+
+INPUT: {text}
+
+EXPLANATION: {explain}
+
+LABEL: {label}\n\n"
+  query: "SENTENCE: {text1}
+
+LABEL: {label1}
+
+SENTENCE: {text2}
+
+LABEL: {label2}
+
+SIMILARITIES: {similar}
+
+DIFFERENCES: {differ}
+
+which term is more likely to represent the label of INPUT based on the SIMILARITIES and DIFFERENCES - \"{label1}\" or \"{label2}\" :
+
+INPUT: {text}
+
+EXPLANATION: 
+"
+
+
+fewshot_maccot_similar: 
+  demo: "SENTENCE: \"Eisner to retire Will  #39;assist #39; Michael D. Eisner, the chief executive who helped turn the Walt Disney Co. into the world #39;s second-largest media conglomerate but has come under fire recently for its financial slump, announced plans yesterday to retire in two years.\"
+
+LABLE: Business
+
+SENTENCE: \"Austria #39;s Eberharter Retires Stephan Eberharter announced his retirement on Friday after a decade and a half as a leading light of the Austrian Alpine skiing team.\"
+
+LABLE: Sport
+
+SIMILARITIES: - Both sentences involve individuals announcing their retirement. In the first sentence, Michael D. Eisner plans to retire in two years, while in the second sentence, Stephan Eberharter announced his retirement.\n"
+  query: "SENTENCE: \"{text1}\"
+
+LABEL: {label1}
+
+SENTENCE: \"{text2}\"
+
+LABEL: {label2}
+
+SIMILARITIES: 
+"
+
+fewshot_maccot_differ: 
+  demo: "SENTENCE: \"Eisner to retire Will  #39;assist #39; Michael D. Eisner, the chief executive who helped turn the Walt Disney Co. into the world #39;s second-largest media conglomerate but has come under fire recently for its financial slump, announced plans yesterday to retire in two years.\"
+
+LABLE: Business
+
+SENTENCE: \"Austria #39;s Eberharter Retires Stephan Eberharter announced his retirement on Friday after a decade and a half as a leading light of the Austrian Alpine skiing team.\"
+
+LABLE: Sport
+
+DIFFERENCES: - The financial context and mention of a media conglomerate in the first sentence suggest a business-related context.\n
+- The second sentence's focus on Alpine skiing and an athlete's retirement clearly places it in the sports domain.\n"
+  query: "SENTENCE: \"{text1}\"
+
+LABEL: {label1}
+
+SENTENCE: \"{text2}\"
+
+LABEL: {label2}
+
+DIFFERENCES: 
+"
+
+fewshot_maccot_explain: 
+  demo: "SENTENCE: \"Eisner to retire Will  #39;assist #39; Michael D. Eisner, the chief executive who helped turn the Walt Disney Co. into the world #39;s second-largest media conglomerate but has come under fire recently for its financial slump, announced plans yesterday to retire in two years.\"
+
+LABLE: Business
+
+SENTENCE: \"Austria #39;s Eberharter Retires Stephan Eberharter announced his retirement on Friday after a decade and a half as a leading light of the Austrian Alpine skiing team.\"
+
+LABLE: Sport
+
+SIMILARITIES: - Both sentences involve individuals announcing their retirement. In the first sentence, Michael D. Eisner plans to retire in two years, while in the second sentence, Stephan Eberharter announced his retirement.
+
+DIFFERENCES: - The financial context and mention of a media conglomerate in the first sentence suggest a business-related context.\n
+- The second sentence's focus on Alpine skiing and an athlete's retirement clearly places it in the sports domain.
+
+explain based on the SIMILARITIES and DIFFERENCES between \"Business\" and \"Sport\" to verify the label of the SENTENCE below :
+
+SENTENCE: \"Google Sharply Reduces IPO Share Price Google, Inc. significantly cut the expected share price for its initial public stock offering this morning, signaling lower-than-anticipated demand for the most highly publicized new stock since the late 1990s.\"
+
+LABEL: Business
+
+EXPLANATION: - The sentence provides details about Google, Inc. reducing the expected share price for its IPO, reflecting on the demand for the stock. This level of financial detail is not present in the sports-related news.
+- The context, involving a significant financial decision by a company in the stock market, aligns with typical business-related news.\n"
+  query: "SENTENCE: \"{text1}\"
+
+LABLE: {label1}
+
+SENTENCE: \"{text2}\"
+
+LABLE: {label2}
+
+SIMILARITIES: ||
+
+DIFFERENCES: ||
+
+explain based on the SIMILARITIES and DIFFERENCES between \"{label1}\" and \"{label2}\" to verify the label of the SENTENCE below :
+
+SENTENCE: \"{text}\"
+
+LABEL: {label}
+
+EXPLANATION: 
+"

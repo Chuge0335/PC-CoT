@@ -1,0 +1,111 @@
+id	text	label
+859	i want a not only to direct me to an internet site but actually answer any given question	general/quirky
+290	remind me to buy jeans on my shopping list	lists/createoradd
+820	can you tell me what the white house is	qa/definition
+93	set rotating event	calendar/set
+385	is there a chili cookoff this weekend	calendar/query
+509	pawel prepare the meeting with john	calendar/query
+204	recommend a local steak restaurant	recommendation/locations
+544	when will the match start	calendar/query
+819	overhead lights on please	iot/hue_lighton
+109	bed room two darken	iot/hue_lightdim
+449	when does olive garden close today	recommendation/locations
+580	let's play our favourite football match on tv	play/game
+121	closest chipotle	takeaway/order
+471	what was the first car made	qa/factoid
+632	what playlist is on shuffle	music/query
+898	disable my okug	iot/wemo_off
+961	tell me about rock	qa/definition
+100	i need to go to dundee at five am on sunday by train	transport/ticket
+30	my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id	email/sendemail
+704	turn off my wifi	iot/wemo_off
+409	bring back talking after	audio/volume_up
+908	listen to this song	music/query
+1054	find me info on cars	news/query
+1002	anything i need to know	general/quirky
+748	shut down sps	iot/wemo_off
+528	start play road rash	play/game
+1019	tell me all about hurricane	qa/definition
+876	confirm i have set an alarm for six am	alarm/query
+187	play the list from my favorites	play/music
+1073	how many pages long is harry potter	qa/factoid
+904	find me a train ticket next monday to new york city	transport/ticket
+514	What's playing	music/query
+972	go to setting	iot/hue_lightchange
+291	initiate polling for new email	email/query
+546	retrieve the light for me	iot/hue_lightup
+1047	remove standup on Friday at ten am	calendar/remove
+458	what is a cookie recipe	cooking/recipe
+105	give details of rock sand	qa/definition
+182	if i was in the eastern time zone what time would it be	datetime/convert
+152	change alarm to start at midnight	alarm/set
+495	make sure my shuffles are always repeat and always shuffled	music/settings
+600	about reality in world	general/quirky
+419	you got the command right.	general/affirm
+87	what is my wife's email	email/querycontact
+76	when does the closest bar close	recommendation/locations
+208	what is the current value of yen in american money	qa/currency
+807	arrange the list in alphabetical order that are available	lists/query
+788	new updates	social/query
+1003	which is the next event coming up	calendar/query
+441	today i had a record breaking sale	general/quirky
+246	sorry.	general/repeat
+464	remind me to take out the trash	calendar/set
+235	find tacos near my home	recommendation/locations
+67	what time is it eastern	datetime/query
+568	has anything happened to mass effect	news/query
+1050	why does tom izzo look like a whiny bitch when his team plays	general/quirky
+736	i want to eat two pita gyros please and some diet coke	takeaway/order
+942	take note of today as my first date with bob	calendar/set
+691	what is open late in la	recommendation/events
+452	switch on the green light in playroom	iot/hue_lightchange
+711	set the volume to low	audio/volume_down
+258	play what live	play/music
+927	spread some lights	iot/hue_lightup
+940	please put all the lights	iot/hue_lightup
+1046	play lady now	play/music
+526	free home delivery	takeaway/order
+317	what is your country	general/quirky
+516	ocean eleven	recommendation/movies
+469	search for gluten free menus	cooking/recipe
+1100	dentist appointment today at nine am	calendar/set
+42	when it is nine in the east what time is it in the west	datetime/convert
+154	where is the closest uber	transport/taxi
+3	tell me distance between sun and moon	qa/factoid
+858	what stores have clearance	recommendation/locations
+198	i want a train ticket to edinburgh	transport/ticket
+889	change the time in this location to ist	datetime/convert
+643	play uno together	play/game
+529	pull up the shopping list	lists/query
+27	time to hear me some blake shelton	play/music
+14	any important notifications	email/query
+343	how does the desk look	qa/definition
+338	i would like to hear the theme song to this is us	play/music
+931	equalize the bass of this music	music/settings
+559	hey olly chance the current light settings	iot/hue_lightchange
+146	i want to hear this week's midweek motorsport	play/radio
+319	start pandora	play/radio
+440	remind me about my anniversary in one day advance	calendar/set
+956	convert new york time to london	datetime/convert
+53	we need milk	lists/createoradd
+84	i want a train ticket from boston to new york	transport/ticket
+662	what is the plot of the most recent will smith movie	qa/factoid
+418	could you please yell the answer out to me	audio/volume_up
+865	please reduce the sound	audio/volume_down
+6	i need a train ticket to	transport/ticket
+974	do we have thirty first day on this month	datetime/query
+60	make my collection mostly pop with a good bit of psychedelia	play/music
+249	set lights to twenty percent	iot/hue_lightchange
+1085	it was wonderful.	general/affirm
+362	i am in need of some pizza what's the closest place that delivers	takeaway/order
+345	what's happening at the library this month	recommendation/events
+1011	the meeting with justin and katrina has been changed put it on thursday	calendar/set
+1076	what is happening this weekend	calendar/query
+101	michael jackson family background	qa/factoid
+400	is there christmas on twenty second	datetime/query
+729	by main power off	iot/hue_lightoff
+336	buy me a ticket to boston	transport/ticket
+1043	i want to start war and peace where i left off	play/audiobook
+351	what's happening in my town	recommendation/events
+517	eight am manila time is what in eastern time	datetime/convert
+673	tea shop	recommendation/locations

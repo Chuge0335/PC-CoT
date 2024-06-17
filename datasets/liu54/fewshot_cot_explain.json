@@ -1,0 +1,2756 @@
+[
+  {
+    "text": "Give me the number to mom.",
+    "label": "querycontact",
+    "skip": false,
+    "answer": "The sentence is a request for a phone number, specifically asking for the number to \"mom\". This indicates that the person is seeking contact information, which falls under the querycontact label.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Give me the number to mom.\nLABEL: querycontact\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for a phone number, specifically asking for the number to \"mom\". This indicates that the person is seeking contact information, which falls under the querycontact label."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "list new",
+    "label": "createoradd",
+    "skip": false,
+    "answer": "The sentence is not clear and does not provide enough information to determine the label accurately. It seems to be incomplete or unrelated to any specific category.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: list new\nLABEL: createoradd\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is not clear and does not provide enough information to determine the label accurately. It seems to be incomplete or unrelated to any specific category."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "DELETE DAY AFTER EVENT",
+    "label": "remove",
+    "skip": false,
+    "answer": "The statement suggests deleting something the day after an event. This does not provide any information about the content or topic of the sentence, so it cannot be classified into any specific category. Therefore, the label \"remove\" is appropriate in this case.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: DELETE DAY AFTER EVENT\nLABEL: remove\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement suggests deleting something the day after an event. This does not provide any information about the content or topic of the sentence, so it cannot be classified into any specific category. Therefore, the label \"remove\" is appropriate in this case."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Time difference between UK and US",
+    "label": "convert",
+    "skip": false,
+    "answer": "The statement is discussing the time difference between the UK and the US. This is a topic related to converting time zones, hence the label \"convert.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Time difference between UK and US\nLABEL: convert\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is discussing the time difference between the UK and the US. This is a topic related to converting time zones, hence the label \"convert.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Order chinese for delivery.",
+    "label": "order",
+    "skip": false,
+    "answer": "The statement suggests ordering Chinese food for delivery, indicating a specific action related to placing an order. Therefore, the label \"order\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Order chinese for delivery.\nLABEL: order\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement suggests ordering Chinese food for delivery, indicating a specific action related to placing an order. Therefore, the label \"order\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "calculator",
+    "label": "definition",
+    "skip": false,
+    "answer": "The word \"calculator\" does not provide any context or information to determine its label. It could be related to various fields such as mathematics, finance, or technology. Therefore, without further context, it is not possible to provide a specific label or explanation for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: calculator\nLABEL: definition\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The word \"calculator\" does not provide any context or information to determine its label. It could be related to various fields such as mathematics, finance, or technology. Therefore, without further context, it is not possible to provide a specific label or explanation for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Good afternoon, how are you?",
+    "label": "greet",
+    "skip": false,
+    "answer": "The sentence is a common greeting, indicating a polite and friendly interaction. Therefore, the label \"greet\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Good afternoon, how are you?\nLABEL: greet\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a common greeting, indicating a polite and friendly interaction. Therefore, the label \"greet\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I am in bad mood, tell me a joke",
+    "label": "quirky",
+    "skip": false,
+    "answer": "The sentence expresses a personal emotion of being in a bad mood and requests a joke to lighten the mood. This indicates a quirky or light-hearted tone, as the person is seeking humor to improve their mood.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I am in bad mood, tell me a joke\nLABEL: quirky\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence expresses a personal emotion of being in a bad mood and requests a joke to lighten the mood. This indicates a quirky or light-hearted tone, as the person is seeking humor to improve their mood."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "add this email to my contacts",
+    "label": "addcontact",
+    "skip": false,
+    "answer": "The sentence is a command requesting to add an email to the contacts list. The label \"addcontact\" accurately describes the action being performed in the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: add this email to my contacts\nLABEL: addcontact\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command requesting to add an email to the contacts list. The label \"addcontact\" accurately describes the action being performed in the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "have you responded my phone calls",
+    "label": "querycontact",
+    "skip": false,
+    "answer": "The sentence is a query asking if the person's phone calls have been responded to. It does not relate to any specific topic or category, but rather seeks information about a personal matter. Therefore, the label for this sentence would be \"querycontact.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: have you responded my phone calls\nLABEL: querycontact\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a query asking if the person's phone calls have been responded to. It does not relate to any specific topic or category, but rather seeks information about a personal matter. Therefore, the label for this sentence would be \"querycontact.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Resume War and Peace",
+    "label": "audiobook",
+    "skip": false,
+    "answer": "The sentence is a command to resume reading the book \"War and Peace.\" The label \"audiobook\" is given because it suggests that the book is being listened to rather than read in print.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Resume War and Peace\nLABEL: audiobook\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command to resume reading the book \"War and Peace.\" The label \"audiobook\" is given because it suggests that the book is being listened to rather than read in print."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "attenuate the lights",
+    "label": "hue_lightdim",
+    "skip": false,
+    "answer": "The sentence \"attenuate the lights\" suggests adjusting or dimming the lights, which is related to the label \"hue_lightdim.\" The word \"attenuate\" means to reduce the intensity or brightness, which aligns with the concept of dimming the lights.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: attenuate the lights\nLABEL: hue_lightdim\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence \"attenuate the lights\" suggests adjusting or dimming the lights, which is related to the label \"hue_lightdim.\" The word \"attenuate\" means to reduce the intensity or brightness, which aligns with the concept of dimming the lights."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "change the bedroom lights to green",
+    "label": "hue_lightchange",
+    "skip": false,
+    "answer": "The statement is a command to change the bedroom lights to green. It does not mention any business-related topics or negotiations, so it is not related to the Business label. Instead, it is related to the hue_lightchange label, which indicates a command to change the color of the lights.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: change the bedroom lights to green\nLABEL: hue_lightchange\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to change the bedroom lights to green. It does not mention any business-related topics or negotiations, so it is not related to the Business label. Instead, it is related to the hue_lightchange label, which indicates a command to change the color of the lights."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Skip this podcast",
+    "label": "podcasts",
+    "skip": false,
+    "answer": "The sentence suggests skipping a podcast, indicating a specific type of media content. Therefore, the label \"podcasts\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Skip this podcast\nLABEL: podcasts\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence suggests skipping a podcast, indicating a specific type of media content. Therefore, the label \"podcasts\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "play recently added audiobook",
+    "label": "audiobook",
+    "skip": false,
+    "answer": "The statement mentions the addition of an audiobook to a play, indicating that the content being discussed is an audiobook.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: play recently added audiobook\nLABEL: audiobook\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions the addition of an audiobook to a play, indicating that the content being discussed is an audiobook."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "turn off plug",
+    "label": "wemo_off",
+    "skip": false,
+    "answer": "The statement is a command or instruction to turn off a plug. The label \"wemo_off\" suggests that it is related to controlling a Wemo device, which is a brand of smart plugs that can be controlled remotely.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: turn off plug\nLABEL: wemo_off\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command or instruction to turn off a plug. The label \"wemo_off\" suggests that it is related to controlling a Wemo device, which is a brand of smart plugs that can be controlled remotely."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly, Is a dollar worth more or less in brazil?",
+    "label": "currency",
+    "skip": false,
+    "answer": "The sentence is asking about the value of a dollar in Brazil, which is related to currency exchange rates.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly, Is a dollar worth more or less in brazil?\nLABEL: currency\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about the value of a dollar in Brazil, which is related to currency exchange rates."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Please play my 90's rap hits",
+    "label": "music",
+    "skip": false,
+    "answer": "The sentence mentions \"90's rap hits,\" which indicates a specific genre of music. Therefore, the label for this sentence is music.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Please play my 90's rap hits\nLABEL: music\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions \"90's rap hits,\" which indicates a specific genre of music. Therefore, the label for this sentence is music."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Play NCAA Match Kentucky vs Arizona live",
+    "label": "radio",
+    "skip": false,
+    "answer": "The statement mentions a live NCAA match between Kentucky and Arizona. This suggests that the content is related to sports, specifically radio coverage of the match.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Play NCAA Match Kentucky vs Arizona live\nLABEL: radio\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions a live NCAA match between Kentucky and Arizona. This suggests that the content is related to sports, specifically radio coverage of the match."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly, how much are tickets at Wonder Works?",
+    "label": "events",
+    "skip": false,
+    "answer": "The statement mentions tickets at Wonder Works, which suggests that it is related to an event or activity.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly, how much are tickets at Wonder Works?\nLABEL: events\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions tickets at Wonder Works, which suggests that it is related to an event or activity."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What is the factorial of (9/3)?",
+    "label": "maths",
+    "skip": false,
+    "answer": "The sentence is asking for the factorial of a number, which is a mathematical concept. Therefore, the label for this sentence is \"maths.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What is the factorial of (9/3)?\nLABEL: maths\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for the factorial of a number, which is a mathematical concept. Therefore, the label for this sentence is \"maths.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "have i got any new email from my company.",
+    "label": "query",
+    "skip": false,
+    "answer": "The sentence is a query asking if the person has received any new emails from their company. It does not provide any information or context related to a specific topic or category, so it cannot be classified into any specific label. Therefore, the label for this sentence would be \"uncategorized\" or \"unknown\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: have i got any new email from my company.\nLABEL: query\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a query asking if the person has received any new emails from their company. It does not provide any information or context related to a specific topic or category, so it cannot be classified into any specific label. Therefore, the label for this sentence would be \"uncategorized\" or \"unknown\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Put the playlist on shuffle.",
+    "label": "settings",
+    "skip": false,
+    "answer": "The statement suggests an action related to a playlist, indicating that it is referring to a feature or setting on a device or application. Therefore, the label \"settings\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Put the playlist on shuffle.\nLABEL: settings\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement suggests an action related to a playlist, indicating that it is referring to a feature or setting on a device or application. Therefore, the label \"settings\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Can you change the volume at 90db.",
+    "label": "volume_other",
+    "skip": false,
+    "answer": "The statement is about changing the volume to a specific level of 90db. This does not directly relate to any specific category like business, sports, or entertainment. Therefore, it can be classified as \"volume_other\" as it pertains to adjusting the volume.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Can you change the volume at 90db.\nLABEL: volume_other\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is about changing the volume to a specific level of 90db. This does not directly relate to any specific category like business, sports, or entertainment. Therefore, it can be classified as \"volume_other\" as it pertains to adjusting the volume."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "i was not so clear about what you've said.",
+    "label": "explain",
+    "skip": false,
+    "answer": "The statement expresses confusion or lack of understanding about the previous explanation. It does not provide any information related to the business or any specific topic. Therefore, the label \"explain\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: i was not so clear about what you've said.\nLABEL: explain\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses confusion or lack of understanding about the previous explanation. It does not provide any information related to the business or any specific topic. Therefore, the label \"explain\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I want to drink cofee",
+    "label": "coffee",
+    "skip": false,
+    "answer": "The sentence explicitly mentions the desire to drink coffee, indicating that the topic is related to coffee.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I want to drink cofee\nLABEL: coffee\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence explicitly mentions the desire to drink coffee, indicating that the topic is related to coffee."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "wouldn't mind to select any one, olly.",
+    "label": "dontcare",
+    "skip": false,
+    "answer": "The sentence does not provide any specific information or context to determine a specific label. It seems to be a random statement without any clear meaning or relevance to a particular category. Therefore, the label \"dontcare\" is appropriate as it indicates that the sentence does not fall into any specific category.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: wouldn't mind to select any one, olly.\nLABEL: dontcare\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence does not provide any specific information or context to determine a specific label. It seems to be a random statement without any clear meaning or relevance to a particular category. Therefore, the label \"dontcare\" is appropriate as it indicates that the sentence does not fall into any specific category."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What is the best movie to watch this weekend.",
+    "label": "movies",
+    "skip": false,
+    "answer": "The statement is asking for a recommendation for a movie to watch, indicating an interest in the movie genre. Therefore, the label for this sentence is \"movies.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What is the best movie to watch this weekend.\nLABEL: movies\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking for a recommendation for a movie to watch, indicating an interest in the movie genre. Therefore, the label for this sentence is \"movies.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "you have done it right thank you, olly.",
+    "label": "praise",
+    "skip": false,
+    "answer": "The sentence acknowledges that the task has been completed correctly and expresses gratitude towards the person named Olly. This indicates a positive sentiment and warrants the praise label.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: you have done it right thank you, olly.\nLABEL: praise\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence acknowledges that the task has been completed correctly and expresses gratitude towards the person named Olly. This indicates a positive sentiment and warrants the praise label."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "get me a stock price of audi.",
+    "label": "stock",
+    "skip": false,
+    "answer": "The sentence is requesting the stock price of Audi, indicating an interest in stock market information. Therefore, the label for this sentence is \"stock.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: get me a stock price of audi.\nLABEL: stock\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is requesting the stock price of Audi, indicating an interest in stock market information. Therefore, the label for this sentence is \"stock.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "play scabble with me",
+    "label": "game",
+    "skip": false,
+    "answer": "The sentence mentions playing Scrabble, which is a popular word game. Therefore, the label \"game\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: play scabble with me\nLABEL: game\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions playing Scrabble, which is a popular word game. Therefore, the label \"game\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I need to find a gift.  What stores are within a 1 mile radius?",
+    "label": "locations",
+    "skip": false,
+    "answer": "The sentence is asking for information about stores within a specific radius, indicating a need for location-based information. Therefore, the label for this sentence is \"locations.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I need to find a gift.  What stores are within a 1 mile radius?\nLABEL: locations\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for information about stores within a specific radius, indicating a need for location-based information. Therefore, the label for this sentence is \"locations.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "will you further elaborate me on it please.",
+    "label": "explain",
+    "skip": false,
+    "answer": "The sentence is a request for further explanation on the previous explanation provided. It does not provide any specific information or context related to a particular topic or category. Therefore, the label for this sentence would be \"explain.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: will you further elaborate me on it please.\nLABEL: explain\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for further explanation on the previous explanation provided. It does not provide any specific information or context related to a particular topic or category. Therefore, the label for this sentence would be \"explain.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Remind me tomorrow morning of my schedules for Tuesday",
+    "label": "set",
+    "skip": false,
+    "answer": "The statement is a request to be reminded of schedules for Tuesday. This indicates that the sentence is related to setting reminders or schedules.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Remind me tomorrow morning of my schedules for Tuesday\nLABEL: set\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request to be reminded of schedules for Tuesday. This indicates that the sentence is related to setting reminders or schedules."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PLEASE SET ALARM FOR ALL DAYS",
+    "label": "set",
+    "skip": false,
+    "answer": "The statement is a command to set an alarm for all days. It does not relate to any specific category or topic, but rather instructs someone to perform a specific action. Therefore, the label \"set\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PLEASE SET ALARM FOR ALL DAYS\nLABEL: set\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to set an alarm for all days. It does not relate to any specific category or topic, but rather instructs someone to perform a specific action. Therefore, the label \"set\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Please book a train ticket from Jodhpur to Jaisalmer on Sunday.",
+    "label": "ticket",
+    "skip": false,
+    "answer": "The statement is requesting to book a train ticket from one city to another on a specific day. This indicates a specific action related to purchasing a ticket, which falls under the category of \"ticket\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Please book a train ticket from Jodhpur to Jaisalmer on Sunday.\nLABEL: ticket\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is requesting to book a train ticket from one city to another on a specific day. This indicates a specific action related to purchasing a ticket, which falls under the category of \"ticket\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Lights on!",
+    "label": "hue_lighton",
+    "skip": false,
+    "answer": "The statement is a command to turn on the lights. The label \"hue_lighton\" suggests that it is related to controlling the hue lights and specifically turning them on.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Lights on!\nLABEL: hue_lighton\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to turn on the lights. The label \"hue_lighton\" suggests that it is related to controlling the hue lights and specifically turning them on."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "i would like to hear what i just said again.",
+    "label": "repeat",
+    "skip": false,
+    "answer": "The statement indicates a desire to hear the previous statement again, suggesting a request for repetition. Therefore, the label \"repeat\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: i would like to hear what i just said again.\nLABEL: repeat\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement indicates a desire to hear the previous statement again, suggesting a request for repetition. Therefore, the label \"repeat\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I don't like this song",
+    "label": "dislikeness",
+    "skip": false,
+    "answer": "The statement expresses a personal opinion about not liking a song, indicating a feeling of dislikeness towards it.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I don't like this song\nLABEL: dislikeness\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a personal opinion about not liking a song, indicating a feeling of dislikeness towards it."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "give a hand to this game.",
+    "label": "game",
+    "skip": false,
+    "answer": "The sentence mentions a game and asks for assistance, indicating that it is related to a game and seeking help or support within that context.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: give a hand to this game.\nLABEL: game\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions a game and asks for assistance, indicating that it is related to a game and seeking help or support within that context."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "How about you save this music?",
+    "label": "likeness",
+    "skip": false,
+    "answer": "The statement is about saving music, which does not provide any indication of a business-related topic. Therefore, the label \"likeness\" does not accurately represent the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: How about you save this music?\nLABEL: likeness\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is about saving music, which does not provide any indication of a business-related topic. Therefore, the label \"likeness\" does not accurately represent the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "what is the answer to 1 times 2",
+    "label": "maths",
+    "skip": false,
+    "answer": "The sentence is a mathematical question asking for the product of 1 times 2. This falls under the category of mathematics.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: what is the answer to 1 times 2\nLABEL: maths\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a mathematical question asking for the product of 1 times 2. This falls under the category of mathematics."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "stop, i think you don't get me.",
+    "label": "negate",
+    "skip": false,
+    "answer": "The statement includes the phrase \"stop, I think you don't get me,\" which indicates a negation or disagreement. Therefore, the label \"negate\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: stop, i think you don't get me.\nLABEL: negate\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement includes the phrase \"stop, I think you don't get me,\" which indicates a negation or disagreement. Therefore, the label \"negate\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "any one is fine with me.",
+    "label": "dontcare",
+    "skip": false,
+    "answer": "The statement does not provide any specific information or context to determine a relevant label. Therefore, the label \"dontcare\" is appropriate as it indicates that the sentence does not pertain to any specific category or topic.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: any one is fine with me.\nLABEL: dontcare\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement does not provide any specific information or context to determine a relevant label. Therefore, the label \"dontcare\" is appropriate as it indicates that the sentence does not pertain to any specific category or topic."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "add mop to hardware store list",
+    "label": "createoradd",
+    "skip": false,
+    "answer": "The statement is a command or instruction to add a mop to a hardware store list. It does not provide any information related to business, negotiations, or concerns regarding pensions. Therefore, the label \"createoradd\" would be more appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: add mop to hardware store list\nLABEL: createoradd\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command or instruction to add a mop to a hardware store list. It does not provide any information related to business, negotiations, or concerns regarding pensions. Therefore, the label \"createoradd\" would be more appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "that's cool, thank you.",
+    "label": "praise",
+    "skip": false,
+    "answer": "The statement expresses appreciation for the previous explanation, indicating a positive sentiment.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: that's cool, thank you.\nLABEL: praise\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses appreciation for the previous explanation, indicating a positive sentiment."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "would you please shut down.",
+    "label": "commandstop",
+    "skip": false,
+    "answer": "The sentence is a command, specifically asking someone to shut down. The label \"commandstop\" accurately describes the nature of the sentence as a command.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: would you please shut down.\nLABEL: commandstop\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command, specifically asking someone to shut down. The label \"commandstop\" accurately describes the nature of the sentence as a command."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Set alarm tomorrow at 6 am.",
+    "label": "set",
+    "skip": false,
+    "answer": "The statement instructs the reader to set an alarm for a specific time, indicating a task or action to be performed. Therefore, the label \"set\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Set alarm tomorrow at 6 am.\nLABEL: set\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement instructs the reader to set an alarm for a specific time, indicating a task or action to be performed. Therefore, the label \"set\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Please arrange a train ticket for me",
+    "label": "ticket",
+    "skip": false,
+    "answer": "The sentence is a request to arrange a train ticket, indicating that the main topic is related to purchasing a ticket. Therefore, the label \"ticket\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Please arrange a train ticket for me\nLABEL: ticket\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request to arrange a train ticket, indicating that the main topic is related to purchasing a ticket. Therefore, the label \"ticket\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "reminde me while am free",
+    "label": "query",
+    "skip": false,
+    "answer": "The sentence is a request for a reminder, indicating that the person wants to be reminded of something when they are free. This does not pertain to any specific category or topic, but rather a personal query or request.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: reminde me while am free\nLABEL: query\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for a reminder, indicating that the person wants to be reminded of something when they are free. This does not pertain to any specific category or topic, but rather a personal query or request."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "How cold will it get each night this week?",
+    "label": "query",
+    "skip": false,
+    "answer": "The statement is asking a question about the weather, specifically about the temperature at night for the upcoming week. This indicates that the sentence is a query seeking information, rather than providing any specific information or discussing a particular topic.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: How cold will it get each night this week?\nLABEL: query\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking a question about the weather, specifically about the temperature at night for the upcoming week. This indicates that the sentence is a query seeking information, rather than providing any specific information or discussing a particular topic."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Add apahelp@yahoo.com to my contacts.",
+    "label": "addcontact",
+    "skip": false,
+    "answer": "The statement is a command to add the email address \"apahelp@yahoo.com\" to the contacts list. It does not pertain to any specific category or topic, but rather a specific action to be taken. Therefore, the label \"addcontact\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Add apahelp@yahoo.com to my contacts.\nLABEL: addcontact\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to add the email address \"apahelp@yahoo.com\" to the contacts list. It does not pertain to any specific category or topic, but rather a specific action to be taken. Therefore, the label \"addcontact\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Who is Meryl Streep?",
+    "label": "factoid",
+    "skip": false,
+    "answer": "The sentence is asking for information about Meryl Streep, which is a fact-based question. Therefore, the label \"factoid\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Who is Meryl Streep?\nLABEL: factoid\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for information about Meryl Streep, which is a fact-based question. Therefore, the label \"factoid\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "COULD YOU PLEASE BOOK A CAB FOR ME IN UBER FROM LA TO NY TODAY.",
+    "label": "taxi",
+    "skip": false,
+    "answer": "The statement is a request to book a cab from one location to another using the Uber service. This indicates a need for transportation, specifically a taxi service.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: COULD YOU PLEASE BOOK A CAB FOR ME IN UBER FROM LA TO NY TODAY.\nLABEL: taxi\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request to book a cab from one location to another using the Uber service. This indicates a need for transportation, specifically a taxi service."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "please send a mail to Mr. richard  stating that i going to met him on 1/2/2017 at 5 pm at this office.",
+    "label": "sendemail",
+    "skip": false,
+    "answer": "The statement is about sending an email to Mr. Richard to inform him about a meeting scheduled for 1/2/2017 at 5 pm at the office. This is a specific task related to sending an email, so the label \"sendemail\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: please send a mail to Mr. richard  stating that i going to met him on 1/2/2017 at 5 pm at this office.\nLABEL: sendemail\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is about sending an email to Mr. Richard to inform him about a meeting scheduled for 1/2/2017 at 5 pm at the office. This is a specific task related to sending an email, so the label \"sendemail\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What are the current movies playing in my area?",
+    "label": "movies",
+    "skip": false,
+    "answer": "The sentence is asking about the current movies playing in the person's area, indicating an interest in movies. Therefore, the label \"movies\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What are the current movies playing in my area?\nLABEL: movies\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about the current movies playing in the person's area, indicating an interest in movies. Therefore, the label \"movies\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "List exchange rate information for the day for USD to JPY",
+    "label": "currency",
+    "skip": false,
+    "answer": "The sentence is requesting exchange rate information for USD to JPY, which is related to currency exchange rates. Therefore, the label for this sentence is \"currency.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: List exchange rate information for the day for USD to JPY\nLABEL: currency\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is requesting exchange rate information for USD to JPY, which is related to currency exchange rates. Therefore, the label for this sentence is \"currency.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "it's cool, thank you so much.",
+    "label": "praise",
+    "skip": false,
+    "answer": "The statement expresses gratitude and appreciation, indicating a positive sentiment. Therefore, the label \"praise\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: it's cool, thank you so much.\nLABEL: praise\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses gratitude and appreciation, indicating a positive sentiment. Therefore, the label \"praise\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Plays the podcast from the beginning",
+    "label": "podcasts",
+    "skip": false,
+    "answer": "The statement mentions playing a podcast from the beginning, indicating that the sentence is related to podcasts.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Plays the podcast from the beginning\nLABEL: podcasts\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions playing a podcast from the beginning, indicating that the sentence is related to podcasts."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "COULD YOU TURN OFF LIGHT",
+    "label": "hue_lightoff",
+    "skip": false,
+    "answer": "The sentence is a command asking someone to turn off the light. The label \"hue_lightoff\" suggests that it is related to controlling a specific type of light, possibly through a smart home system like Philips Hue.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: COULD YOU TURN OFF LIGHT\nLABEL: hue_lightoff\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command asking someone to turn off the light. The label \"hue_lightoff\" suggests that it is related to controlling a specific type of light, possibly through a smart home system like Philips Hue."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "How do you make vegetarian lasagna?",
+    "label": "recipe",
+    "skip": false,
+    "answer": "The sentence is asking for a recipe on how to make vegetarian lasagna, indicating that it is related to cooking and recipes.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: How do you make vegetarian lasagna?\nLABEL: recipe\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for a recipe on how to make vegetarian lasagna, indicating that it is related to cooking and recipes."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "how is the traffic on Harvard?",
+    "label": "traffic",
+    "skip": false,
+    "answer": "The sentence is asking about the traffic on Harvard, indicating that the topic of discussion is related to traffic conditions. Therefore, the label \"traffic\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: how is the traffic on Harvard?\nLABEL: traffic\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about the traffic on Harvard, indicating that the topic of discussion is related to traffic conditions. Therefore, the label \"traffic\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "hmm, i didn't say this.",
+    "label": "negate",
+    "skip": false,
+    "answer": "The statement expresses doubt or disagreement with the previous explanation.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: hmm, i didn't say this.\nLABEL: negate\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses doubt or disagreement with the previous explanation."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Tell me a clean joke",
+    "label": "joke",
+    "skip": false,
+    "answer": "The sentence is a request for a clean joke, indicating that the intention is to hear something humorous. Therefore, the label for this sentence is \"joke.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Tell me a clean joke\nLABEL: joke\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for a clean joke, indicating that the intention is to hear something humorous. Therefore, the label for this sentence is \"joke.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PDA: What's 2 plus 2",
+    "label": "maths",
+    "skip": false,
+    "answer": "The statement is a mathematical question asking for the sum of 2 plus 2. Therefore, the label is \"maths\" as it falls under the category of mathematics.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PDA: What's 2 plus 2\nLABEL: maths\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a mathematical question asking for the sum of 2 plus 2. Therefore, the label is \"maths\" as it falls under the category of mathematics."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Skip forward",
+    "label": "podcasts",
+    "skip": false,
+    "answer": "The sentence \"Skip forward\" does not provide enough context to determine the label accurately. It could potentially be related to podcasts if it refers to skipping forward in an audio recording or podcast episode. However, without further information, it is difficult to confirm the label with certainty.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Skip forward\nLABEL: podcasts\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence \"Skip forward\" does not provide enough context to determine the label accurately. It could potentially be related to podcasts if it refers to skipping forward in an audio recording or podcast episode. However, without further information, it is difficult to confirm the label with certainty."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Lower the lights in Bedroom 2",
+    "label": "hue_lightdim",
+    "skip": false,
+    "answer": "The statement is giving a command to lower the lights in a specific bedroom, indicating a control or adjustment related to the brightness of the lights. This suggests that the label \"hue_lightdim\" is appropriate as it refers to a specific action related to dimming the lights.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Lower the lights in Bedroom 2\nLABEL: hue_lightdim\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is giving a command to lower the lights in a specific bedroom, indicating a control or adjustment related to the brightness of the lights. This suggests that the label \"hue_lightdim\" is appropriate as it refers to a specific action related to dimming the lights."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Please repeat the current song is being played",
+    "label": "settings",
+    "skip": false,
+    "answer": "The sentence is requesting the current song to be repeated, which suggests that it is related to settings or controls of a music player or device.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Please repeat the current song is being played\nLABEL: settings\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is requesting the current song to be repeated, which suggests that it is related to settings or controls of a music player or device."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "that's all, stop.",
+    "label": "commandstop",
+    "skip": false,
+    "answer": "The statement is a command to stop. It explicitly states \"that's all, stop,\" indicating the end of the text or conversation.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: that's all, stop.\nLABEL: commandstop\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to stop. It explicitly states \"that's all, stop,\" indicating the end of the text or conversation."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PDA, if I call Mike in California at 6pm, what will his time be?",
+    "label": "convert",
+    "skip": false,
+    "answer": "The statement is asking about the time difference between the speaker's location (PDA) and Mike's location in California. This is a conversion-related question, as it involves converting the time from one time zone to another.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PDA, if I call Mike in California at 6pm, what will his time be?\nLABEL: convert\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking about the time difference between the speaker's location (PDA) and Mike's location in California. This is a conversion-related question, as it involves converting the time from one time zone to another."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Increase brightness in the room",
+    "label": "hue_lightup",
+    "skip": false,
+    "answer": "The statement is about increasing the brightness in a room, which suggests adjusting the lighting. Therefore, the label \"hue_lightup\" is appropriate as it refers to controlling the hue or color of the lighting to make it brighter.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Increase brightness in the room\nLABEL: hue_lightup\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is about increasing the brightness in a room, which suggests adjusting the lighting. Therefore, the label \"hue_lightup\" is appropriate as it refers to controlling the hue or color of the lighting to make it brighter."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "i like you to confirm the details please.",
+    "label": "confirm",
+    "skip": false,
+    "answer": "The statement is a request for confirmation of details. It does not provide any information related to business or any other specific category. Therefore, the label \"confirm\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: i like you to confirm the details please.\nLABEL: confirm\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request for confirmation of details. It does not provide any information related to business or any other specific category. Therefore, the label \"confirm\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "can i pass the bypass road at current traffic?",
+    "label": "traffic",
+    "skip": false,
+    "answer": "The sentence is asking about passing a bypass road in the current traffic situation. This is a question related to traffic conditions and does not have any relevance to business or any other category. Therefore, the label for this sentence is \"traffic\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: can i pass the bypass road at current traffic?\nLABEL: traffic\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about passing a bypass road in the current traffic situation. This is a question related to traffic conditions and does not have any relevance to business or any other category. Therefore, the label for this sentence is \"traffic\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Define God",
+    "label": "definition",
+    "skip": false,
+    "answer": "The sentence is asking for the definition of God, indicating that it is seeking a clear explanation or definition of the term.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Define God\nLABEL: definition\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for the definition of God, indicating that it is seeking a clear explanation or definition of the term."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "olly start the oven",
+    "label": "wemo_on",
+    "skip": false,
+    "answer": "The statement is a command to start the oven, which suggests that it is related to a smart home automation system. The label \"wemo_on\" indicates that it is a command to turn on a Wemo device, which is a brand of smart home devices.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: olly start the oven\nLABEL: wemo_on\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to start the oven, which suggests that it is related to a smart home automation system. The label \"wemo_on\" indicates that it is a command to turn on a Wemo device, which is a brand of smart home devices."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Hey Olly what's up.",
+    "label": "greet",
+    "skip": false,
+    "answer": "The sentence is a casual greeting between two individuals and does not contain any business-related content. Therefore, the label \"greet\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Hey Olly what's up.\nLABEL: greet\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a casual greeting between two individuals and does not contain any business-related content. Therefore, the label \"greet\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Listen what have happened to me today",
+    "label": "quirky",
+    "skip": false,
+    "answer": "The statement is unrelated to any specific category or topic. It seems to be a random and unrelated statement, which can be categorized as quirky or miscellaneous.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Listen what have happened to me today\nLABEL: quirky\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is unrelated to any specific category or topic. It seems to be a random and unrelated statement, which can be categorized as quirky or miscellaneous."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "How is Apple doing in the stock market?",
+    "label": "stock",
+    "skip": false,
+    "answer": "The sentence is asking about the performance of Apple in the stock market, indicating an interest in the company's stock value. Therefore, the label \"stock\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: How is Apple doing in the stock market?\nLABEL: stock\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about the performance of Apple in the stock market, indicating an interest in the company's stock value. Therefore, the label \"stock\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "please tell me that one more time again.",
+    "label": "repeat",
+    "skip": false,
+    "answer": "The sentence is a request for the speaker to repeat something that was said before. It does not pertain to any specific topic or category, so the label \"repeat\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: please tell me that one more time again.\nLABEL: repeat\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for the speaker to repeat something that was said before. It does not pertain to any specific topic or category, so the label \"repeat\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "If it is 12 hours ahead of eastern standard centaur time, what's the time in the Philippines now?",
+    "label": "convert",
+    "skip": false,
+    "answer": "The sentence is asking for a conversion of time between two different time zones. It does not pertain to any specific topic or category, but rather requires a mathematical calculation. Therefore, the label \"convert\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: If it is 12 hours ahead of eastern standard centaur time, what's the time in the Philippines now?\nLABEL: convert\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for a conversion of time between two different time zones. It does not pertain to any specific topic or category, but rather requires a mathematical calculation. Therefore, the label \"convert\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "change color",
+    "label": "hue_lightchange",
+    "skip": false,
+    "answer": "The sentence is a command to change the color. It does not provide any information or context related to business or any other specific category. Therefore, the label \"hue_lightchange\" does not accurately represent the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: change color\nLABEL: hue_lightchange\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command to change the color. It does not provide any information or context related to business or any other specific category. Therefore, the label \"hue_lightchange\" does not accurately represent the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Turn on the coffee pot.",
+    "label": "coffee",
+    "skip": false,
+    "answer": "The sentence is a simple command to turn on the coffee pot. It does not discuss any business-related topics or negotiations, so the label \"coffee\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Turn on the coffee pot.\nLABEL: coffee\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a simple command to turn on the coffee pot. It does not discuss any business-related topics or negotiations, so the label \"coffee\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly I want some coffee now",
+    "label": "coffee",
+    "skip": false,
+    "answer": "The statement explicitly mentions the desire for coffee, indicating that the topic of discussion is related to coffee.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly I want some coffee now\nLABEL: coffee\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement explicitly mentions the desire for coffee, indicating that the topic of discussion is related to coffee."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "i am sorry but i think you are wrong.",
+    "label": "negate",
+    "skip": false,
+    "answer": "The statement expresses disagreement with the previous statement, indicating a negation or contradiction.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: i am sorry but i think you are wrong.\nLABEL: negate\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses disagreement with the previous statement, indicating a negation or contradiction."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly, Where can I got to grab some drinks in west chester",
+    "label": "locations",
+    "skip": false,
+    "answer": "The sentence is asking for recommendations on where to go for drinks in West Chester, which indicates a location-related query.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly, Where can I got to grab some drinks in west chester\nLABEL: locations\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for recommendations on where to go for drinks in West Chester, which indicates a location-related query."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PLEAE TELL ME ABOUT THE HISTORIC FACTS ABOUT INDIA",
+    "label": "factoid",
+    "skip": false,
+    "answer": "The sentence is asking for information about the historical facts of India. This indicates that the sentence is seeking factual information rather than expressing an opinion or discussing a specific topic. Therefore, the label \"factoid\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PLEAE TELL ME ABOUT THE HISTORIC FACTS ABOUT INDIA\nLABEL: factoid\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for information about the historical facts of India. This indicates that the sentence is seeking factual information rather than expressing an opinion or discussing a specific topic. Therefore, the label \"factoid\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Please send a taxi to my house",
+    "label": "taxi",
+    "skip": false,
+    "answer": "The sentence explicitly mentions the need for a taxi to be sent to the speaker's house. This indicates that the sentence is related to requesting a taxi service, hence the label \"taxi\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Please send a taxi to my house\nLABEL: taxi\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence explicitly mentions the need for a taxi to be sent to the speaker's house. This indicates that the sentence is related to requesting a taxi service, hence the label \"taxi\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly, i want to play some video games",
+    "label": "game",
+    "skip": false,
+    "answer": "The statement mentions playing video games, indicating a desire to engage in gaming activities. Therefore, the label \"game\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly, i want to play some video games\nLABEL: game\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions playing video games, indicating a desire to engage in gaming activities. Therefore, the label \"game\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Turn the smart plug on",
+    "label": "wemo_on",
+    "skip": false,
+    "answer": "The statement is a command to turn on a smart plug. The label \"wemo_on\" suggests that it is referring to a specific brand or type of smart plug called \"WeMo\" and the action of turning it on.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Turn the smart plug on\nLABEL: wemo_on\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to turn on a smart plug. The label \"wemo_on\" suggests that it is referring to a specific brand or type of smart plug called \"WeMo\" and the action of turning it on."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Start the vaccum for me.",
+    "label": "cleaning",
+    "skip": false,
+    "answer": "The sentence mentions starting a vacuum, which is typically associated with cleaning activities. Therefore, the label \"cleaning\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Start the vaccum for me.\nLABEL: cleaning\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions starting a vacuum, which is typically associated with cleaning activities. Therefore, the label \"cleaning\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "November event delete",
+    "label": "remove",
+    "skip": false,
+    "answer": "The sentence is not relevant to the given problem and does not provide any information that can be used to determine the label. Therefore, the label should be \"remove\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: November event delete\nLABEL: remove\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is not relevant to the given problem and does not provide any information that can be used to determine the label. Therefore, the label should be \"remove\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Can you set the vacuum to start cleaning at x time?",
+    "label": "cleaning",
+    "skip": false,
+    "answer": "The sentence is asking about setting a vacuum to start cleaning at a specific time. This indicates that the sentence is related to the topic of cleaning.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Can you set the vacuum to start cleaning at x time?\nLABEL: cleaning\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about setting a vacuum to start cleaning at a specific time. This indicates that the sentence is related to the topic of cleaning."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I want to hear 80s Pop music",
+    "label": "music",
+    "skip": false,
+    "answer": "The statement expresses a personal preference for a specific genre of music, which is 80s Pop music. This indicates that the sentence is related to the topic of music.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I want to hear 80s Pop music\nLABEL: music\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a personal preference for a specific genre of music, which is 80s Pop music. This indicates that the sentence is related to the topic of music."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "activate silent",
+    "label": "volume_mute",
+    "skip": false,
+    "answer": "The sentence is a command to activate the silent mode. It does not provide any information related to business or any other specific category. Therefore, the label \"volume_mute\" is appropriate as it accurately describes the action being requested in the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: activate silent\nLABEL: volume_mute\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command to activate the silent mode. It does not provide any information related to business or any other specific category. Therefore, the label \"volume_mute\" is appropriate as it accurately describes the action being requested in the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "OK Google, unmute my sound.",
+    "label": "volume_up",
+    "skip": false,
+    "answer": "The statement is a command given to a voice assistant, specifically asking it to unmute the sound. This command is related to adjusting the volume, specifically increasing it. Therefore, the label \"volume_up\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: OK Google, unmute my sound.\nLABEL: volume_up\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command given to a voice assistant, specifically asking it to unmute the sound. This command is related to adjusting the volume, specifically increasing it. Therefore, the label \"volume_up\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly, cut down the volume.",
+    "label": "volume_down",
+    "skip": false,
+    "answer": "The statement is a command directed towards someone named Olly to reduce the volume. This indicates a request to decrease the volume level, which is related to controlling the audio settings. Therefore, the label for this sentence is \"volume_down.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly, cut down the volume.\nLABEL: volume_down\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command directed towards someone named Olly to reduce the volume. This indicates a request to decrease the volume level, which is related to controlling the audio settings. Therefore, the label for this sentence is \"volume_down.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly, book me a train ticket to Barcelona, please.",
+    "label": "ticket",
+    "skip": false,
+    "answer": "The statement is a request to book a train ticket to Barcelona. The word \"ticket\" in the sentence indicates that the label should be \"ticket\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly, book me a train ticket to Barcelona, please.\nLABEL: ticket\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request to book a train ticket to Barcelona. The word \"ticket\" in the sentence indicates that the label should be \"ticket\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "you've got the command right.",
+    "label": "affirm",
+    "skip": false,
+    "answer": "The statement acknowledges that the command given is correct.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: you've got the command right.\nLABEL: affirm\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement acknowledges that the command given is correct."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I need you to start FM 89.0 radio channel",
+    "label": "radio",
+    "skip": false,
+    "answer": "The sentence mentions starting a specific radio channel, FM 89.0. This indicates that the sentence is related to the radio industry and specifically refers to a radio channel. Therefore, the label for this sentence is \"radio.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I need you to start FM 89.0 radio channel\nLABEL: radio\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions starting a specific radio channel, FM 89.0. This indicates that the sentence is related to the radio industry and specifically refers to a radio channel. Therefore, the label for this sentence is \"radio.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "More volume please",
+    "label": "volume_up",
+    "skip": false,
+    "answer": "The statement is a request for more volume, which indicates a desire for an increase in the sound level. Therefore, the label \"volume_up\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: More volume please\nLABEL: volume_up\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request for more volume, which indicates a desire for an increase in the sound level. Therefore, the label \"volume_up\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I would like my PDA to tell me the trend on foreign exchange rates",
+    "label": "currency",
+    "skip": false,
+    "answer": "The statement mentions a PDA (Personal Digital Assistant) and foreign exchange rates, indicating a desire for information on currency trends. Therefore, the label \"currency\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I would like my PDA to tell me the trend on foreign exchange rates\nLABEL: currency\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions a PDA (Personal Digital Assistant) and foreign exchange rates, indicating a desire for information on currency trends. Therefore, the label \"currency\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "please would you confirm it.",
+    "label": "confirm",
+    "skip": false,
+    "answer": "The sentence is asking for confirmation of the previous explanation. It does not provide any new information or context to verify the \"Business\" label.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: please would you confirm it.\nLABEL: confirm\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for confirmation of the previous explanation. It does not provide any new information or context to verify the \"Business\" label."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly it's too dark I can't even see my hands",
+    "label": "hue_lighton",
+    "skip": false,
+    "answer": "The statement mentions that it is too dark and the speaker cannot see their hands. This suggests that the label should be \"hue_lighton\" as it implies that the speaker wants to turn on the lights to improve visibility.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly it's too dark I can't even see my hands\nLABEL: hue_lighton\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions that it is too dark and the speaker cannot see their hands. This suggests that the label should be \"hue_lighton\" as it implies that the speaker wants to turn on the lights to improve visibility."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Change volume",
+    "label": "volume_other",
+    "skip": false,
+    "answer": "The sentence is a command or instruction to change the volume. It does not provide any context or information related to business or any specific topic. Therefore, the label \"volume_other\" is appropriate as it indicates that the sentence is about changing the volume but does not fall into any specific business category.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Change volume\nLABEL: volume_other\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a command or instruction to change the volume. It does not provide any context or information related to business or any specific topic. Therefore, the label \"volume_other\" is appropriate as it indicates that the sentence is about changing the volume but does not fall into any specific business category."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "please do not answer",
+    "label": "volume_mute",
+    "skip": false,
+    "answer": "The sentence is a request for the user to not answer. It does not provide any information or context for classification.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: please do not answer\nLABEL: volume_mute\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for the user to not answer. It does not provide any information or context for classification."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Switch off the smart plug socket now",
+    "label": "wemo_off",
+    "skip": false,
+    "answer": "The statement instructs the reader to switch off a smart plug socket. The label \"wemo_off\" suggests that this is a command related to the Wemo smart plug brand, indicating that the action is to turn off the socket.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Switch off the smart plug socket now\nLABEL: wemo_off\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement instructs the reader to switch off a smart plug socket. The label \"wemo_off\" suggests that this is a command related to the Wemo smart plug brand, indicating that the action is to turn off the socket."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "how can i adjust the volume",
+    "label": "volume_other",
+    "skip": false,
+    "answer": "The sentence is asking for assistance in adjusting the volume, which is unrelated to the business domain. Therefore, the label \"volume_other\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: how can i adjust the volume\nLABEL: volume_other\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for assistance in adjusting the volume, which is unrelated to the business domain. Therefore, the label \"volume_other\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "by switch off",
+    "label": "hue_lightoff",
+    "skip": false,
+    "answer": "The sentence \"by switch off\" does not provide enough context or information to determine the label. It seems to be incomplete or unrelated to any specific category.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: by switch off\nLABEL: hue_lightoff\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence \"by switch off\" does not provide enough context or information to determine the label. It seems to be incomplete or unrelated to any specific category."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "change the light to pink color.",
+    "label": "hue_lightchange",
+    "skip": false,
+    "answer": "The statement is giving a command to change the color of a light to pink. This does not relate to any business or financial matters, but rather to a technical instruction related to lighting. Therefore, the label for this sentence would be \"hue_lightchange.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: change the light to pink color.\nLABEL: hue_lightchange\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is giving a command to change the color of a light to pink. This does not relate to any business or financial matters, but rather to a technical instruction related to lighting. Therefore, the label for this sentence would be \"hue_lightchange.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I want a lower light",
+    "label": "hue_lightdim",
+    "skip": false,
+    "answer": "The statement expresses a desire for a lower light, which suggests a request to dim or adjust the brightness of a light source. The label \"hue_lightdim\" indicates that this sentence is related to controlling the dimness or brightness of a light.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I want a lower light\nLABEL: hue_lightdim\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a desire for a lower light, which suggests a request to dim or adjust the brightness of a light source. The label \"hue_lightdim\" indicates that this sentence is related to controlling the dimness or brightness of a light."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "the joke of the day",
+    "label": "joke",
+    "skip": false,
+    "answer": "The sentence is a joke, as indicated by the phrase \"the joke of the day.\" This suggests that the sentence is meant to be humorous or light-hearted, rather than discussing any serious or business-related topic.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: the joke of the day\nLABEL: joke\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a joke, as indicated by the phrase \"the joke of the day.\" This suggests that the sentence is meant to be humorous or light-hearted, rather than discussing any serious or business-related topic."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Play all Indie pop songs.",
+    "label": "music",
+    "skip": false,
+    "answer": "The statement mentions \"Indie pop songs,\" which indicates that the content is related to music. Therefore, the label \"music\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Play all Indie pop songs.\nLABEL: music\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions \"Indie pop songs,\" which indicates that the content is related to music. Therefore, the label \"music\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "any runs on the west side",
+    "label": "events",
+    "skip": false,
+    "answer": "The sentence does not provide any context or information related to events. It seems to be a random statement without any clear meaning or connection to a specific event. Therefore, the label \"events\" does not accurately describe the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: any runs on the west side\nLABEL: events\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence does not provide any context or information related to events. It seems to be a random statement without any clear meaning or connection to a specific event. Therefore, the label \"events\" does not accurately describe the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Smart plug socket off please.",
+    "label": "wemo_off",
+    "skip": false,
+    "answer": "The statement is a command to turn off a smart plug socket. The label \"wemo_off\" suggests that it is related to the Wemo brand, which is a popular brand for smart plug sockets.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Smart plug socket off please.\nLABEL: wemo_off\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to turn off a smart plug socket. The label \"wemo_off\" suggests that it is related to the Wemo brand, which is a popular brand for smart plug sockets."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Locate a recipe for thai fried rice",
+    "label": "recipe",
+    "skip": false,
+    "answer": "The sentence is asking to locate a recipe for Thai fried rice, indicating that the sentence is related to finding a specific recipe. Therefore, the label for this sentence is \"recipe.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Locate a recipe for thai fried rice\nLABEL: recipe\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking to locate a recipe for Thai fried rice, indicating that the sentence is related to finding a specific recipe. Therefore, the label for this sentence is \"recipe.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Tweet on the bad service",
+    "label": "post",
+    "skip": false,
+    "answer": "The statement mentions a tweet about bad service, which suggests that it is a post on a social media platform expressing dissatisfaction with a service. Therefore, the label \"post\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Tweet on the bad service\nLABEL: post\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions a tweet about bad service, which suggests that it is a post on a social media platform expressing dissatisfaction with a service. Therefore, the label \"post\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "List the celebrities who have been in my country in the last five years",
+    "label": "factoid",
+    "skip": false,
+    "answer": "The sentence is asking for a list of celebrities who have visited the speaker's country in the last five years. This is a factual question that requires providing a list of specific information. Therefore, the label \"factoid\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: List the celebrities who have been in my country in the last five years\nLABEL: factoid\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for a list of celebrities who have visited the speaker's country in the last five years. This is a factual question that requires providing a list of specific information. Therefore, the label \"factoid\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "BRIGTEN THE LIGHT AT 70 PERCENT",
+    "label": "hue_lightup",
+    "skip": false,
+    "answer": "The sentence seems to be a command or instruction to brighten the light at 70 percent. The label \"hue_lightup\" suggests that it is related to controlling or adjusting the brightness of a hue light.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: BRIGTEN THE LIGHT AT 70 PERCENT\nLABEL: hue_lightup\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence seems to be a command or instruction to brighten the light at 70 percent. The label \"hue_lightup\" suggests that it is related to controlling or adjusting the brightness of a hue light."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "any one.",
+    "label": "dontcare",
+    "skip": false,
+    "answer": "The sentence does not provide any specific information or context, making it difficult to determine the appropriate label. Therefore, the label \"dontcare\" is assigned, indicating that the sentence does not provide relevant information for classification.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: any one.\nLABEL: dontcare\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence does not provide any specific information or context, making it difficult to determine the appropriate label. Therefore, the label \"dontcare\" is assigned, indicating that the sentence does not provide relevant information for classification."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Repeat the song playing now",
+    "label": "settings",
+    "skip": false,
+    "answer": "The statement is about repeating a song that is currently playing. This does not have any direct relation to business or any specific settings. Therefore, the label \"settings\" does not accurately describe the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Repeat the song playing now\nLABEL: settings\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is about repeating a song that is currently playing. This does not have any direct relation to business or any specific settings. Therefore, the label \"settings\" does not accurately describe the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "please replay your last statement.",
+    "label": "repeat",
+    "skip": false,
+    "answer": "The sentence is a request for the previous statement to be repeated. It does not provide any information or context related to the business domain. Therefore, the label \"repeat\" is appropriate as it signifies the action of repeating something.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: please replay your last statement.\nLABEL: repeat\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for the previous statement to be repeated. It does not provide any information or context related to the business domain. Therefore, the label \"repeat\" is appropriate as it signifies the action of repeating something."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Create a blank list.",
+    "label": "createoradd",
+    "skip": false,
+    "answer": "The sentence is giving an instruction to create a blank list. The label \"createoradd\" is appropriate because it accurately describes the action being performed in the sentence, which is creating a list.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Create a blank list.\nLABEL: createoradd\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is giving an instruction to create a blank list. The label \"createoradd\" is appropriate because it accurately describes the action being performed in the sentence, which is creating a list."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "that's enough, just stop it.",
+    "label": "commandstop",
+    "skip": false,
+    "answer": "The statement includes a command to stop something. The tone of the sentence suggests that it is a direct instruction or command. Therefore, the label \"commandstop\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: that's enough, just stop it.\nLABEL: commandstop\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement includes a command to stop something. The tone of the sentence suggests that it is a direct instruction or command. Therefore, the label \"commandstop\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What is a workhouse?",
+    "label": "definition",
+    "skip": false,
+    "answer": "The sentence is asking for the definition of a workhouse. This indicates that the sentence is seeking an explanation or definition of a term, which falls under the \"definition\" label.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What is a workhouse?\nLABEL: definition\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for the definition of a workhouse. This indicates that the sentence is seeking an explanation or definition of a term, which falls under the \"definition\" label."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PDA can you look up and add John's old email to my contacts again?",
+    "label": "addcontact",
+    "skip": false,
+    "answer": "The statement is a request to add John's old email to the speaker's contacts. This action is related to managing contacts and does not have any direct connection to the business domain. Therefore, the label \"addcontact\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PDA can you look up and add John's old email to my contacts again?\nLABEL: addcontact\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request to add John's old email to the speaker's contacts. This action is related to managing contacts and does not have any direct connection to the business domain. Therefore, the label \"addcontact\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Make a note, please: I like modern alternative rock music",
+    "label": "likeness",
+    "skip": false,
+    "answer": "The statement expresses a personal preference for modern alternative rock music. It does not discuss any business-related topics or negotiations, so the label \"likeness\" seems more appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Make a note, please: I like modern alternative rock music\nLABEL: likeness\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a personal preference for modern alternative rock music. It does not discuss any business-related topics or negotiations, so the label \"likeness\" seems more appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "yeap fantastic response to command.",
+    "label": "affirm",
+    "skip": false,
+    "answer": "The statement expresses a positive response to a command, indicating agreement or approval. The word \"fantastic\" emphasizes the positive sentiment. Therefore, the label \"affirm\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: yeap fantastic response to command.\nLABEL: affirm\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a positive response to a command, indicating agreement or approval. The word \"fantastic\" emphasizes the positive sentiment. Therefore, the label \"affirm\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "publish an article in pinterest",
+    "label": "post",
+    "skip": false,
+    "answer": "The statement mentions publishing an article on Pinterest, which indicates the action of sharing or posting content on a social media platform. Therefore, the label \"post\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: publish an article in pinterest\nLABEL: post\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions publishing an article on Pinterest, which indicates the action of sharing or posting content on a social media platform. Therefore, the label \"post\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I wish to listen that radio channel",
+    "label": "radio",
+    "skip": false,
+    "answer": "The sentence expresses a desire to listen to a specific radio channel. This indicates an interest in radio, suggesting that the label for this sentence is \"radio\".",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I wish to listen that radio channel\nLABEL: radio\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence expresses a desire to listen to a specific radio channel. This indicates an interest in radio, suggesting that the label for this sentence is \"radio\"."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Olly good night, lights off",
+    "label": "hue_lightoff",
+    "skip": false,
+    "answer": "The sentence \"Olly good night, lights off\" does not provide any context or information that can be used to determine the label. Therefore, it is not possible to verify the \"hue_lightoff\" label based on the given sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Olly good night, lights off\nLABEL: hue_lightoff\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence \"Olly good night, lights off\" does not provide any context or information that can be used to determine the label. Therefore, it is not possible to verify the \"hue_lightoff\" label based on the given sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Call Golden Taxi to pick me up at 7pm today.",
+    "label": "taxi",
+    "skip": false,
+    "answer": "The sentence mentions calling a taxi service, indicating a request for transportation. Therefore, the label \"taxi\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Call Golden Taxi to pick me up at 7pm today.\nLABEL: taxi\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions calling a taxi service, indicating a request for transportation. Therefore, the label \"taxi\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "i don't like this band",
+    "label": "dislikeness",
+    "skip": false,
+    "answer": "The statement expresses a personal opinion about not liking a band. It does not provide any information related to business, politics, or any other category. Therefore, the label \"dislikeness\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: i don't like this band\nLABEL: dislikeness\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a personal opinion about not liking a band. It does not provide any information related to business, politics, or any other category. Therefore, the label \"dislikeness\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "volume down",
+    "label": "volume_down",
+    "skip": false,
+    "answer": "The statement \"volume down\" is a command or instruction that suggests reducing the volume. It does not provide any context or information related to a specific topic or category. Therefore, the label \"volume_down\" is appropriate as it describes the action being mentioned in the sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: volume down\nLABEL: volume_down\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement \"volume down\" is a command or instruction that suggests reducing the volume. It does not provide any context or information related to a specific topic or category. Therefore, the label \"volume_down\" is appropriate as it describes the action being mentioned in the sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Can I find a shop that sells Italian Suits?",
+    "label": "locations",
+    "skip": false,
+    "answer": "The sentence is asking for information about finding a shop that sells Italian suits. This indicates that the sentence is related to locations, specifically the search for a specific type of shop.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Can I find a shop that sells Italian Suits?\nLABEL: locations\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking for information about finding a shop that sells Italian suits. This indicates that the sentence is related to locations, specifically the search for a specific type of shop."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "i am unclear about last sentence.",
+    "label": "explain",
+    "skip": false,
+    "answer": "The sentence states that the person is unclear about the last sentence. This does not provide any information or explanation about the label \"explain.\" Therefore, the explanation is insufficient.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: i am unclear about last sentence.\nLABEL: explain\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence states that the person is unclear about the last sentence. This does not provide any information or explanation about the label \"explain.\" Therefore, the explanation is insufficient."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Show me how to cook low calorie breakfast.",
+    "label": "recipe",
+    "skip": false,
+    "answer": "The statement is asking for instructions on cooking a low calorie breakfast, indicating that it is related to a recipe.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Show me how to cook low calorie breakfast.\nLABEL: recipe\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking for instructions on cooking a low calorie breakfast, indicating that it is related to a recipe."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Increase light intensity.",
+    "label": "hue_lightup",
+    "skip": false,
+    "answer": "The statement suggests increasing the light intensity, which is related to controlling the brightness or intensity of a light source. Therefore, the label \"hue_lightup\" seems appropriate as it indicates an action related to adjusting the light intensity.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Increase light intensity.\nLABEL: hue_lightup\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement suggests increasing the light intensity, which is related to controlling the brightness or intensity of a light source. Therefore, the label \"hue_lightup\" seems appropriate as it indicates an action related to adjusting the light intensity."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Save this song",
+    "label": "likeness",
+    "skip": false,
+    "answer": "The statement is a command to save a song. It does not provide any context or information related to any specific category or topic. Therefore, it is difficult to determine the exact label for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Save this song\nLABEL: likeness\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to save a song. It does not provide any context or information related to any specific category or topic. Therefore, it is difficult to determine the exact label for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Can you tell me about the traffic?",
+    "label": "traffic",
+    "skip": false,
+    "answer": "The sentence is asking about traffic, which indicates that the topic of discussion is related to traffic conditions or issues. Therefore, the label for this sentence would be \"traffic.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Can you tell me about the traffic?\nLABEL: traffic\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about traffic, which indicates that the topic of discussion is related to traffic conditions or issues. Therefore, the label for this sentence would be \"traffic.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Let my cable company know that I hate it.",
+    "label": "post",
+    "skip": false,
+    "answer": "The statement expresses a personal opinion about hating a cable company. It does not discuss any business-related topics or negotiations. Therefore, the label \"post\" is more appropriate as it indicates a personal expression or opinion.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Let my cable company know that I hate it.\nLABEL: post\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a personal opinion about hating a cable company. It does not discuss any business-related topics or negotiations. Therefore, the label \"post\" is more appropriate as it indicates a personal expression or opinion."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PDA please order take from jason's deli",
+    "label": "order",
+    "skip": false,
+    "answer": "The statement includes a request to order takeout from a specific restaurant, Jason's Deli. This indicates that the sentence is related to placing an order, hence the label \"order.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PDA please order take from jason's deli\nLABEL: order\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement includes a request to order takeout from a specific restaurant, Jason's Deli. This indicates that the sentence is related to placing an order, hence the label \"order.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "I do not enjoy this song.",
+    "label": "dislikeness",
+    "skip": false,
+    "answer": "The statement expresses a personal opinion about not enjoying a song, indicating a feeling of disliking it.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: I do not enjoy this song.\nLABEL: dislikeness\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement expresses a personal opinion about not enjoying a song, indicating a feeling of disliking it."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What is the home phone number for Sarah",
+    "label": "querycontact",
+    "skip": false,
+    "answer": "The sentence is a query asking for the home phone number of someone named Sarah. It does not pertain to any specific category or topic, but rather seeks information. Therefore, the label for this sentence would be \"querycontact.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What is the home phone number for Sarah\nLABEL: querycontact\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a query asking for the home phone number of someone named Sarah. It does not pertain to any specific category or topic, but rather seeks information. Therefore, the label for this sentence would be \"querycontact.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "run vacuum cleaner",
+    "label": "cleaning",
+    "skip": false,
+    "answer": "The sentence mentions a specific action, which is running a vacuum cleaner. This action is commonly associated with the task of cleaning. Therefore, the label \"cleaning\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: run vacuum cleaner\nLABEL: cleaning\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions a specific action, which is running a vacuum cleaner. This action is commonly associated with the task of cleaning. Therefore, the label \"cleaning\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What are the offers in Uber eats?",
+    "label": "order",
+    "skip": false,
+    "answer": "The statement is asking about the offers available in Uber Eats, which suggests that the person is interested in placing an order. Therefore, the label \"order\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What are the offers in Uber eats?\nLABEL: order\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking about the offers available in Uber Eats, which suggests that the person is interested in placing an order. Therefore, the label \"order\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Alexa, please turn on the lights.",
+    "label": "hue_lighton",
+    "skip": false,
+    "answer": "The statement is a command given to a voice assistant, Alexa, to turn on the lights. The label \"hue_lighton\" suggests that it is a specific command related to controlling the lights, possibly using a Hue lighting system.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Alexa, please turn on the lights.\nLABEL: hue_lighton\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command given to a voice assistant, Alexa, to turn on the lights. The label \"hue_lighton\" suggests that it is a specific command related to controlling the lights, possibly using a Hue lighting system."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "would you check and confirm the detail.",
+    "label": "confirm",
+    "skip": false,
+    "answer": "The statement is asking for confirmation of the details mentioned in the previous explanation. It does not provide any new information or context to determine the label.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: would you check and confirm the detail.\nLABEL: confirm\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking for confirmation of the details mentioned in the previous explanation. It does not provide any new information or context to determine the label."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Can you tell me which movie is going on in the nearby multiplex?",
+    "label": "movies",
+    "skip": false,
+    "answer": "The sentence is asking about the movie currently playing in a nearby multiplex, indicating an interest in movies. Therefore, the label for this sentence is \"movies.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Can you tell me which movie is going on in the nearby multiplex?\nLABEL: movies\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about the movie currently playing in a nearby multiplex, indicating an interest in movies. Therefore, the label for this sentence is \"movies.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "OK Google, I need to hear sound on my speakers.",
+    "label": "volume_up",
+    "skip": false,
+    "answer": "The statement is a command given to a voice assistant, requesting to increase the volume on the speakers. Therefore, the label \"volume_up\" accurately describes the action being requested.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: OK Google, I need to hear sound on my speakers.\nLABEL: volume_up\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command given to a voice assistant, requesting to increase the volume on the speakers. Therefore, the label \"volume_up\" accurately describes the action being requested."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "What is a stock price of TATA",
+    "label": "stock",
+    "skip": false,
+    "answer": "The sentence is asking about the stock price of TATA, which indicates a specific interest in the stock market. Therefore, the label for this sentence is \"stock.\"",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: What is a stock price of TATA\nLABEL: stock\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is asking about the stock price of TATA, which indicates a specific interest in the stock market. Therefore, the label for this sentence is \"stock.\""
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Enable smart socket",
+    "label": "wemo_on",
+    "skip": false,
+    "answer": "The statement mentions a \"smart socket\" and the label \"wemo_on\" suggests that it is referring to enabling or turning on a Wemo smart socket.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Enable smart socket\nLABEL: wemo_on\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions a \"smart socket\" and the label \"wemo_on\" suggests that it is referring to enabling or turning on a Wemo smart socket."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "football matches in newyork",
+    "label": "events",
+    "skip": false,
+    "answer": "The statement mentions \"football matches in New York,\" which indicates an event happening in a specific location. Therefore, the label \"events\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: football matches in newyork\nLABEL: events\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions \"football matches in New York,\" which indicates an event happening in a specific location. Therefore, the label \"events\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Tell me joke.",
+    "label": "joke",
+    "skip": false,
+    "answer": "The sentence is a request for a joke, indicating that the intention is to receive a humorous response. Therefore, the label \"joke\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Tell me joke.\nLABEL: joke\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a request for a joke, indicating that the intention is to receive a humorous response. Therefore, the label \"joke\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "send email to my wife",
+    "label": "sendemail",
+    "skip": false,
+    "answer": "The statement is a command to send an email to the person's wife. It does not provide any context or information related to business or any other specific category. Therefore, the label \"sendemail\" is appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: send email to my wife\nLABEL: sendemail\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a command to send an email to the person's wife. It does not provide any context or information related to business or any other specific category. Therefore, the label \"sendemail\" is appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "if there is event of show then remove it.",
+    "label": "remove",
+    "skip": false,
+    "answer": "The sentence does not mention any event of show, so the label should not be removed.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: if there is event of show then remove it.\nLABEL: remove\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence does not mention any event of show, so the label should not be removed."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "who are you",
+    "label": "greet",
+    "skip": false,
+    "answer": "The sentence is a simple question asking for the identity of the person being addressed. It does not provide any information related to business or any other specific topic. Therefore, the label \"greet\" is appropriate as it represents a general greeting or introduction.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: who are you\nLABEL: greet\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence is a simple question asking for the identity of the person being addressed. It does not provide any information related to business or any other specific topic. Therefore, the label \"greet\" is appropriate as it represents a general greeting or introduction."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "yes you've done your understanding right.",
+    "label": "affirm",
+    "skip": false,
+    "answer": "The statement confirms that the understanding of the sentence is correct.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: yes you've done your understanding right.\nLABEL: affirm\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement confirms that the understanding of the sentence is correct."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "PDA no notifications for 5 minutes",
+    "label": "volume_mute",
+    "skip": false,
+    "answer": "The statement mentions that there are no notifications for 5 minutes on a PDA (Personal Digital Assistant). This indicates a technical issue or a setting related to the sound volume being muted. Therefore, the label \"volume_mute\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: PDA no notifications for 5 minutes\nLABEL: volume_mute\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement mentions that there are no notifications for 5 minutes on a PDA (Personal Digital Assistant). This indicates a technical issue or a setting related to the sound volume being muted. Therefore, the label \"volume_mute\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Send email to Mom and wish her a happy birthday",
+    "label": "sendemail",
+    "skip": false,
+    "answer": "The statement is about sending an email to wish someone a happy birthday. It does not mention any business-related content or negotiations, so the label \"sendemail\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Send email to Mom and wish her a happy birthday\nLABEL: sendemail\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is about sending an email to wish someone a happy birthday. It does not mention any business-related content or negotiations, so the label \"sendemail\" is appropriate."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "How much will be the world population after 20 years.",
+    "label": "quirky",
+    "skip": false,
+    "answer": "The statement is asking about the world population after 20 years, which is a factual and statistical question rather than a quirky or unusual topic. Therefore, the label \"quirky\" is not appropriate for this sentence.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: How much will be the world population after 20 years.\nLABEL: quirky\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is asking about the world population after 20 years, which is a factual and statistical question rather than a quirky or unusual topic. Therefore, the label \"quirky\" is not appropriate for this sentence."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "get me resume of newest release audio-book",
+    "label": "audiobook",
+    "skip": false,
+    "answer": "The sentence mentions a resume of the newest release audio-book, indicating that it is related to the field of audiobooks.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: get me resume of newest release audio-book\nLABEL: audiobook\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The sentence mentions a resume of the newest release audio-book, indicating that it is related to the field of audiobooks."
+      }
+    ],
+    "valid": true
+  },
+  {
+    "text": "Can you make it a little quieter?",
+    "label": "volume_down",
+    "skip": false,
+    "answer": "The statement is a request to reduce the volume, indicating a desire for a quieter environment. This does not relate to any specific category or topic, but rather a general preference for a lower volume level. Therefore, the label \"volume_down\" is appropriate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Below is a text classification problem. Let's think step by step and give your explanation to verify the SENTENCE label:SENTENCE:\"Fears for T N pension after talks Unions representing workers at Turner Newall say they are 'disappointed' after talks with stricken parent firm Federal Mogul.\"\nLABEL: Business\nEXPLANATION: The statement discusses talks between unions and a parent firm, which relates to business-related negotiations and concerns regarding pensions. SENTENCE: Can you make it a little quieter?\nLABEL: volume_down\nEXPLANATION: "
+      },
+      {
+        "role": "assistant",
+        "content": "The statement is a request to reduce the volume, indicating a desire for a quieter environment. This does not relate to any specific category or topic, but rather a general preference for a lower volume level. Therefore, the label \"volume_down\" is appropriate."
+      }
+    ],
+    "valid": true
+  }
+]
