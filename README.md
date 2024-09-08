@@ -36,7 +36,7 @@ bash scripts/run.sh
 If you would like other researchers to cite your work, please provide the citation in BibTeX format.
 
 ```bibtex
-@inproceedings{your_project_name_2024,
+@article{PC-COT,
   title={Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models},
   author={Zhenyi Lu #, Jie Tian #, Wei Wei*, Xiaoye Qu, Yu Cheng, Wenfeng Xie, Dangyang Chen},
   booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)},
