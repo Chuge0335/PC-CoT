@@ -1,6 +1,6 @@
 # PC-CoT
 
-This is the official code repository for our paper submitted to ACL Findings 2024, titled "Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models".
+This is the official code repository for [ACL2024 paper: "Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models".](https://arxiv.org/abs/2406.07001)
 
 ## Installation Guide
 
